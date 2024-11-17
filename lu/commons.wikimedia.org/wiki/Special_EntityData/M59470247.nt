@@ -1,0 +1,626 @@
+<https://commons.wikimedia.org/wiki/Special:EntityData/M59470247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Dataset> .
+<https://commons.wikimedia.org/wiki/Special:EntityData/M59470247> <http://schema.org/about> <https://commons.wikimedia.org/entity/M59470247> .
+<https://commons.wikimedia.org/wiki/Special:EntityData/M59470247> <http://creativecommons.org/ns#license> <http://creativecommons.org/publicdomain/zero/1.0/> .
+<https://commons.wikimedia.org/wiki/Special:EntityData/M59470247> <http://schema.org/softwareVersion> "1.0.0" .
+<https://commons.wikimedia.org/wiki/Special:EntityData/M59470247> <http://schema.org/version> "912090520"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://commons.wikimedia.org/wiki/Special:EntityData/M59470247> <http://schema.org/dateModified> "2024-08-18T20:13:15Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://commons.wikimedia.org/entity/M59470247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Mediainfo> .
+<https://commons.wikimedia.org/entity/M59470247> <http://www.wikidata.org/prop/direct/P571> "2016-09-20T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://commons.wikimedia.org/entity/M59470247> <http://www.wikidata.org/prop/direct/P7482> <http://www.wikidata.org/entity/Q66458942> .
+<https://commons.wikimedia.org/entity/M59470247> <http://www.wikidata.org/prop/direct/P170> _:e890df273f6368e2a982a72452f3a73a .
+<https://commons.wikimedia.org/entity/M59470247> <http://www.wikidata.org/prop/direct/P6216> <http://www.wikidata.org/entity/Q50423863> .
+<https://commons.wikimedia.org/entity/M59470247> <http://www.wikidata.org/prop/direct/P275> <http://www.wikidata.org/entity/Q18199165> .
+<https://commons.wikimedia.org/entity/M59470247> <http://www.wikidata.org/prop/direct/P1344> <http://www.wikidata.org/entity/Q98751859> .
+<https://commons.wikimedia.org/entity/M59470247> <http://www.wikidata.org/prop/direct/P1163> "image/jpeg" .
+<https://commons.wikimedia.org/entity/M59470247> <http://www.wikidata.org/prop/direct/P4092> "d89f314094518151641c8af25b0cfb989c7afd92" .
+<https://commons.wikimedia.org/entity/M59470247> <http://www.wikidata.org/prop/direct/P3575> "+122067"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<https://commons.wikimedia.org/entity/M59470247> <http://www.wikidata.org/prop/direct/P2048> "+1148"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<https://commons.wikimedia.org/entity/M59470247> <http://www.wikidata.org/prop/direct/P2049> "+2048"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<https://commons.wikimedia.org/entity/M59470247> <http://www.wikidata.org/prop/direct/P10408> <http://www.wikidata.org/entity/Q124620434> .
+<https://commons.wikimedia.org/entity/M59470247> <http://www.wikidata.org/prop/P571> <https://commons.wikimedia.org/entity/statement/M59470247-DFBAE753-6844-4EAF-A564-3B660FB017E2> .
+<https://commons.wikimedia.org/entity/statement/M59470247-DFBAE753-6844-4EAF-A564-3B660FB017E2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Statement> .
+<https://commons.wikimedia.org/entity/statement/M59470247-DFBAE753-6844-4EAF-A564-3B660FB017E2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#BestRank> .
+<https://commons.wikimedia.org/entity/statement/M59470247-DFBAE753-6844-4EAF-A564-3B660FB017E2> <http://wikiba.se/ontology#rank> <http://wikiba.se/ontology#NormalRank> .
+<https://commons.wikimedia.org/entity/statement/M59470247-DFBAE753-6844-4EAF-A564-3B660FB017E2> <http://www.wikidata.org/prop/statement/P571> "2016-09-20T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://commons.wikimedia.org/entity/statement/M59470247-DFBAE753-6844-4EAF-A564-3B660FB017E2> <http://www.wikidata.org/prop/statement/value/P571> <https://commons.wikimedia.org/value/85060a24c99d5c381df52e313ba8de18> .
+<https://commons.wikimedia.org/entity/M59470247> <http://www.wikidata.org/prop/P7482> <https://commons.wikimedia.org/entity/statement/M59470247-84212E91-202D-4D80-93AB-30CB10B610E5> .
+<https://commons.wikimedia.org/entity/statement/M59470247-84212E91-202D-4D80-93AB-30CB10B610E5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Statement> .
+<https://commons.wikimedia.org/entity/statement/M59470247-84212E91-202D-4D80-93AB-30CB10B610E5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#BestRank> .
+<https://commons.wikimedia.org/entity/statement/M59470247-84212E91-202D-4D80-93AB-30CB10B610E5> <http://wikiba.se/ontology#rank> <http://wikiba.se/ontology#NormalRank> .
+<https://commons.wikimedia.org/entity/statement/M59470247-84212E91-202D-4D80-93AB-30CB10B610E5> <http://www.wikidata.org/prop/statement/P7482> <http://www.wikidata.org/entity/Q66458942> .
+<https://commons.wikimedia.org/entity/M59470247> <http://www.wikidata.org/prop/P170> <https://commons.wikimedia.org/entity/statement/M59470247-D9F25CF5-1CEB-4546-AEC4-FFE36A8D8D3B> .
+<https://commons.wikimedia.org/entity/statement/M59470247-D9F25CF5-1CEB-4546-AEC4-FFE36A8D8D3B> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Statement> .
+<https://commons.wikimedia.org/entity/statement/M59470247-D9F25CF5-1CEB-4546-AEC4-FFE36A8D8D3B> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#BestRank> .
+<https://commons.wikimedia.org/entity/statement/M59470247-D9F25CF5-1CEB-4546-AEC4-FFE36A8D8D3B> <http://wikiba.se/ontology#rank> <http://wikiba.se/ontology#NormalRank> .
+<https://commons.wikimedia.org/entity/statement/M59470247-D9F25CF5-1CEB-4546-AEC4-FFE36A8D8D3B> <http://www.wikidata.org/prop/statement/P170> _:b7016c077fc6c1134a6cbba132920791 .
+<https://commons.wikimedia.org/entity/statement/M59470247-D9F25CF5-1CEB-4546-AEC4-FFE36A8D8D3B> <http://www.wikidata.org/prop/qualifier/P3831> <http://www.wikidata.org/entity/Q33231> .
+<https://commons.wikimedia.org/entity/statement/M59470247-D9F25CF5-1CEB-4546-AEC4-FFE36A8D8D3B> <http://www.wikidata.org/prop/qualifier/P2093> "Ramesh Kumar R" .
+<https://commons.wikimedia.org/entity/statement/M59470247-D9F25CF5-1CEB-4546-AEC4-FFE36A8D8D3B> <http://www.wikidata.org/prop/qualifier/P4174> "Rampapz" .
+<https://commons.wikimedia.org/entity/M59470247> <http://www.wikidata.org/prop/P6216> <https://commons.wikimedia.org/entity/statement/M59470247-69803786-70E0-4C42-BEAB-D4CF8DFC85AC> .
+<https://commons.wikimedia.org/entity/statement/M59470247-69803786-70E0-4C42-BEAB-D4CF8DFC85AC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Statement> .
+<https://commons.wikimedia.org/entity/statement/M59470247-69803786-70E0-4C42-BEAB-D4CF8DFC85AC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#BestRank> .
+<https://commons.wikimedia.org/entity/statement/M59470247-69803786-70E0-4C42-BEAB-D4CF8DFC85AC> <http://wikiba.se/ontology#rank> <http://wikiba.se/ontology#NormalRank> .
+<https://commons.wikimedia.org/entity/statement/M59470247-69803786-70E0-4C42-BEAB-D4CF8DFC85AC> <http://www.wikidata.org/prop/statement/P6216> <http://www.wikidata.org/entity/Q50423863> .
+<https://commons.wikimedia.org/entity/M59470247> <http://www.wikidata.org/prop/P275> <https://commons.wikimedia.org/entity/statement/M59470247-4F1830B3-ED85-4929-B30A-6531D2113BAC> .
+<https://commons.wikimedia.org/entity/statement/M59470247-4F1830B3-ED85-4929-B30A-6531D2113BAC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Statement> .
+<https://commons.wikimedia.org/entity/statement/M59470247-4F1830B3-ED85-4929-B30A-6531D2113BAC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#BestRank> .
+<https://commons.wikimedia.org/entity/statement/M59470247-4F1830B3-ED85-4929-B30A-6531D2113BAC> <http://wikiba.se/ontology#rank> <http://wikiba.se/ontology#NormalRank> .
+<https://commons.wikimedia.org/entity/statement/M59470247-4F1830B3-ED85-4929-B30A-6531D2113BAC> <http://www.wikidata.org/prop/statement/P275> <http://www.wikidata.org/entity/Q18199165> .
+<https://commons.wikimedia.org/entity/M59470247> <http://www.wikidata.org/prop/P1344> <https://commons.wikimedia.org/entity/statement/M59470247-16A68C39-D28B-4BFF-9F31-431811BB826F> .
+<https://commons.wikimedia.org/entity/statement/M59470247-16A68C39-D28B-4BFF-9F31-431811BB826F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Statement> .
+<https://commons.wikimedia.org/entity/statement/M59470247-16A68C39-D28B-4BFF-9F31-431811BB826F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#BestRank> .
+<https://commons.wikimedia.org/entity/statement/M59470247-16A68C39-D28B-4BFF-9F31-431811BB826F> <http://wikiba.se/ontology#rank> <http://wikiba.se/ontology#NormalRank> .
+<https://commons.wikimedia.org/entity/statement/M59470247-16A68C39-D28B-4BFF-9F31-431811BB826F> <http://www.wikidata.org/prop/statement/P1344> <http://www.wikidata.org/entity/Q98751859> .
+<https://commons.wikimedia.org/entity/M59470247> <http://www.wikidata.org/prop/P1163> <https://commons.wikimedia.org/entity/statement/M59470247-56BEE3C3-9D8D-49C5-A4A0-186C0F8734D7> .
+<https://commons.wikimedia.org/entity/statement/M59470247-56BEE3C3-9D8D-49C5-A4A0-186C0F8734D7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Statement> .
+<https://commons.wikimedia.org/entity/statement/M59470247-56BEE3C3-9D8D-49C5-A4A0-186C0F8734D7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#BestRank> .
+<https://commons.wikimedia.org/entity/statement/M59470247-56BEE3C3-9D8D-49C5-A4A0-186C0F8734D7> <http://wikiba.se/ontology#rank> <http://wikiba.se/ontology#NormalRank> .
+<https://commons.wikimedia.org/entity/statement/M59470247-56BEE3C3-9D8D-49C5-A4A0-186C0F8734D7> <http://www.wikidata.org/prop/statement/P1163> "image/jpeg" .
+<https://commons.wikimedia.org/entity/M59470247> <http://www.wikidata.org/prop/P4092> <https://commons.wikimedia.org/entity/statement/M59470247-1215E5F1-7095-4491-89C7-E639A936835A> .
+<https://commons.wikimedia.org/entity/statement/M59470247-1215E5F1-7095-4491-89C7-E639A936835A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Statement> .
+<https://commons.wikimedia.org/entity/statement/M59470247-1215E5F1-7095-4491-89C7-E639A936835A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#BestRank> .
+<https://commons.wikimedia.org/entity/statement/M59470247-1215E5F1-7095-4491-89C7-E639A936835A> <http://wikiba.se/ontology#rank> <http://wikiba.se/ontology#NormalRank> .
+<https://commons.wikimedia.org/entity/statement/M59470247-1215E5F1-7095-4491-89C7-E639A936835A> <http://www.wikidata.org/prop/statement/P4092> "d89f314094518151641c8af25b0cfb989c7afd92" .
+<https://commons.wikimedia.org/entity/statement/M59470247-1215E5F1-7095-4491-89C7-E639A936835A> <http://www.wikidata.org/prop/qualifier/P459> <http://www.wikidata.org/entity/Q13414952> .
+<https://commons.wikimedia.org/entity/M59470247> <http://www.wikidata.org/prop/P3575> <https://commons.wikimedia.org/entity/statement/M59470247-40772BB7-FCA7-49BC-BB5E-E6353C4716ED> .
+<https://commons.wikimedia.org/entity/statement/M59470247-40772BB7-FCA7-49BC-BB5E-E6353C4716ED> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Statement> .
+<https://commons.wikimedia.org/entity/statement/M59470247-40772BB7-FCA7-49BC-BB5E-E6353C4716ED> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#BestRank> .
+<https://commons.wikimedia.org/entity/statement/M59470247-40772BB7-FCA7-49BC-BB5E-E6353C4716ED> <http://wikiba.se/ontology#rank> <http://wikiba.se/ontology#NormalRank> .
+<https://commons.wikimedia.org/entity/statement/M59470247-40772BB7-FCA7-49BC-BB5E-E6353C4716ED> <http://www.wikidata.org/prop/statement/P3575> "+122067"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<https://commons.wikimedia.org/entity/statement/M59470247-40772BB7-FCA7-49BC-BB5E-E6353C4716ED> <http://www.wikidata.org/prop/statement/value/P3575> <https://commons.wikimedia.org/value/a386438b8aa96bc77d66edb9ac7ac377> .
+<https://commons.wikimedia.org/entity/M59470247> <http://www.wikidata.org/prop/P2048> <https://commons.wikimedia.org/entity/statement/M59470247-AF43FD83-E477-431F-8FB2-8A1B3BE6137F> .
+<https://commons.wikimedia.org/entity/statement/M59470247-AF43FD83-E477-431F-8FB2-8A1B3BE6137F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Statement> .
+<https://commons.wikimedia.org/entity/statement/M59470247-AF43FD83-E477-431F-8FB2-8A1B3BE6137F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#BestRank> .
+<https://commons.wikimedia.org/entity/statement/M59470247-AF43FD83-E477-431F-8FB2-8A1B3BE6137F> <http://wikiba.se/ontology#rank> <http://wikiba.se/ontology#NormalRank> .
+<https://commons.wikimedia.org/entity/statement/M59470247-AF43FD83-E477-431F-8FB2-8A1B3BE6137F> <http://www.wikidata.org/prop/statement/P2048> "+1148"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<https://commons.wikimedia.org/entity/statement/M59470247-AF43FD83-E477-431F-8FB2-8A1B3BE6137F> <http://www.wikidata.org/prop/statement/value/P2048> <https://commons.wikimedia.org/value/7902b3be7468da013317c941c873c001> .
+<https://commons.wikimedia.org/entity/M59470247> <http://www.wikidata.org/prop/P2049> <https://commons.wikimedia.org/entity/statement/M59470247-952DB62A-66C1-480E-9835-F060A54661DC> .
+<https://commons.wikimedia.org/entity/statement/M59470247-952DB62A-66C1-480E-9835-F060A54661DC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Statement> .
+<https://commons.wikimedia.org/entity/statement/M59470247-952DB62A-66C1-480E-9835-F060A54661DC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#BestRank> .
+<https://commons.wikimedia.org/entity/statement/M59470247-952DB62A-66C1-480E-9835-F060A54661DC> <http://wikiba.se/ontology#rank> <http://wikiba.se/ontology#NormalRank> .
+<https://commons.wikimedia.org/entity/statement/M59470247-952DB62A-66C1-480E-9835-F060A54661DC> <http://www.wikidata.org/prop/statement/P2049> "+2048"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<https://commons.wikimedia.org/entity/statement/M59470247-952DB62A-66C1-480E-9835-F060A54661DC> <http://www.wikidata.org/prop/statement/value/P2049> <https://commons.wikimedia.org/value/ca506b1754f699d91d6bad16cacf9922> .
+<https://commons.wikimedia.org/entity/M59470247> <http://www.wikidata.org/prop/P10408> <https://commons.wikimedia.org/entity/statement/M59470247-CE482359-BA1C-42EF-B012-0615FEB22452> .
+<https://commons.wikimedia.org/entity/statement/M59470247-CE482359-BA1C-42EF-B012-0615FEB22452> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Statement> .
+<https://commons.wikimedia.org/entity/statement/M59470247-CE482359-BA1C-42EF-B012-0615FEB22452> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#BestRank> .
+<https://commons.wikimedia.org/entity/statement/M59470247-CE482359-BA1C-42EF-B012-0615FEB22452> <http://wikiba.se/ontology#rank> <http://wikiba.se/ontology#NormalRank> .
+<https://commons.wikimedia.org/entity/statement/M59470247-CE482359-BA1C-42EF-B012-0615FEB22452> <http://www.wikidata.org/prop/statement/P10408> <http://www.wikidata.org/entity/Q124620434> .
+<https://commons.wikimedia.org/entity/M59470247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<https://commons.wikimedia.org/entity/M59470247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<https://commons.wikimedia.org/entity/M59470247> <http://schema.org/encodingFormat> "image/jpeg" .
+<https://commons.wikimedia.org/entity/M59470247> <http://schema.org/contentUrl> <https://upload.wikimedia.org/wikipedia/commons/7/78/Butterfly_Capture.jpg> .
+<https://commons.wikimedia.org/entity/M59470247> <http://schema.org/url> <http://commons.wikimedia.org/wiki/Special:FilePath/Butterfly%20Capture.jpg> .
+<https://commons.wikimedia.org/entity/M59470247> <http://schema.org/contentSize> "122067"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://commons.wikimedia.org/entity/M59470247> <http://schema.org/height> "1148"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://commons.wikimedia.org/entity/M59470247> <http://schema.org/width> "2048"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Property> .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "inception"@en .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "inception"@en .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "inception"@en .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "time when an entity begins to exist; for date of official opening use P1619"@en .
+<http://www.wikidata.org/entity/P571> <http://wikiba.se/ontology#propertyType> <http://wikiba.se/ontology#Time> .
+<http://www.wikidata.org/entity/P571> <http://wikiba.se/ontology#directClaim> <http://www.wikidata.org/prop/direct/P571> .
+<http://www.wikidata.org/entity/P571> <http://wikiba.se/ontology#claim> <http://www.wikidata.org/prop/P571> .
+<http://www.wikidata.org/entity/P571> <http://wikiba.se/ontology#statementProperty> <http://www.wikidata.org/prop/statement/P571> .
+<http://www.wikidata.org/entity/P571> <http://wikiba.se/ontology#statementValue> <http://www.wikidata.org/prop/statement/value/P571> .
+<http://www.wikidata.org/entity/P571> <http://wikiba.se/ontology#qualifier> <http://www.wikidata.org/prop/qualifier/P571> .
+<http://www.wikidata.org/entity/P571> <http://wikiba.se/ontology#qualifierValue> <http://www.wikidata.org/prop/qualifier/value/P571> .
+<http://www.wikidata.org/entity/P571> <http://wikiba.se/ontology#reference> <http://www.wikidata.org/prop/reference/P571> .
+<http://www.wikidata.org/entity/P571> <http://wikiba.se/ontology#referenceValue> <http://www.wikidata.org/prop/reference/value/P571> .
+<http://www.wikidata.org/entity/P571> <http://wikiba.se/ontology#novalue> <http://www.wikidata.org/prop/novalue/P571> .
+<http://www.wikidata.org/prop/P571> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/statement/value/P571> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/qualifier/value/P571> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/reference/value/P571> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/direct/P571> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/statement/P571> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/qualifier/P571> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/reference/P571> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/novalue/P571> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.wikidata.org/prop/novalue/P571> <http://www.w3.org/2002/07/owl#complementOf> _:ed4d9507645e2210d8e4ed14d3266267 .
+_:ed4d9507645e2210d8e4ed14d3266267 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:ed4d9507645e2210d8e4ed14d3266267 <http://www.w3.org/2002/07/owl#onProperty> <http://www.wikidata.org/prop/direct/P571> .
+_:ed4d9507645e2210d8e4ed14d3266267 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.w3.org/2002/07/owl#Thing> .
+<http://www.wikidata.org/entity/Q66458942> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Item> .
+<http://www.wikidata.org/entity/Q66458942> <http://www.w3.org/2000/01/rdf-schema#label> "original creation by uploader"@en .
+<http://www.wikidata.org/entity/Q66458942> <http://www.w3.org/2004/02/skos/core#prefLabel> "original creation by uploader"@en .
+<http://www.wikidata.org/entity/Q66458942> <http://schema.org/name> "original creation by uploader"@en .
+<http://www.wikidata.org/entity/Q66458942> <http://schema.org/description> "value to indicate source of an image on Wikimedia Commons"@en .
+<http://www.wikidata.org/entity/P7482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Property> .
+<http://www.wikidata.org/entity/P7482> <http://www.w3.org/2000/01/rdf-schema#label> "source of file"@en .
+<http://www.wikidata.org/entity/P7482> <http://www.w3.org/2004/02/skos/core#prefLabel> "source of file"@en .
+<http://www.wikidata.org/entity/P7482> <http://schema.org/name> "source of file"@en .
+<http://www.wikidata.org/entity/P7482> <http://schema.org/description> "broad nature of the origin of the file"@en .
+<http://www.wikidata.org/entity/P7482> <http://wikiba.se/ontology#propertyType> <http://wikiba.se/ontology#WikibaseItem> .
+<http://www.wikidata.org/entity/P7482> <http://wikiba.se/ontology#directClaim> <http://www.wikidata.org/prop/direct/P7482> .
+<http://www.wikidata.org/entity/P7482> <http://wikiba.se/ontology#claim> <http://www.wikidata.org/prop/P7482> .
+<http://www.wikidata.org/entity/P7482> <http://wikiba.se/ontology#statementProperty> <http://www.wikidata.org/prop/statement/P7482> .
+<http://www.wikidata.org/entity/P7482> <http://wikiba.se/ontology#statementValue> <http://www.wikidata.org/prop/statement/value/P7482> .
+<http://www.wikidata.org/entity/P7482> <http://wikiba.se/ontology#qualifier> <http://www.wikidata.org/prop/qualifier/P7482> .
+<http://www.wikidata.org/entity/P7482> <http://wikiba.se/ontology#qualifierValue> <http://www.wikidata.org/prop/qualifier/value/P7482> .
+<http://www.wikidata.org/entity/P7482> <http://wikiba.se/ontology#reference> <http://www.wikidata.org/prop/reference/P7482> .
+<http://www.wikidata.org/entity/P7482> <http://wikiba.se/ontology#referenceValue> <http://www.wikidata.org/prop/reference/value/P7482> .
+<http://www.wikidata.org/entity/P7482> <http://wikiba.se/ontology#novalue> <http://www.wikidata.org/prop/novalue/P7482> .
+<http://www.wikidata.org/prop/P7482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/statement/value/P7482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/qualifier/value/P7482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/reference/value/P7482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/direct/P7482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/statement/P7482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/qualifier/P7482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/reference/P7482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/novalue/P7482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.wikidata.org/prop/novalue/P7482> <http://www.w3.org/2002/07/owl#complementOf> _:acc493f3ae8de4cf9c16f9963879aa6e .
+_:acc493f3ae8de4cf9c16f9963879aa6e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:acc493f3ae8de4cf9c16f9963879aa6e <http://www.w3.org/2002/07/owl#onProperty> <http://www.wikidata.org/prop/direct/P7482> .
+_:acc493f3ae8de4cf9c16f9963879aa6e <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.w3.org/2002/07/owl#Thing> .
+<http://www.wikidata.org/entity/P170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Property> .
+<http://www.wikidata.org/entity/P170> <http://www.w3.org/2000/01/rdf-schema#label> "creator"@en .
+<http://www.wikidata.org/entity/P170> <http://www.w3.org/2004/02/skos/core#prefLabel> "creator"@en .
+<http://www.wikidata.org/entity/P170> <http://schema.org/name> "creator"@en .
+<http://www.wikidata.org/entity/P170> <http://schema.org/description> "maker of this creative work or other object (where no more specific property exists)"@en .
+<http://www.wikidata.org/entity/P170> <http://wikiba.se/ontology#propertyType> <http://wikiba.se/ontology#WikibaseItem> .
+<http://www.wikidata.org/entity/P170> <http://wikiba.se/ontology#directClaim> <http://www.wikidata.org/prop/direct/P170> .
+<http://www.wikidata.org/entity/P170> <http://wikiba.se/ontology#claim> <http://www.wikidata.org/prop/P170> .
+<http://www.wikidata.org/entity/P170> <http://wikiba.se/ontology#statementProperty> <http://www.wikidata.org/prop/statement/P170> .
+<http://www.wikidata.org/entity/P170> <http://wikiba.se/ontology#statementValue> <http://www.wikidata.org/prop/statement/value/P170> .
+<http://www.wikidata.org/entity/P170> <http://wikiba.se/ontology#qualifier> <http://www.wikidata.org/prop/qualifier/P170> .
+<http://www.wikidata.org/entity/P170> <http://wikiba.se/ontology#qualifierValue> <http://www.wikidata.org/prop/qualifier/value/P170> .
+<http://www.wikidata.org/entity/P170> <http://wikiba.se/ontology#reference> <http://www.wikidata.org/prop/reference/P170> .
+<http://www.wikidata.org/entity/P170> <http://wikiba.se/ontology#referenceValue> <http://www.wikidata.org/prop/reference/value/P170> .
+<http://www.wikidata.org/entity/P170> <http://wikiba.se/ontology#novalue> <http://www.wikidata.org/prop/novalue/P170> .
+<http://www.wikidata.org/prop/P170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/statement/value/P170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/qualifier/value/P170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/reference/value/P170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/direct/P170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/statement/P170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/qualifier/P170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/reference/P170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/novalue/P170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.wikidata.org/prop/novalue/P170> <http://www.w3.org/2002/07/owl#complementOf> _:9729a2092eee6702e50f1adf021a63b5 .
+_:9729a2092eee6702e50f1adf021a63b5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:9729a2092eee6702e50f1adf021a63b5 <http://www.w3.org/2002/07/owl#onProperty> <http://www.wikidata.org/prop/direct/P170> .
+_:9729a2092eee6702e50f1adf021a63b5 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.w3.org/2002/07/owl#Thing> .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Item> .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "copyrighted"@en .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "copyrighted"@en .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "copyrighted"@en .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/description> "legal state of a work as recognised as an intellectual property of an entity"@en .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Property> .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "copyright status"@en .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "copyright status"@en .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "copyright status"@en .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/description> "copyright status for intellectual creations like works of art, publications, software, etc."@en .
+<http://www.wikidata.org/entity/P6216> <http://wikiba.se/ontology#propertyType> <http://wikiba.se/ontology#WikibaseItem> .
+<http://www.wikidata.org/entity/P6216> <http://wikiba.se/ontology#directClaim> <http://www.wikidata.org/prop/direct/P6216> .
+<http://www.wikidata.org/entity/P6216> <http://wikiba.se/ontology#claim> <http://www.wikidata.org/prop/P6216> .
+<http://www.wikidata.org/entity/P6216> <http://wikiba.se/ontology#statementProperty> <http://www.wikidata.org/prop/statement/P6216> .
+<http://www.wikidata.org/entity/P6216> <http://wikiba.se/ontology#statementValue> <http://www.wikidata.org/prop/statement/value/P6216> .
+<http://www.wikidata.org/entity/P6216> <http://wikiba.se/ontology#qualifier> <http://www.wikidata.org/prop/qualifier/P6216> .
+<http://www.wikidata.org/entity/P6216> <http://wikiba.se/ontology#qualifierValue> <http://www.wikidata.org/prop/qualifier/value/P6216> .
+<http://www.wikidata.org/entity/P6216> <http://wikiba.se/ontology#reference> <http://www.wikidata.org/prop/reference/P6216> .
+<http://www.wikidata.org/entity/P6216> <http://wikiba.se/ontology#referenceValue> <http://www.wikidata.org/prop/reference/value/P6216> .
+<http://www.wikidata.org/entity/P6216> <http://wikiba.se/ontology#novalue> <http://www.wikidata.org/prop/novalue/P6216> .
+<http://www.wikidata.org/prop/P6216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/statement/value/P6216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/qualifier/value/P6216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/reference/value/P6216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/direct/P6216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/statement/P6216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/qualifier/P6216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/reference/P6216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/novalue/P6216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.wikidata.org/prop/novalue/P6216> <http://www.w3.org/2002/07/owl#complementOf> _:b1252803b14cb4551e630f41e1deba59 .
+_:b1252803b14cb4551e630f41e1deba59 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:b1252803b14cb4551e630f41e1deba59 <http://www.w3.org/2002/07/owl#onProperty> <http://www.wikidata.org/prop/direct/P6216> .
+_:b1252803b14cb4551e630f41e1deba59 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.w3.org/2002/07/owl#Thing> .
+<http://www.wikidata.org/entity/Q18199165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Item> .
+<http://www.wikidata.org/entity/Q18199165> <http://www.w3.org/2000/01/rdf-schema#label> "Creative Commons Attribution-ShareAlike 4.0 International"@en .
+<http://www.wikidata.org/entity/Q18199165> <http://www.w3.org/2004/02/skos/core#prefLabel> "Creative Commons Attribution-ShareAlike 4.0 International"@en .
+<http://www.wikidata.org/entity/Q18199165> <http://schema.org/name> "Creative Commons Attribution-ShareAlike 4.0 International"@en .
+<http://www.wikidata.org/entity/Q18199165> <http://schema.org/description> "Creative Commons license"@en .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Property> .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "copyright license"@en .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "copyright license"@en .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "copyright license"@en .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "license under which this copyrighted work is released"@en .
+<http://www.wikidata.org/entity/P275> <http://wikiba.se/ontology#propertyType> <http://wikiba.se/ontology#WikibaseItem> .
+<http://www.wikidata.org/entity/P275> <http://wikiba.se/ontology#directClaim> <http://www.wikidata.org/prop/direct/P275> .
+<http://www.wikidata.org/entity/P275> <http://wikiba.se/ontology#claim> <http://www.wikidata.org/prop/P275> .
+<http://www.wikidata.org/entity/P275> <http://wikiba.se/ontology#statementProperty> <http://www.wikidata.org/prop/statement/P275> .
+<http://www.wikidata.org/entity/P275> <http://wikiba.se/ontology#statementValue> <http://www.wikidata.org/prop/statement/value/P275> .
+<http://www.wikidata.org/entity/P275> <http://wikiba.se/ontology#qualifier> <http://www.wikidata.org/prop/qualifier/P275> .
+<http://www.wikidata.org/entity/P275> <http://wikiba.se/ontology#qualifierValue> <http://www.wikidata.org/prop/qualifier/value/P275> .
+<http://www.wikidata.org/entity/P275> <http://wikiba.se/ontology#reference> <http://www.wikidata.org/prop/reference/P275> .
+<http://www.wikidata.org/entity/P275> <http://wikiba.se/ontology#referenceValue> <http://www.wikidata.org/prop/reference/value/P275> .
+<http://www.wikidata.org/entity/P275> <http://wikiba.se/ontology#novalue> <http://www.wikidata.org/prop/novalue/P275> .
+<http://www.wikidata.org/prop/P275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/statement/value/P275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/qualifier/value/P275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/reference/value/P275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/direct/P275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/statement/P275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/qualifier/P275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/reference/P275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/novalue/P275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.wikidata.org/prop/novalue/P275> <http://www.w3.org/2002/07/owl#complementOf> _:298aabdb0974253ac321b0308875c924 .
+_:298aabdb0974253ac321b0308875c924 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:298aabdb0974253ac321b0308875c924 <http://www.w3.org/2002/07/owl#onProperty> <http://www.wikidata.org/prop/direct/P275> .
+_:298aabdb0974253ac321b0308875c924 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.w3.org/2002/07/owl#Thing> .
+<http://www.wikidata.org/entity/Q98751859> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Item> .
+<http://www.wikidata.org/entity/Q98751859> <http://www.w3.org/2000/01/rdf-schema#label> "Wiki Loves Earth 2017"@en .
+<http://www.wikidata.org/entity/Q98751859> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wiki Loves Earth 2017"@en .
+<http://www.wikidata.org/entity/Q98751859> <http://schema.org/name> "Wiki Loves Earth 2017"@en .
+<http://www.wikidata.org/entity/Q98751859> <http://schema.org/description> "international photo competition on natural monuments and nature reserves 2017"@en .
+<http://www.wikidata.org/entity/P1344> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Property> .
+<http://www.wikidata.org/entity/P1344> <http://www.w3.org/2000/01/rdf-schema#label> "participant in"@en .
+<http://www.wikidata.org/entity/P1344> <http://www.w3.org/2004/02/skos/core#prefLabel> "participant in"@en .
+<http://www.wikidata.org/entity/P1344> <http://schema.org/name> "participant in"@en .
+<http://www.wikidata.org/entity/P1344> <http://schema.org/description> "event in which a person or organization was/is a participant; inverse of P710 or P1923"@en .
+<http://www.wikidata.org/entity/P1344> <http://wikiba.se/ontology#propertyType> <http://wikiba.se/ontology#WikibaseItem> .
+<http://www.wikidata.org/entity/P1344> <http://wikiba.se/ontology#directClaim> <http://www.wikidata.org/prop/direct/P1344> .
+<http://www.wikidata.org/entity/P1344> <http://wikiba.se/ontology#claim> <http://www.wikidata.org/prop/P1344> .
+<http://www.wikidata.org/entity/P1344> <http://wikiba.se/ontology#statementProperty> <http://www.wikidata.org/prop/statement/P1344> .
+<http://www.wikidata.org/entity/P1344> <http://wikiba.se/ontology#statementValue> <http://www.wikidata.org/prop/statement/value/P1344> .
+<http://www.wikidata.org/entity/P1344> <http://wikiba.se/ontology#qualifier> <http://www.wikidata.org/prop/qualifier/P1344> .
+<http://www.wikidata.org/entity/P1344> <http://wikiba.se/ontology#qualifierValue> <http://www.wikidata.org/prop/qualifier/value/P1344> .
+<http://www.wikidata.org/entity/P1344> <http://wikiba.se/ontology#reference> <http://www.wikidata.org/prop/reference/P1344> .
+<http://www.wikidata.org/entity/P1344> <http://wikiba.se/ontology#referenceValue> <http://www.wikidata.org/prop/reference/value/P1344> .
+<http://www.wikidata.org/entity/P1344> <http://wikiba.se/ontology#novalue> <http://www.wikidata.org/prop/novalue/P1344> .
+<http://www.wikidata.org/prop/P1344> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/statement/value/P1344> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/qualifier/value/P1344> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/reference/value/P1344> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/direct/P1344> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/statement/P1344> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/qualifier/P1344> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/reference/P1344> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/novalue/P1344> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.wikidata.org/prop/novalue/P1344> <http://www.w3.org/2002/07/owl#complementOf> _:263bd999e1f3023cc71ba3062434f7cd .
+_:263bd999e1f3023cc71ba3062434f7cd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:263bd999e1f3023cc71ba3062434f7cd <http://www.w3.org/2002/07/owl#onProperty> <http://www.wikidata.org/prop/direct/P1344> .
+_:263bd999e1f3023cc71ba3062434f7cd <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.w3.org/2002/07/owl#Thing> .
+<http://www.wikidata.org/entity/P1163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Property> .
+<http://www.wikidata.org/entity/P1163> <http://www.w3.org/2000/01/rdf-schema#label> "media type"@en .
+<http://www.wikidata.org/entity/P1163> <http://www.w3.org/2004/02/skos/core#prefLabel> "media type"@en .
+<http://www.wikidata.org/entity/P1163> <http://schema.org/name> "media type"@en .
+<http://www.wikidata.org/entity/P1163> <http://schema.org/description> "IANA-registered identifier for a file type"@en .
+<http://www.wikidata.org/entity/P1163> <http://wikiba.se/ontology#propertyType> <http://wikiba.se/ontology#String> .
+<http://www.wikidata.org/entity/P1163> <http://wikiba.se/ontology#directClaim> <http://www.wikidata.org/prop/direct/P1163> .
+<http://www.wikidata.org/entity/P1163> <http://wikiba.se/ontology#claim> <http://www.wikidata.org/prop/P1163> .
+<http://www.wikidata.org/entity/P1163> <http://wikiba.se/ontology#statementProperty> <http://www.wikidata.org/prop/statement/P1163> .
+<http://www.wikidata.org/entity/P1163> <http://wikiba.se/ontology#statementValue> <http://www.wikidata.org/prop/statement/value/P1163> .
+<http://www.wikidata.org/entity/P1163> <http://wikiba.se/ontology#qualifier> <http://www.wikidata.org/prop/qualifier/P1163> .
+<http://www.wikidata.org/entity/P1163> <http://wikiba.se/ontology#qualifierValue> <http://www.wikidata.org/prop/qualifier/value/P1163> .
+<http://www.wikidata.org/entity/P1163> <http://wikiba.se/ontology#reference> <http://www.wikidata.org/prop/reference/P1163> .
+<http://www.wikidata.org/entity/P1163> <http://wikiba.se/ontology#referenceValue> <http://www.wikidata.org/prop/reference/value/P1163> .
+<http://www.wikidata.org/entity/P1163> <http://wikiba.se/ontology#novalue> <http://www.wikidata.org/prop/novalue/P1163> .
+<http://www.wikidata.org/prop/P1163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/statement/value/P1163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/qualifier/value/P1163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/reference/value/P1163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/direct/P1163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/statement/P1163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/qualifier/P1163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/reference/P1163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/novalue/P1163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.wikidata.org/prop/novalue/P1163> <http://www.w3.org/2002/07/owl#complementOf> _:704e62989d8eb9df732666f92fa84714 .
+_:704e62989d8eb9df732666f92fa84714 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:704e62989d8eb9df732666f92fa84714 <http://www.w3.org/2002/07/owl#onProperty> <http://www.wikidata.org/prop/direct/P1163> .
+_:704e62989d8eb9df732666f92fa84714 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.w3.org/2002/07/owl#Thing> .
+<http://www.wikidata.org/entity/P4092> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Property> .
+<http://www.wikidata.org/entity/P4092> <http://www.w3.org/2000/01/rdf-schema#label> "checksum"@en .
+<http://www.wikidata.org/entity/P4092> <http://www.w3.org/2004/02/skos/core#prefLabel> "checksum"@en .
+<http://www.wikidata.org/entity/P4092> <http://schema.org/name> "checksum"@en .
+<http://www.wikidata.org/entity/P4092> <http://schema.org/description> "small-sized datum derived from a block of digital data for the purpose of detecting errors. Use qualifier \"determination method\" (P459) to indicate how it's calculated, e.g. MD5."@en .
+<http://www.wikidata.org/entity/P4092> <http://wikiba.se/ontology#propertyType> <http://wikiba.se/ontology#String> .
+<http://www.wikidata.org/entity/P4092> <http://wikiba.se/ontology#directClaim> <http://www.wikidata.org/prop/direct/P4092> .
+<http://www.wikidata.org/entity/P4092> <http://wikiba.se/ontology#claim> <http://www.wikidata.org/prop/P4092> .
+<http://www.wikidata.org/entity/P4092> <http://wikiba.se/ontology#statementProperty> <http://www.wikidata.org/prop/statement/P4092> .
+<http://www.wikidata.org/entity/P4092> <http://wikiba.se/ontology#statementValue> <http://www.wikidata.org/prop/statement/value/P4092> .
+<http://www.wikidata.org/entity/P4092> <http://wikiba.se/ontology#qualifier> <http://www.wikidata.org/prop/qualifier/P4092> .
+<http://www.wikidata.org/entity/P4092> <http://wikiba.se/ontology#qualifierValue> <http://www.wikidata.org/prop/qualifier/value/P4092> .
+<http://www.wikidata.org/entity/P4092> <http://wikiba.se/ontology#reference> <http://www.wikidata.org/prop/reference/P4092> .
+<http://www.wikidata.org/entity/P4092> <http://wikiba.se/ontology#referenceValue> <http://www.wikidata.org/prop/reference/value/P4092> .
+<http://www.wikidata.org/entity/P4092> <http://wikiba.se/ontology#novalue> <http://www.wikidata.org/prop/novalue/P4092> .
+<http://www.wikidata.org/prop/P4092> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/statement/value/P4092> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/qualifier/value/P4092> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/reference/value/P4092> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/direct/P4092> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/statement/P4092> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/qualifier/P4092> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/reference/P4092> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/novalue/P4092> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.wikidata.org/prop/novalue/P4092> <http://www.w3.org/2002/07/owl#complementOf> _:6d4307bb92af815977a58e72cb8245cd .
+_:6d4307bb92af815977a58e72cb8245cd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:6d4307bb92af815977a58e72cb8245cd <http://www.w3.org/2002/07/owl#onProperty> <http://www.wikidata.org/prop/direct/P4092> .
+_:6d4307bb92af815977a58e72cb8245cd <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.w3.org/2002/07/owl#Thing> .
+<http://www.wikidata.org/entity/P3575> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Property> .
+<http://www.wikidata.org/entity/P3575> <http://www.w3.org/2000/01/rdf-schema#label> "data size"@en .
+<http://www.wikidata.org/entity/P3575> <http://www.w3.org/2004/02/skos/core#prefLabel> "data size"@en .
+<http://www.wikidata.org/entity/P3575> <http://schema.org/name> "data size"@en .
+<http://www.wikidata.org/entity/P3575> <http://schema.org/description> "size of a software, dataset, neural network, or individual file"@en .
+<http://www.wikidata.org/entity/P3575> <http://wikiba.se/ontology#propertyType> <http://wikiba.se/ontology#Quantity> .
+<http://www.wikidata.org/entity/P3575> <http://wikiba.se/ontology#directClaim> <http://www.wikidata.org/prop/direct/P3575> .
+<http://www.wikidata.org/entity/P3575> <http://wikiba.se/ontology#claim> <http://www.wikidata.org/prop/P3575> .
+<http://www.wikidata.org/entity/P3575> <http://wikiba.se/ontology#statementProperty> <http://www.wikidata.org/prop/statement/P3575> .
+<http://www.wikidata.org/entity/P3575> <http://wikiba.se/ontology#statementValue> <http://www.wikidata.org/prop/statement/value/P3575> .
+<http://www.wikidata.org/entity/P3575> <http://wikiba.se/ontology#qualifier> <http://www.wikidata.org/prop/qualifier/P3575> .
+<http://www.wikidata.org/entity/P3575> <http://wikiba.se/ontology#qualifierValue> <http://www.wikidata.org/prop/qualifier/value/P3575> .
+<http://www.wikidata.org/entity/P3575> <http://wikiba.se/ontology#reference> <http://www.wikidata.org/prop/reference/P3575> .
+<http://www.wikidata.org/entity/P3575> <http://wikiba.se/ontology#referenceValue> <http://www.wikidata.org/prop/reference/value/P3575> .
+<http://www.wikidata.org/entity/P3575> <http://wikiba.se/ontology#novalue> <http://www.wikidata.org/prop/novalue/P3575> .
+<http://www.wikidata.org/entity/P3575> <http://wikiba.se/ontology#directClaimNormalized> <http://www.wikidata.org/prop/direct-normalized/P3575> .
+<http://www.wikidata.org/entity/P3575> <http://wikiba.se/ontology#statementValueNormalized> <http://www.wikidata.org/prop/statement/value-normalized/P3575> .
+<http://www.wikidata.org/entity/P3575> <http://wikiba.se/ontology#qualifierValueNormalized> <http://www.wikidata.org/prop/qualifier/value-normalized/P3575> .
+<http://www.wikidata.org/entity/P3575> <http://wikiba.se/ontology#referenceValueNormalized> <http://www.wikidata.org/prop/reference/value-normalized/P3575> .
+<http://www.wikidata.org/prop/P3575> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/statement/value/P3575> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/qualifier/value/P3575> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/reference/value/P3575> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/direct/P3575> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/statement/P3575> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/qualifier/P3575> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/reference/P3575> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/statement/value-normalized/P3575> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/qualifier/value-normalized/P3575> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/reference/value-normalized/P3575> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/direct-normalized/P3575> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/novalue/P3575> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.wikidata.org/prop/novalue/P3575> <http://www.w3.org/2002/07/owl#complementOf> _:b624cfad58daea2904a2149304d28205 .
+_:b624cfad58daea2904a2149304d28205 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:b624cfad58daea2904a2149304d28205 <http://www.w3.org/2002/07/owl#onProperty> <http://www.wikidata.org/prop/direct/P3575> .
+_:b624cfad58daea2904a2149304d28205 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.w3.org/2002/07/owl#Thing> .
+<http://www.wikidata.org/entity/P2048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Property> .
+<http://www.wikidata.org/entity/P2048> <http://www.w3.org/2000/01/rdf-schema#label> "height"@en .
+<http://www.wikidata.org/entity/P2048> <http://www.w3.org/2004/02/skos/core#prefLabel> "height"@en .
+<http://www.wikidata.org/entity/P2048> <http://schema.org/name> "height"@en .
+<http://www.wikidata.org/entity/P2048> <http://schema.org/description> "vertical length of an entity"@en .
+<http://www.wikidata.org/entity/P2048> <http://wikiba.se/ontology#propertyType> <http://wikiba.se/ontology#Quantity> .
+<http://www.wikidata.org/entity/P2048> <http://wikiba.se/ontology#directClaim> <http://www.wikidata.org/prop/direct/P2048> .
+<http://www.wikidata.org/entity/P2048> <http://wikiba.se/ontology#claim> <http://www.wikidata.org/prop/P2048> .
+<http://www.wikidata.org/entity/P2048> <http://wikiba.se/ontology#statementProperty> <http://www.wikidata.org/prop/statement/P2048> .
+<http://www.wikidata.org/entity/P2048> <http://wikiba.se/ontology#statementValue> <http://www.wikidata.org/prop/statement/value/P2048> .
+<http://www.wikidata.org/entity/P2048> <http://wikiba.se/ontology#qualifier> <http://www.wikidata.org/prop/qualifier/P2048> .
+<http://www.wikidata.org/entity/P2048> <http://wikiba.se/ontology#qualifierValue> <http://www.wikidata.org/prop/qualifier/value/P2048> .
+<http://www.wikidata.org/entity/P2048> <http://wikiba.se/ontology#reference> <http://www.wikidata.org/prop/reference/P2048> .
+<http://www.wikidata.org/entity/P2048> <http://wikiba.se/ontology#referenceValue> <http://www.wikidata.org/prop/reference/value/P2048> .
+<http://www.wikidata.org/entity/P2048> <http://wikiba.se/ontology#novalue> <http://www.wikidata.org/prop/novalue/P2048> .
+<http://www.wikidata.org/entity/P2048> <http://wikiba.se/ontology#directClaimNormalized> <http://www.wikidata.org/prop/direct-normalized/P2048> .
+<http://www.wikidata.org/entity/P2048> <http://wikiba.se/ontology#statementValueNormalized> <http://www.wikidata.org/prop/statement/value-normalized/P2048> .
+<http://www.wikidata.org/entity/P2048> <http://wikiba.se/ontology#qualifierValueNormalized> <http://www.wikidata.org/prop/qualifier/value-normalized/P2048> .
+<http://www.wikidata.org/entity/P2048> <http://wikiba.se/ontology#referenceValueNormalized> <http://www.wikidata.org/prop/reference/value-normalized/P2048> .
+<http://www.wikidata.org/prop/P2048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/statement/value/P2048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/qualifier/value/P2048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/reference/value/P2048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/direct/P2048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/statement/P2048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/qualifier/P2048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/reference/P2048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/statement/value-normalized/P2048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/qualifier/value-normalized/P2048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/reference/value-normalized/P2048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/direct-normalized/P2048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/novalue/P2048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.wikidata.org/prop/novalue/P2048> <http://www.w3.org/2002/07/owl#complementOf> _:8b9e3c496971ca7a35e1bb77aa490b02 .
+_:8b9e3c496971ca7a35e1bb77aa490b02 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:8b9e3c496971ca7a35e1bb77aa490b02 <http://www.w3.org/2002/07/owl#onProperty> <http://www.wikidata.org/prop/direct/P2048> .
+_:8b9e3c496971ca7a35e1bb77aa490b02 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.w3.org/2002/07/owl#Thing> .
+<http://www.wikidata.org/entity/P2049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Property> .
+<http://www.wikidata.org/entity/P2049> <http://www.w3.org/2000/01/rdf-schema#label> "width"@en .
+<http://www.wikidata.org/entity/P2049> <http://www.w3.org/2004/02/skos/core#prefLabel> "width"@en .
+<http://www.wikidata.org/entity/P2049> <http://schema.org/name> "width"@en .
+<http://www.wikidata.org/entity/P2049> <http://schema.org/description> "width of an object"@en .
+<http://www.wikidata.org/entity/P2049> <http://wikiba.se/ontology#propertyType> <http://wikiba.se/ontology#Quantity> .
+<http://www.wikidata.org/entity/P2049> <http://wikiba.se/ontology#directClaim> <http://www.wikidata.org/prop/direct/P2049> .
+<http://www.wikidata.org/entity/P2049> <http://wikiba.se/ontology#claim> <http://www.wikidata.org/prop/P2049> .
+<http://www.wikidata.org/entity/P2049> <http://wikiba.se/ontology#statementProperty> <http://www.wikidata.org/prop/statement/P2049> .
+<http://www.wikidata.org/entity/P2049> <http://wikiba.se/ontology#statementValue> <http://www.wikidata.org/prop/statement/value/P2049> .
+<http://www.wikidata.org/entity/P2049> <http://wikiba.se/ontology#qualifier> <http://www.wikidata.org/prop/qualifier/P2049> .
+<http://www.wikidata.org/entity/P2049> <http://wikiba.se/ontology#qualifierValue> <http://www.wikidata.org/prop/qualifier/value/P2049> .
+<http://www.wikidata.org/entity/P2049> <http://wikiba.se/ontology#reference> <http://www.wikidata.org/prop/reference/P2049> .
+<http://www.wikidata.org/entity/P2049> <http://wikiba.se/ontology#referenceValue> <http://www.wikidata.org/prop/reference/value/P2049> .
+<http://www.wikidata.org/entity/P2049> <http://wikiba.se/ontology#novalue> <http://www.wikidata.org/prop/novalue/P2049> .
+<http://www.wikidata.org/entity/P2049> <http://wikiba.se/ontology#directClaimNormalized> <http://www.wikidata.org/prop/direct-normalized/P2049> .
+<http://www.wikidata.org/entity/P2049> <http://wikiba.se/ontology#statementValueNormalized> <http://www.wikidata.org/prop/statement/value-normalized/P2049> .
+<http://www.wikidata.org/entity/P2049> <http://wikiba.se/ontology#qualifierValueNormalized> <http://www.wikidata.org/prop/qualifier/value-normalized/P2049> .
+<http://www.wikidata.org/entity/P2049> <http://wikiba.se/ontology#referenceValueNormalized> <http://www.wikidata.org/prop/reference/value-normalized/P2049> .
+<http://www.wikidata.org/prop/P2049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/statement/value/P2049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/qualifier/value/P2049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/reference/value/P2049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/direct/P2049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/statement/P2049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/qualifier/P2049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/reference/P2049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/statement/value-normalized/P2049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/qualifier/value-normalized/P2049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/reference/value-normalized/P2049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/direct-normalized/P2049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/novalue/P2049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.wikidata.org/prop/novalue/P2049> <http://www.w3.org/2002/07/owl#complementOf> _:a55ba6e912ddf8da0985e42b4cc289b3 .
+_:a55ba6e912ddf8da0985e42b4cc289b3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:a55ba6e912ddf8da0985e42b4cc289b3 <http://www.w3.org/2002/07/owl#onProperty> <http://www.wikidata.org/prop/direct/P2049> .
+_:a55ba6e912ddf8da0985e42b4cc289b3 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.w3.org/2002/07/owl#Thing> .
+<http://www.wikidata.org/entity/Q124620434> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Item> .
+<http://www.wikidata.org/entity/Q124620434> <http://www.w3.org/2000/01/rdf-schema#label> "Wiki Loves Earth 2017 in India"@en .
+<http://www.wikidata.org/entity/Q124620434> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wiki Loves Earth 2017 in India"@en .
+<http://www.wikidata.org/entity/Q124620434> <http://schema.org/name> "Wiki Loves Earth 2017 in India"@en .
+<http://www.wikidata.org/entity/P10408> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Property> .
+<http://www.wikidata.org/entity/P10408> <http://www.w3.org/2000/01/rdf-schema#label> "created during"@en .
+<http://www.wikidata.org/entity/P10408> <http://www.w3.org/2004/02/skos/core#prefLabel> "created during"@en .
+<http://www.wikidata.org/entity/P10408> <http://schema.org/name> "created during"@en .
+<http://www.wikidata.org/entity/P10408> <http://schema.org/description> "media file created during a specific event or occurrence (for use on Wikimedia Commons)"@en .
+<http://www.wikidata.org/entity/P10408> <http://wikiba.se/ontology#propertyType> <http://wikiba.se/ontology#WikibaseItem> .
+<http://www.wikidata.org/entity/P10408> <http://wikiba.se/ontology#directClaim> <http://www.wikidata.org/prop/direct/P10408> .
+<http://www.wikidata.org/entity/P10408> <http://wikiba.se/ontology#claim> <http://www.wikidata.org/prop/P10408> .
+<http://www.wikidata.org/entity/P10408> <http://wikiba.se/ontology#statementProperty> <http://www.wikidata.org/prop/statement/P10408> .
+<http://www.wikidata.org/entity/P10408> <http://wikiba.se/ontology#statementValue> <http://www.wikidata.org/prop/statement/value/P10408> .
+<http://www.wikidata.org/entity/P10408> <http://wikiba.se/ontology#qualifier> <http://www.wikidata.org/prop/qualifier/P10408> .
+<http://www.wikidata.org/entity/P10408> <http://wikiba.se/ontology#qualifierValue> <http://www.wikidata.org/prop/qualifier/value/P10408> .
+<http://www.wikidata.org/entity/P10408> <http://wikiba.se/ontology#reference> <http://www.wikidata.org/prop/reference/P10408> .
+<http://www.wikidata.org/entity/P10408> <http://wikiba.se/ontology#referenceValue> <http://www.wikidata.org/prop/reference/value/P10408> .
+<http://www.wikidata.org/entity/P10408> <http://wikiba.se/ontology#novalue> <http://www.wikidata.org/prop/novalue/P10408> .
+<http://www.wikidata.org/prop/P10408> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/statement/value/P10408> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/qualifier/value/P10408> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/reference/value/P10408> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/direct/P10408> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/statement/P10408> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/qualifier/P10408> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/reference/P10408> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/novalue/P10408> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.wikidata.org/prop/novalue/P10408> <http://www.w3.org/2002/07/owl#complementOf> _:b5633afeee498c202c811c446b54eb0a .
+_:b5633afeee498c202c811c446b54eb0a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:b5633afeee498c202c811c446b54eb0a <http://www.w3.org/2002/07/owl#onProperty> <http://www.wikidata.org/prop/direct/P10408> .
+_:b5633afeee498c202c811c446b54eb0a <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.w3.org/2002/07/owl#Thing> .
+<http://www.wikidata.org/entity/Q33231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Item> .
+<http://www.wikidata.org/entity/Q33231> <http://www.w3.org/2000/01/rdf-schema#label> "photographer"@en .
+<http://www.wikidata.org/entity/Q33231> <http://www.w3.org/2004/02/skos/core#prefLabel> "photographer"@en .
+<http://www.wikidata.org/entity/Q33231> <http://schema.org/name> "photographer"@en .
+<http://www.wikidata.org/entity/Q33231> <http://schema.org/description> "person who takes photographs"@en .
+<http://www.wikidata.org/entity/P3831> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Property> .
+<http://www.wikidata.org/entity/P3831> <http://www.w3.org/2000/01/rdf-schema#label> "object of statement has role"@en .
+<http://www.wikidata.org/entity/P3831> <http://www.w3.org/2004/02/skos/core#prefLabel> "object of statement has role"@en .
+<http://www.wikidata.org/entity/P3831> <http://schema.org/name> "object of statement has role"@en .
+<http://www.wikidata.org/entity/P3831> <http://schema.org/description> "(qualifier) role or generic identity of the predicate value/argument of a statement (\"object\") in the context of that statement; for the role of the item the statement is on (\"subject\"), use P2868"@en .
+<http://www.wikidata.org/entity/P3831> <http://wikiba.se/ontology#propertyType> <http://wikiba.se/ontology#WikibaseItem> .
+<http://www.wikidata.org/entity/P3831> <http://wikiba.se/ontology#directClaim> <http://www.wikidata.org/prop/direct/P3831> .
+<http://www.wikidata.org/entity/P3831> <http://wikiba.se/ontology#claim> <http://www.wikidata.org/prop/P3831> .
+<http://www.wikidata.org/entity/P3831> <http://wikiba.se/ontology#statementProperty> <http://www.wikidata.org/prop/statement/P3831> .
+<http://www.wikidata.org/entity/P3831> <http://wikiba.se/ontology#statementValue> <http://www.wikidata.org/prop/statement/value/P3831> .
+<http://www.wikidata.org/entity/P3831> <http://wikiba.se/ontology#qualifier> <http://www.wikidata.org/prop/qualifier/P3831> .
+<http://www.wikidata.org/entity/P3831> <http://wikiba.se/ontology#qualifierValue> <http://www.wikidata.org/prop/qualifier/value/P3831> .
+<http://www.wikidata.org/entity/P3831> <http://wikiba.se/ontology#reference> <http://www.wikidata.org/prop/reference/P3831> .
+<http://www.wikidata.org/entity/P3831> <http://wikiba.se/ontology#referenceValue> <http://www.wikidata.org/prop/reference/value/P3831> .
+<http://www.wikidata.org/entity/P3831> <http://wikiba.se/ontology#novalue> <http://www.wikidata.org/prop/novalue/P3831> .
+<http://www.wikidata.org/prop/P3831> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/statement/value/P3831> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/qualifier/value/P3831> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/reference/value/P3831> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/direct/P3831> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/statement/P3831> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/qualifier/P3831> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/reference/P3831> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/novalue/P3831> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.wikidata.org/prop/novalue/P3831> <http://www.w3.org/2002/07/owl#complementOf> _:4941dbdb9a38c5a500b05366e45fe45d .
+_:4941dbdb9a38c5a500b05366e45fe45d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:4941dbdb9a38c5a500b05366e45fe45d <http://www.w3.org/2002/07/owl#onProperty> <http://www.wikidata.org/prop/direct/P3831> .
+_:4941dbdb9a38c5a500b05366e45fe45d <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.w3.org/2002/07/owl#Thing> .
+<http://www.wikidata.org/entity/P2093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Property> .
+<http://www.wikidata.org/entity/P2093> <http://www.w3.org/2000/01/rdf-schema#label> "author name string"@en .
+<http://www.wikidata.org/entity/P2093> <http://www.w3.org/2004/02/skos/core#prefLabel> "author name string"@en .
+<http://www.wikidata.org/entity/P2093> <http://schema.org/name> "author name string"@en .
+<http://www.wikidata.org/entity/P2093> <http://schema.org/description> "stores unspecified author or editor name for publications; use if Wikidata item for author (P50) or editor (P98) does not exist or is not known. Do not use both."@en .
+<http://www.wikidata.org/entity/P2093> <http://wikiba.se/ontology#propertyType> <http://wikiba.se/ontology#String> .
+<http://www.wikidata.org/entity/P2093> <http://wikiba.se/ontology#directClaim> <http://www.wikidata.org/prop/direct/P2093> .
+<http://www.wikidata.org/entity/P2093> <http://wikiba.se/ontology#claim> <http://www.wikidata.org/prop/P2093> .
+<http://www.wikidata.org/entity/P2093> <http://wikiba.se/ontology#statementProperty> <http://www.wikidata.org/prop/statement/P2093> .
+<http://www.wikidata.org/entity/P2093> <http://wikiba.se/ontology#statementValue> <http://www.wikidata.org/prop/statement/value/P2093> .
+<http://www.wikidata.org/entity/P2093> <http://wikiba.se/ontology#qualifier> <http://www.wikidata.org/prop/qualifier/P2093> .
+<http://www.wikidata.org/entity/P2093> <http://wikiba.se/ontology#qualifierValue> <http://www.wikidata.org/prop/qualifier/value/P2093> .
+<http://www.wikidata.org/entity/P2093> <http://wikiba.se/ontology#reference> <http://www.wikidata.org/prop/reference/P2093> .
+<http://www.wikidata.org/entity/P2093> <http://wikiba.se/ontology#referenceValue> <http://www.wikidata.org/prop/reference/value/P2093> .
+<http://www.wikidata.org/entity/P2093> <http://wikiba.se/ontology#novalue> <http://www.wikidata.org/prop/novalue/P2093> .
+<http://www.wikidata.org/prop/P2093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/statement/value/P2093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/qualifier/value/P2093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/reference/value/P2093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/direct/P2093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/statement/P2093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/qualifier/P2093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/reference/P2093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/novalue/P2093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.wikidata.org/prop/novalue/P2093> <http://www.w3.org/2002/07/owl#complementOf> _:e2221084d358cd9264ccc9b14e2b1f04 .
+_:e2221084d358cd9264ccc9b14e2b1f04 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:e2221084d358cd9264ccc9b14e2b1f04 <http://www.w3.org/2002/07/owl#onProperty> <http://www.wikidata.org/prop/direct/P2093> .
+_:e2221084d358cd9264ccc9b14e2b1f04 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.w3.org/2002/07/owl#Thing> .
+<http://www.wikidata.org/entity/P4174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Property> .
+<http://www.wikidata.org/entity/P4174> <http://www.w3.org/2000/01/rdf-schema#label> "Wikimedia username"@en .
+<http://www.wikidata.org/entity/P4174> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wikimedia username"@en .
+<http://www.wikidata.org/entity/P4174> <http://schema.org/name> "Wikimedia username"@en .
+<http://www.wikidata.org/entity/P4174> <http://schema.org/description> "user name of a person across all Wikimedia projects"@en .
+<http://www.wikidata.org/entity/P4174> <http://wikiba.se/ontology#propertyType> <http://wikiba.se/ontology#ExternalId> .
+<http://www.wikidata.org/entity/P4174> <http://wikiba.se/ontology#directClaim> <http://www.wikidata.org/prop/direct/P4174> .
+<http://www.wikidata.org/entity/P4174> <http://wikiba.se/ontology#claim> <http://www.wikidata.org/prop/P4174> .
+<http://www.wikidata.org/entity/P4174> <http://wikiba.se/ontology#statementProperty> <http://www.wikidata.org/prop/statement/P4174> .
+<http://www.wikidata.org/entity/P4174> <http://wikiba.se/ontology#statementValue> <http://www.wikidata.org/prop/statement/value/P4174> .
+<http://www.wikidata.org/entity/P4174> <http://wikiba.se/ontology#qualifier> <http://www.wikidata.org/prop/qualifier/P4174> .
+<http://www.wikidata.org/entity/P4174> <http://wikiba.se/ontology#qualifierValue> <http://www.wikidata.org/prop/qualifier/value/P4174> .
+<http://www.wikidata.org/entity/P4174> <http://wikiba.se/ontology#reference> <http://www.wikidata.org/prop/reference/P4174> .
+<http://www.wikidata.org/entity/P4174> <http://wikiba.se/ontology#referenceValue> <http://www.wikidata.org/prop/reference/value/P4174> .
+<http://www.wikidata.org/entity/P4174> <http://wikiba.se/ontology#novalue> <http://www.wikidata.org/prop/novalue/P4174> .
+<http://www.wikidata.org/entity/P4174> <http://wikiba.se/ontology#directClaimNormalized> <http://www.wikidata.org/prop/direct-normalized/P4174> .
+<http://www.wikidata.org/entity/P4174> <http://wikiba.se/ontology#statementValueNormalized> <http://www.wikidata.org/prop/statement/value-normalized/P4174> .
+<http://www.wikidata.org/entity/P4174> <http://wikiba.se/ontology#qualifierValueNormalized> <http://www.wikidata.org/prop/qualifier/value-normalized/P4174> .
+<http://www.wikidata.org/entity/P4174> <http://wikiba.se/ontology#referenceValueNormalized> <http://www.wikidata.org/prop/reference/value-normalized/P4174> .
+<http://www.wikidata.org/prop/P4174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/statement/value/P4174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/qualifier/value/P4174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/reference/value/P4174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/direct/P4174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/statement/P4174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/qualifier/P4174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/reference/P4174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/statement/value-normalized/P4174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/qualifier/value-normalized/P4174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/reference/value-normalized/P4174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/direct-normalized/P4174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/novalue/P4174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.wikidata.org/prop/novalue/P4174> <http://www.w3.org/2002/07/owl#complementOf> _:05d99daa0a62f5a308ecf65c69696222 .
+_:05d99daa0a62f5a308ecf65c69696222 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:05d99daa0a62f5a308ecf65c69696222 <http://www.w3.org/2002/07/owl#onProperty> <http://www.wikidata.org/prop/direct/P4174> .
+_:05d99daa0a62f5a308ecf65c69696222 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.w3.org/2002/07/owl#Thing> .
+<http://www.wikidata.org/entity/Q13414952> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Item> .
+<http://www.wikidata.org/entity/Q13414952> <http://www.w3.org/2000/01/rdf-schema#label> "SHA-1"@en .
+<http://www.wikidata.org/entity/Q13414952> <http://www.w3.org/2004/02/skos/core#prefLabel> "SHA-1"@en .
+<http://www.wikidata.org/entity/Q13414952> <http://schema.org/name> "SHA-1"@en .
+<http://www.wikidata.org/entity/Q13414952> <http://www.w3.org/2000/01/rdf-schema#label> "SHA-1"@mul .
+<http://www.wikidata.org/entity/Q13414952> <http://www.w3.org/2004/02/skos/core#prefLabel> "SHA-1"@mul .
+<http://www.wikidata.org/entity/Q13414952> <http://schema.org/name> "SHA-1"@mul .
+<http://www.wikidata.org/entity/Q13414952> <http://schema.org/description> "cryptographic hash function"@en .
+<http://www.wikidata.org/entity/P459> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Property> .
+<http://www.wikidata.org/entity/P459> <http://www.w3.org/2000/01/rdf-schema#label> "determination method or standard"@en .
+<http://www.wikidata.org/entity/P459> <http://www.w3.org/2004/02/skos/core#prefLabel> "determination method or standard"@en .
+<http://www.wikidata.org/entity/P459> <http://schema.org/name> "determination method or standard"@en .
+<http://www.wikidata.org/entity/P459> <http://schema.org/description> "how a value is determined, or the standard by which it is declared"@en .
+<http://www.wikidata.org/entity/P459> <http://wikiba.se/ontology#propertyType> <http://wikiba.se/ontology#WikibaseItem> .
+<http://www.wikidata.org/entity/P459> <http://wikiba.se/ontology#directClaim> <http://www.wikidata.org/prop/direct/P459> .
+<http://www.wikidata.org/entity/P459> <http://wikiba.se/ontology#claim> <http://www.wikidata.org/prop/P459> .
+<http://www.wikidata.org/entity/P459> <http://wikiba.se/ontology#statementProperty> <http://www.wikidata.org/prop/statement/P459> .
+<http://www.wikidata.org/entity/P459> <http://wikiba.se/ontology#statementValue> <http://www.wikidata.org/prop/statement/value/P459> .
+<http://www.wikidata.org/entity/P459> <http://wikiba.se/ontology#qualifier> <http://www.wikidata.org/prop/qualifier/P459> .
+<http://www.wikidata.org/entity/P459> <http://wikiba.se/ontology#qualifierValue> <http://www.wikidata.org/prop/qualifier/value/P459> .
+<http://www.wikidata.org/entity/P459> <http://wikiba.se/ontology#reference> <http://www.wikidata.org/prop/reference/P459> .
+<http://www.wikidata.org/entity/P459> <http://wikiba.se/ontology#referenceValue> <http://www.wikidata.org/prop/reference/value/P459> .
+<http://www.wikidata.org/entity/P459> <http://wikiba.se/ontology#novalue> <http://www.wikidata.org/prop/novalue/P459> .
+<http://www.wikidata.org/prop/P459> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/statement/value/P459> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/qualifier/value/P459> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/reference/value/P459> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/direct/P459> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/statement/P459> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/qualifier/P459> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/reference/P459> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/novalue/P459> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.wikidata.org/prop/novalue/P459> <http://www.w3.org/2002/07/owl#complementOf> _:88b70b8bfdb5c147baf5a03f4254bd4b .
+_:88b70b8bfdb5c147baf5a03f4254bd4b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:88b70b8bfdb5c147baf5a03f4254bd4b <http://www.w3.org/2002/07/owl#onProperty> <http://www.wikidata.org/prop/direct/P459> .
+_:88b70b8bfdb5c147baf5a03f4254bd4b <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.w3.org/2002/07/owl#Thing> .
+<https://commons.wikimedia.org/value/a386438b8aa96bc77d66edb9ac7ac377> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#QuantityValue> .
+<https://commons.wikimedia.org/value/a386438b8aa96bc77d66edb9ac7ac377> <http://wikiba.se/ontology#quantityAmount> "+122067"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<https://commons.wikimedia.org/value/a386438b8aa96bc77d66edb9ac7ac377> <http://wikiba.se/ontology#quantityUnit> <http://www.wikidata.org/entity/Q8799> .
+<https://commons.wikimedia.org/value/7902b3be7468da013317c941c873c001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#QuantityValue> .
+<https://commons.wikimedia.org/value/7902b3be7468da013317c941c873c001> <http://wikiba.se/ontology#quantityAmount> "+1148"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<https://commons.wikimedia.org/value/7902b3be7468da013317c941c873c001> <http://wikiba.se/ontology#quantityUnit> <http://www.wikidata.org/entity/Q355198> .
+<https://commons.wikimedia.org/value/ca506b1754f699d91d6bad16cacf9922> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#QuantityValue> .
+<https://commons.wikimedia.org/value/ca506b1754f699d91d6bad16cacf9922> <http://wikiba.se/ontology#quantityAmount> "+2048"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<https://commons.wikimedia.org/value/ca506b1754f699d91d6bad16cacf9922> <http://wikiba.se/ontology#quantityUnit> <http://www.wikidata.org/entity/Q355198> .
+<https://commons.wikimedia.org/value/85060a24c99d5c381df52e313ba8de18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#TimeValue> .
+<https://commons.wikimedia.org/value/85060a24c99d5c381df52e313ba8de18> <http://wikiba.se/ontology#timeValue> "2016-09-20T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://commons.wikimedia.org/value/85060a24c99d5c381df52e313ba8de18> <http://wikiba.se/ontology#timePrecision> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://commons.wikimedia.org/value/85060a24c99d5c381df52e313ba8de18> <http://wikiba.se/ontology#timeTimezone> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://commons.wikimedia.org/value/85060a24c99d5c381df52e313ba8de18> <http://wikiba.se/ontology#timeCalendarModel> <http://www.wikidata.org/entity/Q1985727> .

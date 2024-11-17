@@ -1,0 +1,19 @@
+				@font-face {
+					font-family: 'ivyora-light';
+					src: url('8962Ivyora-Light.woff2') format('woff2'),
+						url('8962Ivyora-Light.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.ivyora-light{font-family: 'ivyora-light' !important;}
+
+						@font-face {
+					font-family: 'europa-light';
+					src: url('9841Europa-light.woff2') format('woff2'),
+						url('9841Europa-light.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.europa-light{font-family: 'europa-light' !important;}
+
+		

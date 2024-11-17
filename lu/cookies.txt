@@ -1,0 +1,34 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www2.landesarchiv-bw.de	TRUE	/ofs21	FALSE	1999999999	datenschutz	Hinweis
+.wikimedia.org	TRUE	/	FALSE	1999999999	GeoIP	PH:00:Makati_City:14.56:121.03:v4
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	NetworkProbeLimit	0.001
+commons.m.wikimedia.org	TRUE	/	FALSE	1999999999	NetworkProbeLimit	0.001
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	CentralAuthAnonTopLevel	1
+commons.m.wikimedia.org	TRUE	/	FALSE	1999999999	CentralAuthAnonTopLevel	1
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-DP	b27,cb9,11f,05e,ea1,166,ab7,f8b,f70
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	include_pv	0
+commons.m.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-DP	b27,ea1,166,ab7,f8b,f70,6d9,445,9cc
+commons.m.wikimedia.org	TRUE	/	FALSE	1999999999	include_pv	0
+.wikipedia.org	TRUE	/	FALSE	1999999999	GeoIP	PH:00:Makati_City:14.56:121.03:v4
+en.wikipedia.org	TRUE	/	FALSE	1999999999	NetworkProbeLimit	0.001
+en.wikipedia.org	TRUE	/	FALSE	1999999999	SameSite	Lax
+www2.landesarchiv-bw.de	TRUE	/	FALSE	1999999999	PHPSESSID	ikihuaeqsebujfiucbmjjaiiis
+.archive.org	TRUE	/	FALSE	1999999999	donation-identifier	beabd9f9127d330d28bcd44244b8cb44
+.archive.org	TRUE	/	FALSE	1999999999	abtest-identifier	b852c85d60c648acb5704bf00bdcbb33
+.archive.org	TRUE	/	FALSE	1999999999	PHPSESSID	eq1olevfe0v0rir0jdffelstjk
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	commonswikiSession	kqlamjqrajkrg1427l9ab9udcio87k97
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	SameSite	None
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	17-Nov-2024
+.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access-Global	17-Nov-2024
+commons.m.wikimedia.org	TRUE	/	FALSE	1999999999	commonswikiSession	hursfdin7urbhgl9l0l5j31opggb3lt0
+commons.m.wikimedia.org	TRUE	/	FALSE	1999999999	SameSite	None
+commons.m.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	17-Nov-2024
+en.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	17-Nov-2024
+de.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	17-Nov-2024
+de.wikipedia.org	TRUE	/	FALSE	1999999999	NetworkProbeLimit	0.001
+de.wikipedia.org	TRUE	/	FALSE	1999999999	SameSite	Lax
+fa.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	17-Nov-2024
+fa.wikipedia.org	TRUE	/	FALSE	1999999999	NetworkProbeLimit	0.001
+fa.wikipedia.org	TRUE	/	FALSE	1999999999	SameSite	Lax
+

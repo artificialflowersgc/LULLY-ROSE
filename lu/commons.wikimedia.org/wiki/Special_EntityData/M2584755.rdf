@@ -1,0 +1,1279 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:wikibase="http://wikiba.se/ontology#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:cc="http://creativecommons.org/ns#" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:prov="http://www.w3.org/ns/prov#" xmlns:wd="http://www.wikidata.org/entity/" xmlns:data="https://www.wikidata.org/wiki/Special:EntityData/" xmlns:s="http://www.wikidata.org/entity/statement/" xmlns:ref="http://www.wikidata.org/reference/" xmlns:v="http://www.wikidata.org/value/" xmlns:wdt="http://www.wikidata.org/prop/direct/" xmlns:wdtn="http://www.wikidata.org/prop/direct-normalized/" xmlns:p="http://www.wikidata.org/prop/" xmlns:ps="http://www.wikidata.org/prop/statement/" xmlns:psv="http://www.wikidata.org/prop/statement/value/" xmlns:psn="http://www.wikidata.org/prop/statement/value-normalized/" xmlns:pq="http://www.wikidata.org/prop/qualifier/" xmlns:pqv="http://www.wikidata.org/prop/qualifier/value/" xmlns:pqn="http://www.wikidata.org/prop/qualifier/value-normalized/" xmlns:pr="http://www.wikidata.org/prop/reference/" xmlns:prv="http://www.wikidata.org/prop/reference/value/" xmlns:prn="http://www.wikidata.org/prop/reference/value-normalized/" xmlns:wdno="http://www.wikidata.org/prop/novalue/" xmlns:sdc="https://commons.wikimedia.org/entity/" xmlns:sdcdata="https://commons.wikimedia.org/wiki/Special:EntityData/" xmlns:sdcs="https://commons.wikimedia.org/entity/statement/" xmlns:sdcref="https://commons.wikimedia.org/reference/" xmlns:sdcv="https://commons.wikimedia.org/value/" xmlns:sdct="https://commons.wikimedia.org/prop/direct/" xmlns:sdctn="https://commons.wikimedia.org/prop/direct-normalized/" xmlns:sdcp="https://commons.wikimedia.org/prop/" xmlns:sdcps="https://commons.wikimedia.org/prop/statement/" xmlns:sdcpsv="https://commons.wikimedia.org/prop/statement/value/" xmlns:sdcpsn="https://commons.wikimedia.org/prop/statement/value-normalized/" xmlns:sdcpq="https://commons.wikimedia.org/prop/qualifier/" xmlns:sdcpqv="https://commons.wikimedia.org/prop/qualifier/value/" xmlns:sdcpqn="https://commons.wikimedia.org/prop/qualifier/value-normalized/" xmlns:sdcpr="https://commons.wikimedia.org/prop/reference/" xmlns:sdcprv="https://commons.wikimedia.org/prop/reference/value/" xmlns:sdcprn="https://commons.wikimedia.org/prop/reference/value-normalized/" xmlns:sdcno="https://commons.wikimedia.org/prop/novalue/">
+	<rdf:Description rdf:about="https://commons.wikimedia.org/wiki/Special:EntityData/M2584755">
+		<rdf:type rdf:resource="http://schema.org/Dataset"/>
+		<schema:about rdf:resource="https://commons.wikimedia.org/entity/M2584755"/>
+		<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+		<schema:softwareVersion>1.0.0</schema:softwareVersion>
+		<schema:version rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">848453160</schema:version>
+		<schema:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-02-03T01:47:43Z</schema:dateModified>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/entity/M2584755">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Mediainfo"/>
+		<wdt:P3018 rdf:resource="http://www.wikidata.org/entity/Q1971027"/>
+		<wdt:P6731 rdf:resource="http://www.wikidata.org/entity/Q63348069"/>
+		<wdt:P275 rdf:resource="http://www.wikidata.org/entity/Q50829104"/>
+		<wdt:P275 rdf:resource="http://www.wikidata.org/entity/Q14946043"/>
+		<wdt:P6216 rdf:resource="http://www.wikidata.org/entity/Q50423863"/>
+		<wdt:P4082 rdf:resource="http://www.wikidata.org/entity/Q64100"/>
+		<wdt:P571 rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-08-14T00:00:00Z</wdt:P571>
+		<wdt:P6757 rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">+0.0025</wdt:P6757>
+		<wdt:P6790 rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">+6.3</wdt:P6790>
+		<wdt:P2151 rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">+150</wdt:P2151>
+		<wdt:P6789 rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">+200</wdt:P6789>
+		<wdt:P1163>image/jpeg</wdt:P1163>
+		<wdt:P31 rdf:resource="http://www.wikidata.org/entity/Q125191"/>
+		<wdt:P4092>9833736277027d1250129ba7f3fa8acac592e0b0</wdt:P4092>
+		<wdt:P3575 rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">+160227</wdt:P3575>
+		<wdt:P2048 rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">+1800</wdt:P2048>
+		<wdt:P2049 rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">+2400</wdt:P2049>
+		<p:P3018 rdf:resource="https://commons.wikimedia.org/entity/statement/M2584755-B1C53AA8-318F-4B16-A8AA-6F20AD204E69"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/entity/statement/M2584755-B1C53AA8-318F-4B16-A8AA-6F20AD204E69">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P3018 rdf:resource="http://www.wikidata.org/entity/Q1971027"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/entity/M2584755">
+		<p:P6731 rdf:resource="https://commons.wikimedia.org/entity/statement/M2584755-A9FCBFD3-4160-4368-A7C3-D4A899679E47"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/entity/statement/M2584755-A9FCBFD3-4160-4368-A7C3-D4A899679E47">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P6731 rdf:resource="http://www.wikidata.org/entity/Q63348069"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/entity/M2584755">
+		<p:P275 rdf:resource="https://commons.wikimedia.org/entity/statement/M2584755-845E40DF-834A-4E9C-BF60-8FF849C50B99"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/entity/statement/M2584755-845E40DF-834A-4E9C-BF60-8FF849C50B99">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P275 rdf:resource="http://www.wikidata.org/entity/Q50829104"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/entity/M2584755">
+		<p:P275 rdf:resource="https://commons.wikimedia.org/entity/statement/M2584755-31CAFCC7-5646-4072-B306-AE9DF2484026"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/entity/statement/M2584755-31CAFCC7-5646-4072-B306-AE9DF2484026">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P275 rdf:resource="http://www.wikidata.org/entity/Q14946043"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/entity/M2584755">
+		<p:P6216 rdf:resource="https://commons.wikimedia.org/entity/statement/M2584755-AE48E7EF-A2D2-4478-9C31-146EE1E26CD1"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/entity/statement/M2584755-AE48E7EF-A2D2-4478-9C31-146EE1E26CD1">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P6216 rdf:resource="http://www.wikidata.org/entity/Q50423863"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/entity/M2584755">
+		<p:P4082 rdf:resource="https://commons.wikimedia.org/entity/statement/M2584755-6846797D-1EAE-485B-A894-FD2D9E58E68B"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/entity/statement/M2584755-6846797D-1EAE-485B-A894-FD2D9E58E68B">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P4082 rdf:resource="http://www.wikidata.org/entity/Q64100"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/entity/M2584755">
+		<p:P571 rdf:resource="https://commons.wikimedia.org/entity/statement/M2584755-E06BCCD0-4693-47E9-95F8-A266102AD54C"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/entity/statement/M2584755-E06BCCD0-4693-47E9-95F8-A266102AD54C">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P571 rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-08-14T00:00:00Z</ps:P571>
+		<psv:P571 rdf:resource="https://commons.wikimedia.org/value/104fde1cf3185d7f77d38fb780d6e51b"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/entity/M2584755">
+		<p:P6757 rdf:resource="https://commons.wikimedia.org/entity/statement/M2584755-0D0A0395-3B61-46A7-8CE6-BB46DF7A7B2E"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/entity/statement/M2584755-0D0A0395-3B61-46A7-8CE6-BB46DF7A7B2E">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P6757 rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">+0.0025</ps:P6757>
+		<psv:P6757 rdf:resource="https://commons.wikimedia.org/value/a23dd1fda107317b3b81ce5db9760e0a"/>
+		<psn:P6757 rdf:resource="https://commons.wikimedia.org/value/a23dd1fda107317b3b81ce5db9760e0a"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/entity/M2584755">
+		<p:P6790 rdf:resource="https://commons.wikimedia.org/entity/statement/M2584755-16BF50F2-9EA0-4602-9C35-67994B047EED"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/entity/statement/M2584755-16BF50F2-9EA0-4602-9C35-67994B047EED">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P6790 rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">+6.3</ps:P6790>
+		<psv:P6790 rdf:resource="https://commons.wikimedia.org/value/b13ee3a5f3eb6cb6d6928ca017d612a5"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/entity/M2584755">
+		<p:P2151 rdf:resource="https://commons.wikimedia.org/entity/statement/M2584755-649ED0A6-AAA9-4474-B78C-88103A6D3E7D"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/entity/statement/M2584755-649ED0A6-AAA9-4474-B78C-88103A6D3E7D">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P2151 rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">+150</ps:P2151>
+		<psv:P2151 rdf:resource="https://commons.wikimedia.org/value/9c8ee5a27a93e90812525580486eaeef"/>
+		<psn:P2151 rdf:resource="https://commons.wikimedia.org/value/8e5f4f7e23b0aee4e26bd6df0b56aff0"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/entity/M2584755">
+		<p:P6789 rdf:resource="https://commons.wikimedia.org/entity/statement/M2584755-64519335-3B81-4B18-A092-73CDCFA7C82B"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/entity/statement/M2584755-64519335-3B81-4B18-A092-73CDCFA7C82B">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P6789 rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">+200</ps:P6789>
+		<psv:P6789 rdf:resource="https://commons.wikimedia.org/value/60aef88dc178bb470103bedbe4790143"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/entity/M2584755">
+		<p:P1163 rdf:resource="https://commons.wikimedia.org/entity/statement/M2584755-88B670FD-3A17-4490-BBED-1EF2772931DE"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/entity/statement/M2584755-88B670FD-3A17-4490-BBED-1EF2772931DE">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P1163>image/jpeg</ps:P1163>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/entity/M2584755">
+		<p:P31 rdf:resource="https://commons.wikimedia.org/entity/statement/M2584755-07EEC9B1-415D-4E93-8970-CC2D7A2BA2B6"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/entity/statement/M2584755-07EEC9B1-415D-4E93-8970-CC2D7A2BA2B6">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P31 rdf:resource="http://www.wikidata.org/entity/Q125191"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/entity/M2584755">
+		<p:P4092 rdf:resource="https://commons.wikimedia.org/entity/statement/M2584755-AFB6C8F6-9E67-4AF6-9043-B8AA75DEBB89"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/entity/statement/M2584755-AFB6C8F6-9E67-4AF6-9043-B8AA75DEBB89">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P4092>9833736277027d1250129ba7f3fa8acac592e0b0</ps:P4092>
+		<pq:P459 rdf:resource="http://www.wikidata.org/entity/Q13414952"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/entity/M2584755">
+		<p:P3575 rdf:resource="https://commons.wikimedia.org/entity/statement/M2584755-096A1C69-AAA1-4D7B-B764-9ACAC19F9936"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/entity/statement/M2584755-096A1C69-AAA1-4D7B-B764-9ACAC19F9936">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P3575 rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">+160227</ps:P3575>
+		<psv:P3575 rdf:resource="https://commons.wikimedia.org/value/3c66c89b1c879ce9673fbdab05776cc0"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/entity/M2584755">
+		<p:P2048 rdf:resource="https://commons.wikimedia.org/entity/statement/M2584755-AFEDCB9D-84A9-49BF-B389-E93ADB7D2693"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/entity/statement/M2584755-AFEDCB9D-84A9-49BF-B389-E93ADB7D2693">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P2048 rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">+1800</ps:P2048>
+		<psv:P2048 rdf:resource="https://commons.wikimedia.org/value/28e7e9eab856887a5ca62db80f76f11d"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/entity/M2584755">
+		<p:P2049 rdf:resource="https://commons.wikimedia.org/entity/statement/M2584755-343C9DF5-DD17-4FB6-9831-375DED076DCA"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/entity/statement/M2584755-343C9DF5-DD17-4FB6-9831-375DED076DCA">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P2049 rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">+2400</ps:P2049>
+		<psv:P2049 rdf:resource="https://commons.wikimedia.org/value/ae5f0eb7957bc4b865b5f8fd907e8342"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/entity/M2584755">
+		<rdf:type rdf:resource="http://schema.org/MediaObject"/>
+		<rdf:type rdf:resource="http://schema.org/ImageObject"/>
+		<schema:encodingFormat>image/jpeg</schema:encodingFormat>
+		<schema:contentUrl rdf:resource="https://upload.wikimedia.org/wikipedia/commons/2/2e/Carex_demissa_detail.jpeg"/>
+		<schema:url rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Carex%20demissa%20detail.jpeg"/>
+		<schema:contentSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">160227</schema:contentSize>
+		<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1800</schema:height>
+		<schema:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2400</schema:width>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/entity/Q1971027">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Item"/>
+		<rdfs:label xml:lang="en">Heiligensee und Hütelmoor</rdfs:label>
+		<skos:prefLabel xml:lang="en">Heiligensee und Hütelmoor</skos:prefLabel>
+		<schema:name xml:lang="en">Heiligensee und Hütelmoor</schema:name>
+		<schema:description xml:lang="en">nature reserve in Mecklenburg-Vorpommern, Germany</schema:description>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/entity/P3018">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Property"/>
+		<rdfs:label xml:lang="en">located in protected area</rdfs:label>
+		<skos:prefLabel xml:lang="en">located in protected area</skos:prefLabel>
+		<schema:name xml:lang="en">located in protected area</schema:name>
+		<schema:description xml:lang="en">protected area where a place or geographical feature is physically located</schema:description>
+		<wikibase:propertyType rdf:resource="http://wikiba.se/ontology#WikibaseItem"/>
+		<wikibase:directClaim rdf:resource="http://www.wikidata.org/prop/direct/P3018"/>
+		<wikibase:claim rdf:resource="http://www.wikidata.org/prop/P3018"/>
+		<wikibase:statementProperty rdf:resource="http://www.wikidata.org/prop/statement/P3018"/>
+		<wikibase:statementValue rdf:resource="http://www.wikidata.org/prop/statement/value/P3018"/>
+		<wikibase:qualifier rdf:resource="http://www.wikidata.org/prop/qualifier/P3018"/>
+		<wikibase:qualifierValue rdf:resource="http://www.wikidata.org/prop/qualifier/value/P3018"/>
+		<wikibase:reference rdf:resource="http://www.wikidata.org/prop/reference/P3018"/>
+		<wikibase:referenceValue rdf:resource="http://www.wikidata.org/prop/reference/value/P3018"/>
+		<wikibase:novalue rdf:resource="http://www.wikidata.org/prop/novalue/P3018"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/P3018">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/statement/value/P3018">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/qualifier/value/P3018">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/reference/value/P3018">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/direct/P3018">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/statement/P3018">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/qualifier/P3018">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/reference/P3018">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/novalue/P3018">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+		<owl:complementOf rdf:nodeID="0cd26a2066ec6209b41c23cd399c9dca"/>
+	</rdf:Description>
+	<rdf:Description rdf:nodeID="0cd26a2066ec6209b41c23cd399c9dca">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+		<owl:onProperty rdf:resource="http://www.wikidata.org/prop/direct/P3018"/>
+		<owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/entity/Q63348069">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Item"/>
+		<rdfs:label xml:lang="en">Wikimedia Commons quality image</rdfs:label>
+		<skos:prefLabel xml:lang="en">Wikimedia Commons quality image</skos:prefLabel>
+		<schema:name xml:lang="en">Wikimedia Commons quality image</schema:name>
+		<schema:description xml:lang="en">image assessment on Wikimedia Commons</schema:description>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/entity/P6731">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Property"/>
+		<rdfs:label xml:lang="en">Commons quality assessment</rdfs:label>
+		<skos:prefLabel xml:lang="en">Commons quality assessment</skos:prefLabel>
+		<schema:name xml:lang="en">Commons quality assessment</schema:name>
+		<schema:description xml:lang="en">assessment on Wikimedia Commons of the file: featured picture, valued image, quality images, picture of the day, picture of the year etc. Use on media entities only</schema:description>
+		<wikibase:propertyType rdf:resource="http://wikiba.se/ontology#WikibaseItem"/>
+		<wikibase:directClaim rdf:resource="http://www.wikidata.org/prop/direct/P6731"/>
+		<wikibase:claim rdf:resource="http://www.wikidata.org/prop/P6731"/>
+		<wikibase:statementProperty rdf:resource="http://www.wikidata.org/prop/statement/P6731"/>
+		<wikibase:statementValue rdf:resource="http://www.wikidata.org/prop/statement/value/P6731"/>
+		<wikibase:qualifier rdf:resource="http://www.wikidata.org/prop/qualifier/P6731"/>
+		<wikibase:qualifierValue rdf:resource="http://www.wikidata.org/prop/qualifier/value/P6731"/>
+		<wikibase:reference rdf:resource="http://www.wikidata.org/prop/reference/P6731"/>
+		<wikibase:referenceValue rdf:resource="http://www.wikidata.org/prop/reference/value/P6731"/>
+		<wikibase:novalue rdf:resource="http://www.wikidata.org/prop/novalue/P6731"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/P6731">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/statement/value/P6731">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/qualifier/value/P6731">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/reference/value/P6731">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/direct/P6731">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/statement/P6731">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/qualifier/P6731">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/reference/P6731">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/novalue/P6731">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+		<owl:complementOf rdf:nodeID="92250d59dc74c21873210d1dcf13c187"/>
+	</rdf:Description>
+	<rdf:Description rdf:nodeID="92250d59dc74c21873210d1dcf13c187">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+		<owl:onProperty rdf:resource="http://www.wikidata.org/prop/direct/P6731"/>
+		<owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/entity/Q50829104">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Item"/>
+		<rdfs:label xml:lang="en">GNU Free Documentation License, version 1.2 or later</rdfs:label>
+		<skos:prefLabel xml:lang="en">GNU Free Documentation License, version 1.2 or later</skos:prefLabel>
+		<schema:name xml:lang="en">GNU Free Documentation License, version 1.2 or later</schema:name>
+		<schema:description xml:lang="en">free documentation license</schema:description>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/entity/P275">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Property"/>
+		<rdfs:label xml:lang="en">copyright license</rdfs:label>
+		<skos:prefLabel xml:lang="en">copyright license</skos:prefLabel>
+		<schema:name xml:lang="en">copyright license</schema:name>
+		<schema:description xml:lang="en">license under which this copyrighted work is released</schema:description>
+		<wikibase:propertyType rdf:resource="http://wikiba.se/ontology#WikibaseItem"/>
+		<wikibase:directClaim rdf:resource="http://www.wikidata.org/prop/direct/P275"/>
+		<wikibase:claim rdf:resource="http://www.wikidata.org/prop/P275"/>
+		<wikibase:statementProperty rdf:resource="http://www.wikidata.org/prop/statement/P275"/>
+		<wikibase:statementValue rdf:resource="http://www.wikidata.org/prop/statement/value/P275"/>
+		<wikibase:qualifier rdf:resource="http://www.wikidata.org/prop/qualifier/P275"/>
+		<wikibase:qualifierValue rdf:resource="http://www.wikidata.org/prop/qualifier/value/P275"/>
+		<wikibase:reference rdf:resource="http://www.wikidata.org/prop/reference/P275"/>
+		<wikibase:referenceValue rdf:resource="http://www.wikidata.org/prop/reference/value/P275"/>
+		<wikibase:novalue rdf:resource="http://www.wikidata.org/prop/novalue/P275"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/P275">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/statement/value/P275">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/qualifier/value/P275">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/reference/value/P275">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/direct/P275">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/statement/P275">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/qualifier/P275">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/reference/P275">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/novalue/P275">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+		<owl:complementOf rdf:nodeID="298aabdb0974253ac321b0308875c924"/>
+	</rdf:Description>
+	<rdf:Description rdf:nodeID="298aabdb0974253ac321b0308875c924">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+		<owl:onProperty rdf:resource="http://www.wikidata.org/prop/direct/P275"/>
+		<owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/entity/Q14946043">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Item"/>
+		<rdfs:label xml:lang="en">Creative Commons Attribution-ShareAlike 3.0 Unported</rdfs:label>
+		<skos:prefLabel xml:lang="en">Creative Commons Attribution-ShareAlike 3.0 Unported</skos:prefLabel>
+		<schema:name xml:lang="en">Creative Commons Attribution-ShareAlike 3.0 Unported</schema:name>
+		<rdfs:label xml:lang="mul">CC BY-SA 3.0</rdfs:label>
+		<skos:prefLabel xml:lang="mul">CC BY-SA 3.0</skos:prefLabel>
+		<schema:name xml:lang="mul">CC BY-SA 3.0</schema:name>
+		<schema:description xml:lang="en">Creative Commons license</schema:description>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/entity/Q50423863">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Item"/>
+		<rdfs:label xml:lang="en">copyrighted</rdfs:label>
+		<skos:prefLabel xml:lang="en">copyrighted</skos:prefLabel>
+		<schema:name xml:lang="en">copyrighted</schema:name>
+		<schema:description xml:lang="en">legal state of a work as recognised as an intellectual property of an entity</schema:description>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/entity/P6216">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Property"/>
+		<rdfs:label xml:lang="en">copyright status</rdfs:label>
+		<skos:prefLabel xml:lang="en">copyright status</skos:prefLabel>
+		<schema:name xml:lang="en">copyright status</schema:name>
+		<schema:description xml:lang="en">copyright status for intellectual creations like works of art, publications, software, etc.</schema:description>
+		<wikibase:propertyType rdf:resource="http://wikiba.se/ontology#WikibaseItem"/>
+		<wikibase:directClaim rdf:resource="http://www.wikidata.org/prop/direct/P6216"/>
+		<wikibase:claim rdf:resource="http://www.wikidata.org/prop/P6216"/>
+		<wikibase:statementProperty rdf:resource="http://www.wikidata.org/prop/statement/P6216"/>
+		<wikibase:statementValue rdf:resource="http://www.wikidata.org/prop/statement/value/P6216"/>
+		<wikibase:qualifier rdf:resource="http://www.wikidata.org/prop/qualifier/P6216"/>
+		<wikibase:qualifierValue rdf:resource="http://www.wikidata.org/prop/qualifier/value/P6216"/>
+		<wikibase:reference rdf:resource="http://www.wikidata.org/prop/reference/P6216"/>
+		<wikibase:referenceValue rdf:resource="http://www.wikidata.org/prop/reference/value/P6216"/>
+		<wikibase:novalue rdf:resource="http://www.wikidata.org/prop/novalue/P6216"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/P6216">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/statement/value/P6216">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/qualifier/value/P6216">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/reference/value/P6216">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/direct/P6216">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/statement/P6216">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/qualifier/P6216">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/reference/P6216">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/novalue/P6216">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+		<owl:complementOf rdf:nodeID="b1252803b14cb4551e630f41e1deba59"/>
+	</rdf:Description>
+	<rdf:Description rdf:nodeID="b1252803b14cb4551e630f41e1deba59">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+		<owl:onProperty rdf:resource="http://www.wikidata.org/prop/direct/P6216"/>
+		<owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/entity/Q64100">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Item"/>
+		<rdfs:label xml:lang="en">Canon EOS 400D</rdfs:label>
+		<skos:prefLabel xml:lang="en">Canon EOS 400D</skos:prefLabel>
+		<schema:name xml:lang="en">Canon EOS 400D</schema:name>
+		<schema:description xml:lang="en">digital camera model</schema:description>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/entity/P4082">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Property"/>
+		<rdfs:label xml:lang="en">captured with</rdfs:label>
+		<skos:prefLabel xml:lang="en">captured with</skos:prefLabel>
+		<schema:name xml:lang="en">captured with</schema:name>
+		<schema:description xml:lang="en">equipment (e.g. model of camera, lens microphone), used to capture this image, video, audio, or data</schema:description>
+		<wikibase:propertyType rdf:resource="http://wikiba.se/ontology#WikibaseItem"/>
+		<wikibase:directClaim rdf:resource="http://www.wikidata.org/prop/direct/P4082"/>
+		<wikibase:claim rdf:resource="http://www.wikidata.org/prop/P4082"/>
+		<wikibase:statementProperty rdf:resource="http://www.wikidata.org/prop/statement/P4082"/>
+		<wikibase:statementValue rdf:resource="http://www.wikidata.org/prop/statement/value/P4082"/>
+		<wikibase:qualifier rdf:resource="http://www.wikidata.org/prop/qualifier/P4082"/>
+		<wikibase:qualifierValue rdf:resource="http://www.wikidata.org/prop/qualifier/value/P4082"/>
+		<wikibase:reference rdf:resource="http://www.wikidata.org/prop/reference/P4082"/>
+		<wikibase:referenceValue rdf:resource="http://www.wikidata.org/prop/reference/value/P4082"/>
+		<wikibase:novalue rdf:resource="http://www.wikidata.org/prop/novalue/P4082"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/P4082">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/statement/value/P4082">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/qualifier/value/P4082">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/reference/value/P4082">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/direct/P4082">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/statement/P4082">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/qualifier/P4082">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/reference/P4082">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/novalue/P4082">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+		<owl:complementOf rdf:nodeID="2c1e635be6a9c129b8132793cee4cc90"/>
+	</rdf:Description>
+	<rdf:Description rdf:nodeID="2c1e635be6a9c129b8132793cee4cc90">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+		<owl:onProperty rdf:resource="http://www.wikidata.org/prop/direct/P4082"/>
+		<owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/entity/P571">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Property"/>
+		<rdfs:label xml:lang="en">inception</rdfs:label>
+		<skos:prefLabel xml:lang="en">inception</skos:prefLabel>
+		<schema:name xml:lang="en">inception</schema:name>
+		<schema:description xml:lang="en">time when an entity begins to exist; for date of official opening use P1619</schema:description>
+		<wikibase:propertyType rdf:resource="http://wikiba.se/ontology#Time"/>
+		<wikibase:directClaim rdf:resource="http://www.wikidata.org/prop/direct/P571"/>
+		<wikibase:claim rdf:resource="http://www.wikidata.org/prop/P571"/>
+		<wikibase:statementProperty rdf:resource="http://www.wikidata.org/prop/statement/P571"/>
+		<wikibase:statementValue rdf:resource="http://www.wikidata.org/prop/statement/value/P571"/>
+		<wikibase:qualifier rdf:resource="http://www.wikidata.org/prop/qualifier/P571"/>
+		<wikibase:qualifierValue rdf:resource="http://www.wikidata.org/prop/qualifier/value/P571"/>
+		<wikibase:reference rdf:resource="http://www.wikidata.org/prop/reference/P571"/>
+		<wikibase:referenceValue rdf:resource="http://www.wikidata.org/prop/reference/value/P571"/>
+		<wikibase:novalue rdf:resource="http://www.wikidata.org/prop/novalue/P571"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/P571">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/statement/value/P571">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/qualifier/value/P571">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/reference/value/P571">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/direct/P571">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/statement/P571">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/qualifier/P571">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/reference/P571">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/novalue/P571">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+		<owl:complementOf rdf:nodeID="ed4d9507645e2210d8e4ed14d3266267"/>
+	</rdf:Description>
+	<rdf:Description rdf:nodeID="ed4d9507645e2210d8e4ed14d3266267">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+		<owl:onProperty rdf:resource="http://www.wikidata.org/prop/direct/P571"/>
+		<owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/entity/P6757">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Property"/>
+		<rdfs:label xml:lang="en">exposure time</rdfs:label>
+		<skos:prefLabel xml:lang="en">exposure time</skos:prefLabel>
+		<schema:name xml:lang="en">exposure time</schema:name>
+		<schema:description xml:lang="en">the length of time a image sensor or photographic film is exposed to light.</schema:description>
+		<wikibase:propertyType rdf:resource="http://wikiba.se/ontology#Quantity"/>
+		<wikibase:directClaim rdf:resource="http://www.wikidata.org/prop/direct/P6757"/>
+		<wikibase:claim rdf:resource="http://www.wikidata.org/prop/P6757"/>
+		<wikibase:statementProperty rdf:resource="http://www.wikidata.org/prop/statement/P6757"/>
+		<wikibase:statementValue rdf:resource="http://www.wikidata.org/prop/statement/value/P6757"/>
+		<wikibase:qualifier rdf:resource="http://www.wikidata.org/prop/qualifier/P6757"/>
+		<wikibase:qualifierValue rdf:resource="http://www.wikidata.org/prop/qualifier/value/P6757"/>
+		<wikibase:reference rdf:resource="http://www.wikidata.org/prop/reference/P6757"/>
+		<wikibase:referenceValue rdf:resource="http://www.wikidata.org/prop/reference/value/P6757"/>
+		<wikibase:novalue rdf:resource="http://www.wikidata.org/prop/novalue/P6757"/>
+		<wikibase:directClaimNormalized rdf:resource="http://www.wikidata.org/prop/direct-normalized/P6757"/>
+		<wikibase:statementValueNormalized rdf:resource="http://www.wikidata.org/prop/statement/value-normalized/P6757"/>
+		<wikibase:qualifierValueNormalized rdf:resource="http://www.wikidata.org/prop/qualifier/value-normalized/P6757"/>
+		<wikibase:referenceValueNormalized rdf:resource="http://www.wikidata.org/prop/reference/value-normalized/P6757"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/P6757">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/statement/value/P6757">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/qualifier/value/P6757">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/reference/value/P6757">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/direct/P6757">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/statement/P6757">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/qualifier/P6757">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/reference/P6757">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/statement/value-normalized/P6757">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/qualifier/value-normalized/P6757">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/reference/value-normalized/P6757">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/direct-normalized/P6757">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/novalue/P6757">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+		<owl:complementOf rdf:nodeID="b2cea30b1f61af5c897a045b9d0faead"/>
+	</rdf:Description>
+	<rdf:Description rdf:nodeID="b2cea30b1f61af5c897a045b9d0faead">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+		<owl:onProperty rdf:resource="http://www.wikidata.org/prop/direct/P6757"/>
+		<owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/entity/P6790">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Property"/>
+		<rdfs:label xml:lang="en">f-number</rdfs:label>
+		<skos:prefLabel xml:lang="en">f-number</skos:prefLabel>
+		<schema:name xml:lang="en">f-number</schema:name>
+		<schema:description xml:lang="en">ratio of the system&#039;s focal length to the diameter of the entrance pupil. Sample: 4 (generally written &quot;ƒ/4&quot;) for a lens with 200 mm focal length using an entrance pupil diameter of 50 mm.</schema:description>
+		<wikibase:propertyType rdf:resource="http://wikiba.se/ontology#Quantity"/>
+		<wikibase:directClaim rdf:resource="http://www.wikidata.org/prop/direct/P6790"/>
+		<wikibase:claim rdf:resource="http://www.wikidata.org/prop/P6790"/>
+		<wikibase:statementProperty rdf:resource="http://www.wikidata.org/prop/statement/P6790"/>
+		<wikibase:statementValue rdf:resource="http://www.wikidata.org/prop/statement/value/P6790"/>
+		<wikibase:qualifier rdf:resource="http://www.wikidata.org/prop/qualifier/P6790"/>
+		<wikibase:qualifierValue rdf:resource="http://www.wikidata.org/prop/qualifier/value/P6790"/>
+		<wikibase:reference rdf:resource="http://www.wikidata.org/prop/reference/P6790"/>
+		<wikibase:referenceValue rdf:resource="http://www.wikidata.org/prop/reference/value/P6790"/>
+		<wikibase:novalue rdf:resource="http://www.wikidata.org/prop/novalue/P6790"/>
+		<wikibase:directClaimNormalized rdf:resource="http://www.wikidata.org/prop/direct-normalized/P6790"/>
+		<wikibase:statementValueNormalized rdf:resource="http://www.wikidata.org/prop/statement/value-normalized/P6790"/>
+		<wikibase:qualifierValueNormalized rdf:resource="http://www.wikidata.org/prop/qualifier/value-normalized/P6790"/>
+		<wikibase:referenceValueNormalized rdf:resource="http://www.wikidata.org/prop/reference/value-normalized/P6790"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/P6790">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/statement/value/P6790">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/qualifier/value/P6790">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/reference/value/P6790">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/direct/P6790">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/statement/P6790">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/qualifier/P6790">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/reference/P6790">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/statement/value-normalized/P6790">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/qualifier/value-normalized/P6790">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/reference/value-normalized/P6790">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/direct-normalized/P6790">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/novalue/P6790">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+		<owl:complementOf rdf:nodeID="c11756882e67bf597f80a2a652bd76ec"/>
+	</rdf:Description>
+	<rdf:Description rdf:nodeID="c11756882e67bf597f80a2a652bd76ec">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+		<owl:onProperty rdf:resource="http://www.wikidata.org/prop/direct/P6790"/>
+		<owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/entity/P2151">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Property"/>
+		<rdfs:label xml:lang="en">focal length</rdfs:label>
+		<skos:prefLabel xml:lang="en">focal length</skos:prefLabel>
+		<schema:name xml:lang="en">focal length</schema:name>
+		<schema:description xml:lang="en">focal length of lens (telescope, etc.)</schema:description>
+		<wikibase:propertyType rdf:resource="http://wikiba.se/ontology#Quantity"/>
+		<wikibase:directClaim rdf:resource="http://www.wikidata.org/prop/direct/P2151"/>
+		<wikibase:claim rdf:resource="http://www.wikidata.org/prop/P2151"/>
+		<wikibase:statementProperty rdf:resource="http://www.wikidata.org/prop/statement/P2151"/>
+		<wikibase:statementValue rdf:resource="http://www.wikidata.org/prop/statement/value/P2151"/>
+		<wikibase:qualifier rdf:resource="http://www.wikidata.org/prop/qualifier/P2151"/>
+		<wikibase:qualifierValue rdf:resource="http://www.wikidata.org/prop/qualifier/value/P2151"/>
+		<wikibase:reference rdf:resource="http://www.wikidata.org/prop/reference/P2151"/>
+		<wikibase:referenceValue rdf:resource="http://www.wikidata.org/prop/reference/value/P2151"/>
+		<wikibase:novalue rdf:resource="http://www.wikidata.org/prop/novalue/P2151"/>
+		<wikibase:directClaimNormalized rdf:resource="http://www.wikidata.org/prop/direct-normalized/P2151"/>
+		<wikibase:statementValueNormalized rdf:resource="http://www.wikidata.org/prop/statement/value-normalized/P2151"/>
+		<wikibase:qualifierValueNormalized rdf:resource="http://www.wikidata.org/prop/qualifier/value-normalized/P2151"/>
+		<wikibase:referenceValueNormalized rdf:resource="http://www.wikidata.org/prop/reference/value-normalized/P2151"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/P2151">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/statement/value/P2151">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/qualifier/value/P2151">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/reference/value/P2151">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/direct/P2151">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/statement/P2151">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/qualifier/P2151">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/reference/P2151">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/statement/value-normalized/P2151">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/qualifier/value-normalized/P2151">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/reference/value-normalized/P2151">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/direct-normalized/P2151">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/novalue/P2151">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+		<owl:complementOf rdf:nodeID="48da9607ea4e9a3d43e12ffee146eb58"/>
+	</rdf:Description>
+	<rdf:Description rdf:nodeID="48da9607ea4e9a3d43e12ffee146eb58">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+		<owl:onProperty rdf:resource="http://www.wikidata.org/prop/direct/P2151"/>
+		<owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/entity/P6789">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Property"/>
+		<rdfs:label xml:lang="en">ISO speed</rdfs:label>
+		<skos:prefLabel xml:lang="en">ISO speed</skos:prefLabel>
+		<schema:name xml:lang="en">ISO speed</schema:name>
+		<schema:description xml:lang="en">light sensitivity of film or digital sensor (e.g. ISO/ASA 100)</schema:description>
+		<wikibase:propertyType rdf:resource="http://wikiba.se/ontology#Quantity"/>
+		<wikibase:directClaim rdf:resource="http://www.wikidata.org/prop/direct/P6789"/>
+		<wikibase:claim rdf:resource="http://www.wikidata.org/prop/P6789"/>
+		<wikibase:statementProperty rdf:resource="http://www.wikidata.org/prop/statement/P6789"/>
+		<wikibase:statementValue rdf:resource="http://www.wikidata.org/prop/statement/value/P6789"/>
+		<wikibase:qualifier rdf:resource="http://www.wikidata.org/prop/qualifier/P6789"/>
+		<wikibase:qualifierValue rdf:resource="http://www.wikidata.org/prop/qualifier/value/P6789"/>
+		<wikibase:reference rdf:resource="http://www.wikidata.org/prop/reference/P6789"/>
+		<wikibase:referenceValue rdf:resource="http://www.wikidata.org/prop/reference/value/P6789"/>
+		<wikibase:novalue rdf:resource="http://www.wikidata.org/prop/novalue/P6789"/>
+		<wikibase:directClaimNormalized rdf:resource="http://www.wikidata.org/prop/direct-normalized/P6789"/>
+		<wikibase:statementValueNormalized rdf:resource="http://www.wikidata.org/prop/statement/value-normalized/P6789"/>
+		<wikibase:qualifierValueNormalized rdf:resource="http://www.wikidata.org/prop/qualifier/value-normalized/P6789"/>
+		<wikibase:referenceValueNormalized rdf:resource="http://www.wikidata.org/prop/reference/value-normalized/P6789"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/P6789">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/statement/value/P6789">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/qualifier/value/P6789">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/reference/value/P6789">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/direct/P6789">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/statement/P6789">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/qualifier/P6789">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/reference/P6789">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/statement/value-normalized/P6789">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/qualifier/value-normalized/P6789">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/reference/value-normalized/P6789">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/direct-normalized/P6789">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/novalue/P6789">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+		<owl:complementOf rdf:nodeID="8b33f5391f5b233c9e206e786a61d95b"/>
+	</rdf:Description>
+	<rdf:Description rdf:nodeID="8b33f5391f5b233c9e206e786a61d95b">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+		<owl:onProperty rdf:resource="http://www.wikidata.org/prop/direct/P6789"/>
+		<owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/entity/P1163">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Property"/>
+		<rdfs:label xml:lang="en">media type</rdfs:label>
+		<skos:prefLabel xml:lang="en">media type</skos:prefLabel>
+		<schema:name xml:lang="en">media type</schema:name>
+		<schema:description xml:lang="en">IANA-registered identifier for a file type</schema:description>
+		<wikibase:propertyType rdf:resource="http://wikiba.se/ontology#String"/>
+		<wikibase:directClaim rdf:resource="http://www.wikidata.org/prop/direct/P1163"/>
+		<wikibase:claim rdf:resource="http://www.wikidata.org/prop/P1163"/>
+		<wikibase:statementProperty rdf:resource="http://www.wikidata.org/prop/statement/P1163"/>
+		<wikibase:statementValue rdf:resource="http://www.wikidata.org/prop/statement/value/P1163"/>
+		<wikibase:qualifier rdf:resource="http://www.wikidata.org/prop/qualifier/P1163"/>
+		<wikibase:qualifierValue rdf:resource="http://www.wikidata.org/prop/qualifier/value/P1163"/>
+		<wikibase:reference rdf:resource="http://www.wikidata.org/prop/reference/P1163"/>
+		<wikibase:referenceValue rdf:resource="http://www.wikidata.org/prop/reference/value/P1163"/>
+		<wikibase:novalue rdf:resource="http://www.wikidata.org/prop/novalue/P1163"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/P1163">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/statement/value/P1163">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/qualifier/value/P1163">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/reference/value/P1163">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/direct/P1163">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/statement/P1163">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/qualifier/P1163">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/reference/P1163">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/novalue/P1163">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+		<owl:complementOf rdf:nodeID="704e62989d8eb9df732666f92fa84714"/>
+	</rdf:Description>
+	<rdf:Description rdf:nodeID="704e62989d8eb9df732666f92fa84714">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+		<owl:onProperty rdf:resource="http://www.wikidata.org/prop/direct/P1163"/>
+		<owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/entity/Q125191">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Item"/>
+		<rdfs:label xml:lang="en">photograph</rdfs:label>
+		<skos:prefLabel xml:lang="en">photograph</skos:prefLabel>
+		<schema:name xml:lang="en">photograph</schema:name>
+		<schema:description xml:lang="en">image created by light falling on a light-sensitive surface</schema:description>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/entity/P31">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Property"/>
+		<rdfs:label xml:lang="en">instance of</rdfs:label>
+		<skos:prefLabel xml:lang="en">instance of</skos:prefLabel>
+		<schema:name xml:lang="en">instance of</schema:name>
+		<schema:description xml:lang="en">that class of which this subject is a particular example and member; different from P279 (subclass of); for example: K2 is an instance of mountain; volcano is a subclass of mountain (and an instance of volcanic landform)</schema:description>
+		<wikibase:propertyType rdf:resource="http://wikiba.se/ontology#WikibaseItem"/>
+		<wikibase:directClaim rdf:resource="http://www.wikidata.org/prop/direct/P31"/>
+		<wikibase:claim rdf:resource="http://www.wikidata.org/prop/P31"/>
+		<wikibase:statementProperty rdf:resource="http://www.wikidata.org/prop/statement/P31"/>
+		<wikibase:statementValue rdf:resource="http://www.wikidata.org/prop/statement/value/P31"/>
+		<wikibase:qualifier rdf:resource="http://www.wikidata.org/prop/qualifier/P31"/>
+		<wikibase:qualifierValue rdf:resource="http://www.wikidata.org/prop/qualifier/value/P31"/>
+		<wikibase:reference rdf:resource="http://www.wikidata.org/prop/reference/P31"/>
+		<wikibase:referenceValue rdf:resource="http://www.wikidata.org/prop/reference/value/P31"/>
+		<wikibase:novalue rdf:resource="http://www.wikidata.org/prop/novalue/P31"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/P31">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/statement/value/P31">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/qualifier/value/P31">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/reference/value/P31">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/direct/P31">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/statement/P31">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/qualifier/P31">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/reference/P31">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/novalue/P31">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+		<owl:complementOf rdf:nodeID="0b8bd71b926a65ca3fa72e5d9103e4d6"/>
+	</rdf:Description>
+	<rdf:Description rdf:nodeID="0b8bd71b926a65ca3fa72e5d9103e4d6">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+		<owl:onProperty rdf:resource="http://www.wikidata.org/prop/direct/P31"/>
+		<owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/entity/P4092">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Property"/>
+		<rdfs:label xml:lang="en">checksum</rdfs:label>
+		<skos:prefLabel xml:lang="en">checksum</skos:prefLabel>
+		<schema:name xml:lang="en">checksum</schema:name>
+		<schema:description xml:lang="en">small-sized datum derived from a block of digital data for the purpose of detecting errors. Use qualifier &quot;determination method&quot; (P459) to indicate how it&#039;s calculated, e.g. MD5.</schema:description>
+		<wikibase:propertyType rdf:resource="http://wikiba.se/ontology#String"/>
+		<wikibase:directClaim rdf:resource="http://www.wikidata.org/prop/direct/P4092"/>
+		<wikibase:claim rdf:resource="http://www.wikidata.org/prop/P4092"/>
+		<wikibase:statementProperty rdf:resource="http://www.wikidata.org/prop/statement/P4092"/>
+		<wikibase:statementValue rdf:resource="http://www.wikidata.org/prop/statement/value/P4092"/>
+		<wikibase:qualifier rdf:resource="http://www.wikidata.org/prop/qualifier/P4092"/>
+		<wikibase:qualifierValue rdf:resource="http://www.wikidata.org/prop/qualifier/value/P4092"/>
+		<wikibase:reference rdf:resource="http://www.wikidata.org/prop/reference/P4092"/>
+		<wikibase:referenceValue rdf:resource="http://www.wikidata.org/prop/reference/value/P4092"/>
+		<wikibase:novalue rdf:resource="http://www.wikidata.org/prop/novalue/P4092"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/P4092">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/statement/value/P4092">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/qualifier/value/P4092">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/reference/value/P4092">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/direct/P4092">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/statement/P4092">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/qualifier/P4092">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/reference/P4092">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/novalue/P4092">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+		<owl:complementOf rdf:nodeID="6d4307bb92af815977a58e72cb8245cd"/>
+	</rdf:Description>
+	<rdf:Description rdf:nodeID="6d4307bb92af815977a58e72cb8245cd">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+		<owl:onProperty rdf:resource="http://www.wikidata.org/prop/direct/P4092"/>
+		<owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/entity/P3575">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Property"/>
+		<rdfs:label xml:lang="en">data size</rdfs:label>
+		<skos:prefLabel xml:lang="en">data size</skos:prefLabel>
+		<schema:name xml:lang="en">data size</schema:name>
+		<schema:description xml:lang="en">size of a software, dataset, neural network, or individual file</schema:description>
+		<wikibase:propertyType rdf:resource="http://wikiba.se/ontology#Quantity"/>
+		<wikibase:directClaim rdf:resource="http://www.wikidata.org/prop/direct/P3575"/>
+		<wikibase:claim rdf:resource="http://www.wikidata.org/prop/P3575"/>
+		<wikibase:statementProperty rdf:resource="http://www.wikidata.org/prop/statement/P3575"/>
+		<wikibase:statementValue rdf:resource="http://www.wikidata.org/prop/statement/value/P3575"/>
+		<wikibase:qualifier rdf:resource="http://www.wikidata.org/prop/qualifier/P3575"/>
+		<wikibase:qualifierValue rdf:resource="http://www.wikidata.org/prop/qualifier/value/P3575"/>
+		<wikibase:reference rdf:resource="http://www.wikidata.org/prop/reference/P3575"/>
+		<wikibase:referenceValue rdf:resource="http://www.wikidata.org/prop/reference/value/P3575"/>
+		<wikibase:novalue rdf:resource="http://www.wikidata.org/prop/novalue/P3575"/>
+		<wikibase:directClaimNormalized rdf:resource="http://www.wikidata.org/prop/direct-normalized/P3575"/>
+		<wikibase:statementValueNormalized rdf:resource="http://www.wikidata.org/prop/statement/value-normalized/P3575"/>
+		<wikibase:qualifierValueNormalized rdf:resource="http://www.wikidata.org/prop/qualifier/value-normalized/P3575"/>
+		<wikibase:referenceValueNormalized rdf:resource="http://www.wikidata.org/prop/reference/value-normalized/P3575"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/P3575">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/statement/value/P3575">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/qualifier/value/P3575">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/reference/value/P3575">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/direct/P3575">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/statement/P3575">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/qualifier/P3575">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/reference/P3575">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/statement/value-normalized/P3575">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/qualifier/value-normalized/P3575">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/reference/value-normalized/P3575">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/direct-normalized/P3575">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/novalue/P3575">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+		<owl:complementOf rdf:nodeID="b624cfad58daea2904a2149304d28205"/>
+	</rdf:Description>
+	<rdf:Description rdf:nodeID="b624cfad58daea2904a2149304d28205">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+		<owl:onProperty rdf:resource="http://www.wikidata.org/prop/direct/P3575"/>
+		<owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/entity/P2048">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Property"/>
+		<rdfs:label xml:lang="en">height</rdfs:label>
+		<skos:prefLabel xml:lang="en">height</skos:prefLabel>
+		<schema:name xml:lang="en">height</schema:name>
+		<schema:description xml:lang="en">vertical length of an entity</schema:description>
+		<wikibase:propertyType rdf:resource="http://wikiba.se/ontology#Quantity"/>
+		<wikibase:directClaim rdf:resource="http://www.wikidata.org/prop/direct/P2048"/>
+		<wikibase:claim rdf:resource="http://www.wikidata.org/prop/P2048"/>
+		<wikibase:statementProperty rdf:resource="http://www.wikidata.org/prop/statement/P2048"/>
+		<wikibase:statementValue rdf:resource="http://www.wikidata.org/prop/statement/value/P2048"/>
+		<wikibase:qualifier rdf:resource="http://www.wikidata.org/prop/qualifier/P2048"/>
+		<wikibase:qualifierValue rdf:resource="http://www.wikidata.org/prop/qualifier/value/P2048"/>
+		<wikibase:reference rdf:resource="http://www.wikidata.org/prop/reference/P2048"/>
+		<wikibase:referenceValue rdf:resource="http://www.wikidata.org/prop/reference/value/P2048"/>
+		<wikibase:novalue rdf:resource="http://www.wikidata.org/prop/novalue/P2048"/>
+		<wikibase:directClaimNormalized rdf:resource="http://www.wikidata.org/prop/direct-normalized/P2048"/>
+		<wikibase:statementValueNormalized rdf:resource="http://www.wikidata.org/prop/statement/value-normalized/P2048"/>
+		<wikibase:qualifierValueNormalized rdf:resource="http://www.wikidata.org/prop/qualifier/value-normalized/P2048"/>
+		<wikibase:referenceValueNormalized rdf:resource="http://www.wikidata.org/prop/reference/value-normalized/P2048"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/P2048">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/statement/value/P2048">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/qualifier/value/P2048">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/reference/value/P2048">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/direct/P2048">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/statement/P2048">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/qualifier/P2048">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/reference/P2048">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/statement/value-normalized/P2048">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/qualifier/value-normalized/P2048">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/reference/value-normalized/P2048">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/direct-normalized/P2048">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/novalue/P2048">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+		<owl:complementOf rdf:nodeID="8b9e3c496971ca7a35e1bb77aa490b02"/>
+	</rdf:Description>
+	<rdf:Description rdf:nodeID="8b9e3c496971ca7a35e1bb77aa490b02">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+		<owl:onProperty rdf:resource="http://www.wikidata.org/prop/direct/P2048"/>
+		<owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/entity/P2049">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Property"/>
+		<rdfs:label xml:lang="en">width</rdfs:label>
+		<skos:prefLabel xml:lang="en">width</skos:prefLabel>
+		<schema:name xml:lang="en">width</schema:name>
+		<schema:description xml:lang="en">width of an object</schema:description>
+		<wikibase:propertyType rdf:resource="http://wikiba.se/ontology#Quantity"/>
+		<wikibase:directClaim rdf:resource="http://www.wikidata.org/prop/direct/P2049"/>
+		<wikibase:claim rdf:resource="http://www.wikidata.org/prop/P2049"/>
+		<wikibase:statementProperty rdf:resource="http://www.wikidata.org/prop/statement/P2049"/>
+		<wikibase:statementValue rdf:resource="http://www.wikidata.org/prop/statement/value/P2049"/>
+		<wikibase:qualifier rdf:resource="http://www.wikidata.org/prop/qualifier/P2049"/>
+		<wikibase:qualifierValue rdf:resource="http://www.wikidata.org/prop/qualifier/value/P2049"/>
+		<wikibase:reference rdf:resource="http://www.wikidata.org/prop/reference/P2049"/>
+		<wikibase:referenceValue rdf:resource="http://www.wikidata.org/prop/reference/value/P2049"/>
+		<wikibase:novalue rdf:resource="http://www.wikidata.org/prop/novalue/P2049"/>
+		<wikibase:directClaimNormalized rdf:resource="http://www.wikidata.org/prop/direct-normalized/P2049"/>
+		<wikibase:statementValueNormalized rdf:resource="http://www.wikidata.org/prop/statement/value-normalized/P2049"/>
+		<wikibase:qualifierValueNormalized rdf:resource="http://www.wikidata.org/prop/qualifier/value-normalized/P2049"/>
+		<wikibase:referenceValueNormalized rdf:resource="http://www.wikidata.org/prop/reference/value-normalized/P2049"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/P2049">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/statement/value/P2049">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/qualifier/value/P2049">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/reference/value/P2049">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/direct/P2049">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/statement/P2049">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/qualifier/P2049">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/reference/P2049">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/statement/value-normalized/P2049">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/qualifier/value-normalized/P2049">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/reference/value-normalized/P2049">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/direct-normalized/P2049">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/novalue/P2049">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+		<owl:complementOf rdf:nodeID="a55ba6e912ddf8da0985e42b4cc289b3"/>
+	</rdf:Description>
+	<rdf:Description rdf:nodeID="a55ba6e912ddf8da0985e42b4cc289b3">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+		<owl:onProperty rdf:resource="http://www.wikidata.org/prop/direct/P2049"/>
+		<owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/entity/Q13414952">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Item"/>
+		<rdfs:label xml:lang="en">SHA-1</rdfs:label>
+		<skos:prefLabel xml:lang="en">SHA-1</skos:prefLabel>
+		<schema:name xml:lang="en">SHA-1</schema:name>
+		<rdfs:label xml:lang="mul">SHA-1</rdfs:label>
+		<skos:prefLabel xml:lang="mul">SHA-1</skos:prefLabel>
+		<schema:name xml:lang="mul">SHA-1</schema:name>
+		<schema:description xml:lang="en">cryptographic hash function</schema:description>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/entity/P459">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Property"/>
+		<rdfs:label xml:lang="en">determination method or standard</rdfs:label>
+		<skos:prefLabel xml:lang="en">determination method or standard</skos:prefLabel>
+		<schema:name xml:lang="en">determination method or standard</schema:name>
+		<schema:description xml:lang="en">how a value is determined, or the standard by which it is declared</schema:description>
+		<wikibase:propertyType rdf:resource="http://wikiba.se/ontology#WikibaseItem"/>
+		<wikibase:directClaim rdf:resource="http://www.wikidata.org/prop/direct/P459"/>
+		<wikibase:claim rdf:resource="http://www.wikidata.org/prop/P459"/>
+		<wikibase:statementProperty rdf:resource="http://www.wikidata.org/prop/statement/P459"/>
+		<wikibase:statementValue rdf:resource="http://www.wikidata.org/prop/statement/value/P459"/>
+		<wikibase:qualifier rdf:resource="http://www.wikidata.org/prop/qualifier/P459"/>
+		<wikibase:qualifierValue rdf:resource="http://www.wikidata.org/prop/qualifier/value/P459"/>
+		<wikibase:reference rdf:resource="http://www.wikidata.org/prop/reference/P459"/>
+		<wikibase:referenceValue rdf:resource="http://www.wikidata.org/prop/reference/value/P459"/>
+		<wikibase:novalue rdf:resource="http://www.wikidata.org/prop/novalue/P459"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/P459">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/statement/value/P459">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/qualifier/value/P459">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/reference/value/P459">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/direct/P459">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/statement/P459">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/qualifier/P459">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/reference/P459">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.wikidata.org/prop/novalue/P459">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+		<owl:complementOf rdf:nodeID="88b70b8bfdb5c147baf5a03f4254bd4b"/>
+	</rdf:Description>
+	<rdf:Description rdf:nodeID="88b70b8bfdb5c147baf5a03f4254bd4b">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+		<owl:onProperty rdf:resource="http://www.wikidata.org/prop/direct/P459"/>
+		<owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/value/a23dd1fda107317b3b81ce5db9760e0a">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#QuantityValue"/>
+		<wikibase:quantityAmount rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">+0.0025</wikibase:quantityAmount>
+		<wikibase:quantityUnit rdf:resource="http://www.wikidata.org/entity/Q11574"/>
+		<wikibase:quantityNormalized rdf:resource="https://commons.wikimedia.org/value/a23dd1fda107317b3b81ce5db9760e0a"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/value/b13ee3a5f3eb6cb6d6928ca017d612a5">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#QuantityValue"/>
+		<wikibase:quantityAmount rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">+6.3</wikibase:quantityAmount>
+		<wikibase:quantityUnit rdf:resource="http://www.wikidata.org/entity/Q199"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/value/9c8ee5a27a93e90812525580486eaeef">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#QuantityValue"/>
+		<wikibase:quantityAmount rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">+150</wikibase:quantityAmount>
+		<wikibase:quantityUnit rdf:resource="http://www.wikidata.org/entity/Q174789"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/value/8e5f4f7e23b0aee4e26bd6df0b56aff0">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#QuantityValue"/>
+		<wikibase:quantityAmount rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">+0.150</wikibase:quantityAmount>
+		<wikibase:quantityUnit rdf:resource="http://www.wikidata.org/entity/Q11573"/>
+		<wikibase:quantityNormalized rdf:resource="https://commons.wikimedia.org/value/8e5f4f7e23b0aee4e26bd6df0b56aff0"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/value/9c8ee5a27a93e90812525580486eaeef">
+		<wikibase:quantityNormalized rdf:resource="https://commons.wikimedia.org/value/8e5f4f7e23b0aee4e26bd6df0b56aff0"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/value/60aef88dc178bb470103bedbe4790143">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#QuantityValue"/>
+		<wikibase:quantityAmount rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">+200</wikibase:quantityAmount>
+		<wikibase:quantityUnit rdf:resource="http://www.wikidata.org/entity/Q199"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/value/3c66c89b1c879ce9673fbdab05776cc0">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#QuantityValue"/>
+		<wikibase:quantityAmount rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">+160227</wikibase:quantityAmount>
+		<wikibase:quantityUnit rdf:resource="http://www.wikidata.org/entity/Q8799"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/value/28e7e9eab856887a5ca62db80f76f11d">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#QuantityValue"/>
+		<wikibase:quantityAmount rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">+1800</wikibase:quantityAmount>
+		<wikibase:quantityUnit rdf:resource="http://www.wikidata.org/entity/Q355198"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/value/ae5f0eb7957bc4b865b5f8fd907e8342">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#QuantityValue"/>
+		<wikibase:quantityAmount rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">+2400</wikibase:quantityAmount>
+		<wikibase:quantityUnit rdf:resource="http://www.wikidata.org/entity/Q355198"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/value/104fde1cf3185d7f77d38fb780d6e51b">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#TimeValue"/>
+		<wikibase:timeValue rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-08-14T00:00:00Z</wikibase:timeValue>
+		<wikibase:timePrecision rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</wikibase:timePrecision>
+		<wikibase:timeTimezone rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</wikibase:timeTimezone>
+		<wikibase:timeCalendarModel rdf:resource="http://www.wikidata.org/entity/Q1985727"/>
+	</rdf:Description>
+</rdf:RDF>

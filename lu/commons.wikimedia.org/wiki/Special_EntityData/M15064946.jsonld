@@ -1,0 +1,2262 @@
+{
+    "@graph": [
+        {
+            "@id": "sdcdata:M15064946",
+            "@type": "schema:Dataset",
+            "about": "sdc:M15064946",
+            "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+            "softwareVersion": "1.0.0",
+            "version": 913735172,
+            "dateModified": "2024-08-21T01:09:20Z"
+        },
+        {
+            "@id": "sdc:M15064946",
+            "@type": "wikibase:Mediainfo",
+            "P6731": "wd:Q63348069",
+            "P7482": "wd:Q66458942",
+            "P275": "wd:Q19113751",
+            "P6216": "wd:Q50423863",
+            "P571": "2011-04-18T00:00:00Z",
+            "P170": "_:e55090416e1cbe0399e6d1a835ae9291",
+            "P4082": "wd:Q2553318",
+            "P1259": "Point(11.185214 46.659789)",
+            "P1163": "image/jpeg",
+            "P4092": "c295f6a4ffb0eabc294813b2a7833b5bdc4b0f99",
+            "P3575": "+7757222",
+            "P2048": "+2848",
+            "P2049": "+4288",
+            "P180": "wd:Q129464525",
+            "p:P6731": "sdcs:M15064946-241FE42D-5939-43B2-B1FB-8B5ED9B029D1"
+        },
+        {
+            "@id": "sdcs:M15064946-241FE42D-5939-43B2-B1FB-8B5ED9B029D1",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P6731": "wd:Q63348069"
+        },
+        {
+            "@id": "sdc:M15064946",
+            "p:P7482": "sdcs:M15064946-4F000C62-8477-48A1-85A3-072927EF0E38"
+        },
+        {
+            "@id": "sdcs:M15064946-4F000C62-8477-48A1-85A3-072927EF0E38",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P7482": "wd:Q66458942"
+        },
+        {
+            "@id": "sdc:M15064946",
+            "p:P275": "sdcs:M15064946-ACEBDBC3-6665-4021-9B2E-ADBBF3D0D42C"
+        },
+        {
+            "@id": "sdcs:M15064946-ACEBDBC3-6665-4021-9B2E-ADBBF3D0D42C",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P275": "wd:Q19113751"
+        },
+        {
+            "@id": "sdc:M15064946",
+            "p:P6216": "sdcs:M15064946-B76E7BC4-3423-4839-BCD0-3372153B2A68"
+        },
+        {
+            "@id": "sdcs:M15064946-B76E7BC4-3423-4839-BCD0-3372153B2A68",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P6216": "wd:Q50423863"
+        },
+        {
+            "@id": "sdc:M15064946",
+            "p:P571": "sdcs:M15064946-6EF5B5BD-BC52-49FB-AB44-D0E515775608"
+        },
+        {
+            "@id": "sdcs:M15064946-6EF5B5BD-BC52-49FB-AB44-D0E515775608",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P571": "2011-04-18T00:00:00Z",
+            "psv:P571": "sdcv:8412f636131121ead232f9a5d2373d5d"
+        },
+        {
+            "@id": "sdc:M15064946",
+            "p:P170": "sdcs:M15064946-5C8498D7-42C7-4F2A-BB99-9F081D179E1F"
+        },
+        {
+            "@id": "sdcs:M15064946-5C8498D7-42C7-4F2A-BB99-9F081D179E1F",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P170": "_:35023d0edb9c60fdc64e4dff955827f8",
+            "P4174": "B\u00f6hringer",
+            "P2699": "https://commons.wikimedia.org/wiki/user:B%C3%B6hringer",
+            "P3831": "wd:Q33231",
+            "P2093": "B\u00f6hringer Friedrich"
+        },
+        {
+            "@id": "sdc:M15064946",
+            "p:P4082": "sdcs:M15064946-3CB25F15-3ACD-4B7D-B82C-88187C6D5143"
+        },
+        {
+            "@id": "sdcs:M15064946-3CB25F15-3ACD-4B7D-B82C-88187C6D5143",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P4082": "wd:Q2553318"
+        },
+        {
+            "@id": "sdc:M15064946",
+            "p:P1259": "sdcs:M15064946-790258AB-4E8D-48F1-B486-A1978430443F"
+        },
+        {
+            "@id": "sdcs:M15064946-790258AB-4E8D-48F1-B486-A1978430443F",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P1259": "Point(11.185214 46.659789)",
+            "psv:P1259": "sdcv:88806d3d7dfd9c6c9de974e2b188e5cd"
+        },
+        {
+            "@id": "sdc:M15064946",
+            "p:P1163": "sdcs:M15064946-2A4F3CD4-7A35-4BAE-90C8-38D5EB31CAE3"
+        },
+        {
+            "@id": "sdcs:M15064946-2A4F3CD4-7A35-4BAE-90C8-38D5EB31CAE3",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P1163": "image/jpeg"
+        },
+        {
+            "@id": "sdc:M15064946",
+            "p:P4092": "sdcs:M15064946-E6B6418E-FE6D-45BA-9149-1EC68E4B72D9"
+        },
+        {
+            "@id": "sdcs:M15064946-E6B6418E-FE6D-45BA-9149-1EC68E4B72D9",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P4092": "c295f6a4ffb0eabc294813b2a7833b5bdc4b0f99",
+            "P459": "wd:Q13414952"
+        },
+        {
+            "@id": "sdc:M15064946",
+            "p:P3575": "sdcs:M15064946-3DBF70F7-B4EE-412E-91CE-6CF925218A6A"
+        },
+        {
+            "@id": "sdcs:M15064946-3DBF70F7-B4EE-412E-91CE-6CF925218A6A",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P3575": "+7757222",
+            "psv:P3575": "sdcv:9f9774027c86a0a141271e0fb97b1212"
+        },
+        {
+            "@id": "sdc:M15064946",
+            "p:P2048": "sdcs:M15064946-9FA434A1-69EE-498C-BA0C-EEF429C46DFD"
+        },
+        {
+            "@id": "sdcs:M15064946-9FA434A1-69EE-498C-BA0C-EEF429C46DFD",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P2048": "+2848",
+            "psv:P2048": "sdcv:43ac8b114bc068c02ac55b629d9ae86c"
+        },
+        {
+            "@id": "sdc:M15064946",
+            "p:P2049": "sdcs:M15064946-9E694E8F-27AD-4639-A5BB-7AF3415D619D"
+        },
+        {
+            "@id": "sdcs:M15064946-9E694E8F-27AD-4639-A5BB-7AF3415D619D",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P2049": "+4288",
+            "psv:P2049": "sdcv:62bd3492bb171292952b6cc7b051148b"
+        },
+        {
+            "@id": "sdc:M15064946",
+            "p:P180": "sdcs:M15064946-7E7BA4B7-8C6A-4E00-93FF-843B0EA75B18"
+        },
+        {
+            "@id": "sdcs:M15064946-7E7BA4B7-8C6A-4E00-93FF-843B0EA75B18",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P180": "wd:Q129464525"
+        },
+        {
+            "@id": "sdc:M15064946",
+            "@type": [
+                "schema:MediaObject",
+                "schema:ImageObject"
+            ],
+            "encodingFormat": "image/jpeg",
+            "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Botanischer_Garten_Meran_57.JPG",
+            "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Botanischer%20Garten%20Meran%2057.JPG",
+            "contentSize": 7757222,
+            "height": 2848,
+            "width": 4288
+        },
+        {
+            "@id": "wd:Q63348069",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "Wikimedia Commons quality image"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "Wikimedia Commons quality image"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "Wikimedia Commons quality image"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "image assessment on Wikimedia Commons"
+            }
+        },
+        {
+            "@id": "wd:P6731",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "Commons quality assessment"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "Commons quality assessment"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "Commons quality assessment"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "assessment on Wikimedia Commons of the file: featured picture, valued image, quality images, picture of the day, picture of the year etc. Use on media entities only"
+            },
+            "propertyType": "http://wikiba.se/ontology#WikibaseItem",
+            "directClaim": "wdt:P6731",
+            "claim": "p:P6731",
+            "statementProperty": "ps:P6731",
+            "statementValue": "psv:P6731",
+            "qualifier": "pq:P6731",
+            "qualifierValue": "pqv:P6731",
+            "reference": "pr:P6731",
+            "referenceValue": "prv:P6731",
+            "novalue": "wdno:P6731"
+        },
+        {
+            "@id": "p:P6731",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P6731",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P6731",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P6731",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P6731",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "ps:P6731",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pq:P6731",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pr:P6731",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P6731",
+            "@type": "owl:Class",
+            "complementOf": "_:92250d59dc74c21873210d1dcf13c187"
+        },
+        {
+            "@id": "_:92250d59dc74c21873210d1dcf13c187",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P6731",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:Q66458942",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "original creation by uploader"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "original creation by uploader"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "original creation by uploader"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "value to indicate source of an image on Wikimedia Commons"
+            }
+        },
+        {
+            "@id": "wd:P7482",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "source of file"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "source of file"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "source of file"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "broad nature of the origin of the file"
+            },
+            "propertyType": "http://wikiba.se/ontology#WikibaseItem",
+            "directClaim": "wdt:P7482",
+            "claim": "p:P7482",
+            "statementProperty": "ps:P7482",
+            "statementValue": "psv:P7482",
+            "qualifier": "pq:P7482",
+            "qualifierValue": "pqv:P7482",
+            "reference": "pr:P7482",
+            "referenceValue": "prv:P7482",
+            "novalue": "wdno:P7482"
+        },
+        {
+            "@id": "p:P7482",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P7482",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P7482",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P7482",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P7482",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "ps:P7482",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pq:P7482",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pr:P7482",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P7482",
+            "@type": "owl:Class",
+            "complementOf": "_:acc493f3ae8de4cf9c16f9963879aa6e"
+        },
+        {
+            "@id": "_:acc493f3ae8de4cf9c16f9963879aa6e",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P7482",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:Q19113751",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "Creative Commons Attribution-ShareAlike 2.5 Generic"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "Creative Commons Attribution-ShareAlike 2.5 Generic"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "Creative Commons Attribution-ShareAlike 2.5 Generic"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "Creative Commons license"
+            }
+        },
+        {
+            "@id": "wd:P275",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "copyright license"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "copyright license"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "copyright license"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "license under which this copyrighted work is released"
+            },
+            "propertyType": "http://wikiba.se/ontology#WikibaseItem",
+            "directClaim": "wdt:P275",
+            "claim": "p:P275",
+            "statementProperty": "ps:P275",
+            "statementValue": "psv:P275",
+            "qualifier": "pq:P275",
+            "qualifierValue": "pqv:P275",
+            "reference": "pr:P275",
+            "referenceValue": "prv:P275",
+            "novalue": "wdno:P275"
+        },
+        {
+            "@id": "p:P275",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P275",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P275",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P275",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P275",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "ps:P275",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pq:P275",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pr:P275",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P275",
+            "@type": "owl:Class",
+            "complementOf": "_:298aabdb0974253ac321b0308875c924"
+        },
+        {
+            "@id": "_:298aabdb0974253ac321b0308875c924",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P275",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:Q50423863",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "copyrighted"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "copyrighted"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "copyrighted"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "legal state of a work as recognised as an intellectual property of an entity"
+            }
+        },
+        {
+            "@id": "wd:P6216",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "copyright status"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "copyright status"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "copyright status"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "copyright status for intellectual creations like works of art, publications, software, etc."
+            },
+            "propertyType": "http://wikiba.se/ontology#WikibaseItem",
+            "directClaim": "wdt:P6216",
+            "claim": "p:P6216",
+            "statementProperty": "ps:P6216",
+            "statementValue": "psv:P6216",
+            "qualifier": "pq:P6216",
+            "qualifierValue": "pqv:P6216",
+            "reference": "pr:P6216",
+            "referenceValue": "prv:P6216",
+            "novalue": "wdno:P6216"
+        },
+        {
+            "@id": "p:P6216",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P6216",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P6216",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P6216",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P6216",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "ps:P6216",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pq:P6216",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pr:P6216",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P6216",
+            "@type": "owl:Class",
+            "complementOf": "_:b1252803b14cb4551e630f41e1deba59"
+        },
+        {
+            "@id": "_:b1252803b14cb4551e630f41e1deba59",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P6216",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P571",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "inception"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "inception"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "inception"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "time when an entity begins to exist; for date of official opening use P1619"
+            },
+            "propertyType": "http://wikiba.se/ontology#Time",
+            "directClaim": "wdt:P571",
+            "claim": "p:P571",
+            "statementProperty": "ps:P571",
+            "statementValue": "psv:P571",
+            "qualifier": "pq:P571",
+            "qualifierValue": "pqv:P571",
+            "reference": "pr:P571",
+            "referenceValue": "prv:P571",
+            "novalue": "wdno:P571"
+        },
+        {
+            "@id": "p:P571",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P571",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P571",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P571",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P571",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P571",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P571",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P571",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "wdno:P571",
+            "@type": "owl:Class",
+            "complementOf": "_:ed4d9507645e2210d8e4ed14d3266267"
+        },
+        {
+            "@id": "_:ed4d9507645e2210d8e4ed14d3266267",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P571",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P170",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "creator"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "creator"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "creator"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "maker of this creative work or other object (where no more specific property exists)"
+            },
+            "propertyType": "http://wikiba.se/ontology#WikibaseItem",
+            "directClaim": "wdt:P170",
+            "claim": "p:P170",
+            "statementProperty": "ps:P170",
+            "statementValue": "psv:P170",
+            "qualifier": "pq:P170",
+            "qualifierValue": "pqv:P170",
+            "reference": "pr:P170",
+            "referenceValue": "prv:P170",
+            "novalue": "wdno:P170"
+        },
+        {
+            "@id": "p:P170",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P170",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P170",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P170",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P170",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "ps:P170",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pq:P170",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pr:P170",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P170",
+            "@type": "owl:Class",
+            "complementOf": "_:9729a2092eee6702e50f1adf021a63b5"
+        },
+        {
+            "@id": "_:9729a2092eee6702e50f1adf021a63b5",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P170",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:Q2553318",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "Nikon D300S"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "Nikon D300S"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "Nikon D300S"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "digital camera model"
+            }
+        },
+        {
+            "@id": "wd:P4082",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "captured with"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "captured with"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "captured with"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "equipment (e.g. model of camera, lens microphone), used to capture this image, video, audio, or data"
+            },
+            "propertyType": "http://wikiba.se/ontology#WikibaseItem",
+            "directClaim": "wdt:P4082",
+            "claim": "p:P4082",
+            "statementProperty": "ps:P4082",
+            "statementValue": "psv:P4082",
+            "qualifier": "pq:P4082",
+            "qualifierValue": "pqv:P4082",
+            "reference": "pr:P4082",
+            "referenceValue": "prv:P4082",
+            "novalue": "wdno:P4082"
+        },
+        {
+            "@id": "p:P4082",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P4082",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P4082",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P4082",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P4082",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "ps:P4082",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pq:P4082",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pr:P4082",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P4082",
+            "@type": "owl:Class",
+            "complementOf": "_:2c1e635be6a9c129b8132793cee4cc90"
+        },
+        {
+            "@id": "_:2c1e635be6a9c129b8132793cee4cc90",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P4082",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P1259",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "coordinates of the point of view"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "coordinates of the point of view"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "coordinates of the point of view"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "point from which the scene depicted by the element is seen (element can be a photo, a painting, etc.)"
+            },
+            "propertyType": "http://wikiba.se/ontology#GlobeCoordinate",
+            "directClaim": "wdt:P1259",
+            "claim": "p:P1259",
+            "statementProperty": "ps:P1259",
+            "statementValue": "psv:P1259",
+            "qualifier": "pq:P1259",
+            "qualifierValue": "pqv:P1259",
+            "reference": "pr:P1259",
+            "referenceValue": "prv:P1259",
+            "novalue": "wdno:P1259"
+        },
+        {
+            "@id": "p:P1259",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P1259",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P1259",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P1259",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P1259",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P1259",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P1259",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P1259",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "wdno:P1259",
+            "@type": "owl:Class",
+            "complementOf": "_:898f1c66ba4bb87bef2c6cb7c8bbaa52"
+        },
+        {
+            "@id": "_:898f1c66ba4bb87bef2c6cb7c8bbaa52",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P1259",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P1163",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "media type"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "media type"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "media type"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "IANA-registered identifier for a file type"
+            },
+            "propertyType": "http://wikiba.se/ontology#String",
+            "directClaim": "wdt:P1163",
+            "claim": "p:P1163",
+            "statementProperty": "ps:P1163",
+            "statementValue": "psv:P1163",
+            "qualifier": "pq:P1163",
+            "qualifierValue": "pqv:P1163",
+            "reference": "pr:P1163",
+            "referenceValue": "prv:P1163",
+            "novalue": "wdno:P1163"
+        },
+        {
+            "@id": "p:P1163",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P1163",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P1163",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P1163",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P1163",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P1163",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P1163",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P1163",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "wdno:P1163",
+            "@type": "owl:Class",
+            "complementOf": "_:704e62989d8eb9df732666f92fa84714"
+        },
+        {
+            "@id": "_:704e62989d8eb9df732666f92fa84714",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P1163",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P4092",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "checksum"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "checksum"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "checksum"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "small-sized datum derived from a block of digital data for the purpose of detecting errors. Use qualifier \"determination method\" (P459) to indicate how it's calculated, e.g. MD5."
+            },
+            "propertyType": "http://wikiba.se/ontology#String",
+            "directClaim": "wdt:P4092",
+            "claim": "p:P4092",
+            "statementProperty": "ps:P4092",
+            "statementValue": "psv:P4092",
+            "qualifier": "pq:P4092",
+            "qualifierValue": "pqv:P4092",
+            "reference": "pr:P4092",
+            "referenceValue": "prv:P4092",
+            "novalue": "wdno:P4092"
+        },
+        {
+            "@id": "p:P4092",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P4092",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P4092",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P4092",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P4092",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P4092",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P4092",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P4092",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "wdno:P4092",
+            "@type": "owl:Class",
+            "complementOf": "_:6d4307bb92af815977a58e72cb8245cd"
+        },
+        {
+            "@id": "_:6d4307bb92af815977a58e72cb8245cd",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P4092",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P3575",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "data size"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "data size"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "data size"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "size of a software, dataset, neural network, or individual file"
+            },
+            "propertyType": "http://wikiba.se/ontology#Quantity",
+            "directClaim": "wdt:P3575",
+            "claim": "p:P3575",
+            "statementProperty": "ps:P3575",
+            "statementValue": "psv:P3575",
+            "qualifier": "pq:P3575",
+            "qualifierValue": "pqv:P3575",
+            "reference": "pr:P3575",
+            "referenceValue": "prv:P3575",
+            "novalue": "wdno:P3575",
+            "directClaimNormalized": "wdtn:P3575",
+            "statementValueNormalized": "psn:P3575",
+            "qualifierValueNormalized": "pqn:P3575",
+            "referenceValueNormalized": "prn:P3575"
+        },
+        {
+            "@id": "p:P3575",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P3575",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P3575",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P3575",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P3575",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P3575",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P3575",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P3575",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "psn:P3575",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqn:P3575",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prn:P3575",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdtn:P3575",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "wdno:P3575",
+            "@type": "owl:Class",
+            "complementOf": "_:b624cfad58daea2904a2149304d28205"
+        },
+        {
+            "@id": "_:b624cfad58daea2904a2149304d28205",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P3575",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P2048",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "height"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "height"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "height"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "vertical length of an entity"
+            },
+            "propertyType": "http://wikiba.se/ontology#Quantity",
+            "directClaim": "wdt:P2048",
+            "claim": "p:P2048",
+            "statementProperty": "ps:P2048",
+            "statementValue": "psv:P2048",
+            "qualifier": "pq:P2048",
+            "qualifierValue": "pqv:P2048",
+            "reference": "pr:P2048",
+            "referenceValue": "prv:P2048",
+            "novalue": "wdno:P2048",
+            "directClaimNormalized": "wdtn:P2048",
+            "statementValueNormalized": "psn:P2048",
+            "qualifierValueNormalized": "pqn:P2048",
+            "referenceValueNormalized": "prn:P2048"
+        },
+        {
+            "@id": "p:P2048",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P2048",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P2048",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P2048",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P2048",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P2048",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P2048",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P2048",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "psn:P2048",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqn:P2048",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prn:P2048",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdtn:P2048",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "wdno:P2048",
+            "@type": "owl:Class",
+            "complementOf": "_:8b9e3c496971ca7a35e1bb77aa490b02"
+        },
+        {
+            "@id": "_:8b9e3c496971ca7a35e1bb77aa490b02",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P2048",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P2049",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "width"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "width"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "width"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "width of an object"
+            },
+            "propertyType": "http://wikiba.se/ontology#Quantity",
+            "directClaim": "wdt:P2049",
+            "claim": "p:P2049",
+            "statementProperty": "ps:P2049",
+            "statementValue": "psv:P2049",
+            "qualifier": "pq:P2049",
+            "qualifierValue": "pqv:P2049",
+            "reference": "pr:P2049",
+            "referenceValue": "prv:P2049",
+            "novalue": "wdno:P2049",
+            "directClaimNormalized": "wdtn:P2049",
+            "statementValueNormalized": "psn:P2049",
+            "qualifierValueNormalized": "pqn:P2049",
+            "referenceValueNormalized": "prn:P2049"
+        },
+        {
+            "@id": "p:P2049",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P2049",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P2049",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P2049",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P2049",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P2049",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P2049",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P2049",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "psn:P2049",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqn:P2049",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prn:P2049",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdtn:P2049",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "wdno:P2049",
+            "@type": "owl:Class",
+            "complementOf": "_:a55ba6e912ddf8da0985e42b4cc289b3"
+        },
+        {
+            "@id": "_:a55ba6e912ddf8da0985e42b4cc289b3",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P2049",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:Q129464525",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "wheat field"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "wheat field"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "wheat field"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "field used to grow wheat"
+            }
+        },
+        {
+            "@id": "wd:P180",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "depicts"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "depicts"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "depicts"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "entity visually depicted in an image, literarily described in a work, or otherwise incorporated into an audiovisual or other medium; see also P921,  'main subject'"
+            },
+            "propertyType": "http://wikiba.se/ontology#WikibaseItem",
+            "directClaim": "wdt:P180",
+            "claim": "p:P180",
+            "statementProperty": "ps:P180",
+            "statementValue": "psv:P180",
+            "qualifier": "pq:P180",
+            "qualifierValue": "pqv:P180",
+            "reference": "pr:P180",
+            "referenceValue": "prv:P180",
+            "novalue": "wdno:P180"
+        },
+        {
+            "@id": "p:P180",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P180",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P180",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P180",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P180",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "ps:P180",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pq:P180",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pr:P180",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P180",
+            "@type": "owl:Class",
+            "complementOf": "_:20c681d1555b7d642c63c655f8ceb64a"
+        },
+        {
+            "@id": "_:20c681d1555b7d642c63c655f8ceb64a",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P180",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P4174",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "Wikimedia username"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "Wikimedia username"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "Wikimedia username"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "user name of a person across all Wikimedia projects"
+            },
+            "propertyType": "http://wikiba.se/ontology#ExternalId",
+            "directClaim": "wdt:P4174",
+            "claim": "p:P4174",
+            "statementProperty": "ps:P4174",
+            "statementValue": "psv:P4174",
+            "qualifier": "pq:P4174",
+            "qualifierValue": "pqv:P4174",
+            "reference": "pr:P4174",
+            "referenceValue": "prv:P4174",
+            "novalue": "wdno:P4174",
+            "directClaimNormalized": "wdtn:P4174",
+            "statementValueNormalized": "psn:P4174",
+            "qualifierValueNormalized": "pqn:P4174",
+            "referenceValueNormalized": "prn:P4174"
+        },
+        {
+            "@id": "p:P4174",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P4174",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P4174",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P4174",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P4174",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P4174",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P4174",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P4174",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "psn:P4174",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqn:P4174",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prn:P4174",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdtn:P4174",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P4174",
+            "@type": "owl:Class",
+            "complementOf": "_:05d99daa0a62f5a308ecf65c69696222"
+        },
+        {
+            "@id": "_:05d99daa0a62f5a308ecf65c69696222",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P4174",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P2699",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "URL"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "URL"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "URL"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "location of a resource"
+            },
+            "propertyType": "http://wikiba.se/ontology#Url",
+            "directClaim": "wdt:P2699",
+            "claim": "p:P2699",
+            "statementProperty": "ps:P2699",
+            "statementValue": "psv:P2699",
+            "qualifier": "pq:P2699",
+            "qualifierValue": "pqv:P2699",
+            "reference": "pr:P2699",
+            "referenceValue": "prv:P2699",
+            "novalue": "wdno:P2699"
+        },
+        {
+            "@id": "p:P2699",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P2699",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P2699",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P2699",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P2699",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "ps:P2699",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pq:P2699",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pr:P2699",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P2699",
+            "@type": "owl:Class",
+            "complementOf": "_:88208384d2489c448475c73564134874"
+        },
+        {
+            "@id": "_:88208384d2489c448475c73564134874",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P2699",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:Q33231",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "photographer"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "photographer"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "photographer"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "person who takes photographs"
+            }
+        },
+        {
+            "@id": "wd:P3831",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "object of statement has role"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "object of statement has role"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "object of statement has role"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "(qualifier) role or generic identity of the predicate value/argument of a statement (\"object\") in the context of that statement; for the role of the item the statement is on (\"subject\"), use P2868"
+            },
+            "propertyType": "http://wikiba.se/ontology#WikibaseItem",
+            "directClaim": "wdt:P3831",
+            "claim": "p:P3831",
+            "statementProperty": "ps:P3831",
+            "statementValue": "psv:P3831",
+            "qualifier": "pq:P3831",
+            "qualifierValue": "pqv:P3831",
+            "reference": "pr:P3831",
+            "referenceValue": "prv:P3831",
+            "novalue": "wdno:P3831"
+        },
+        {
+            "@id": "p:P3831",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P3831",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P3831",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P3831",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P3831",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "ps:P3831",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pq:P3831",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pr:P3831",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P3831",
+            "@type": "owl:Class",
+            "complementOf": "_:4941dbdb9a38c5a500b05366e45fe45d"
+        },
+        {
+            "@id": "_:4941dbdb9a38c5a500b05366e45fe45d",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P3831",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P2093",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "author name string"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "author name string"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "author name string"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "stores unspecified author or editor name for publications; use if Wikidata item for author (P50) or editor (P98) does not exist or is not known. Do not use both."
+            },
+            "propertyType": "http://wikiba.se/ontology#String",
+            "directClaim": "wdt:P2093",
+            "claim": "p:P2093",
+            "statementProperty": "ps:P2093",
+            "statementValue": "psv:P2093",
+            "qualifier": "pq:P2093",
+            "qualifierValue": "pqv:P2093",
+            "reference": "pr:P2093",
+            "referenceValue": "prv:P2093",
+            "novalue": "wdno:P2093"
+        },
+        {
+            "@id": "p:P2093",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P2093",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P2093",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P2093",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P2093",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P2093",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P2093",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P2093",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "wdno:P2093",
+            "@type": "owl:Class",
+            "complementOf": "_:e2221084d358cd9264ccc9b14e2b1f04"
+        },
+        {
+            "@id": "_:e2221084d358cd9264ccc9b14e2b1f04",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P2093",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:Q13414952",
+            "@type": "wikibase:Item",
+            "label": [
+                {
+                    "@language": "en",
+                    "@value": "SHA-1"
+                },
+                {
+                    "@language": "mul",
+                    "@value": "SHA-1"
+                }
+            ],
+            "prefLabel": [
+                {
+                    "@language": "en",
+                    "@value": "SHA-1"
+                },
+                {
+                    "@language": "mul",
+                    "@value": "SHA-1"
+                }
+            ],
+            "name": [
+                {
+                    "@language": "en",
+                    "@value": "SHA-1"
+                },
+                {
+                    "@language": "mul",
+                    "@value": "SHA-1"
+                }
+            ],
+            "description": {
+                "@language": "en",
+                "@value": "cryptographic hash function"
+            }
+        },
+        {
+            "@id": "wd:P459",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "determination method or standard"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "determination method or standard"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "determination method or standard"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "how a value is determined, or the standard by which it is declared"
+            },
+            "propertyType": "http://wikiba.se/ontology#WikibaseItem",
+            "directClaim": "wdt:P459",
+            "claim": "p:P459",
+            "statementProperty": "ps:P459",
+            "statementValue": "psv:P459",
+            "qualifier": "pq:P459",
+            "qualifierValue": "pqv:P459",
+            "reference": "pr:P459",
+            "referenceValue": "prv:P459",
+            "novalue": "wdno:P459"
+        },
+        {
+            "@id": "p:P459",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P459",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P459",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P459",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P459",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "ps:P459",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pq:P459",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pr:P459",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P459",
+            "@type": "owl:Class",
+            "complementOf": "_:88b70b8bfdb5c147baf5a03f4254bd4b"
+        },
+        {
+            "@id": "_:88b70b8bfdb5c147baf5a03f4254bd4b",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P459",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "sdcv:88806d3d7dfd9c6c9de974e2b188e5cd",
+            "@type": "wikibase:GlobecoordinateValue",
+            "geoLatitude": 46.659789,
+            "geoLongitude": 11.185214,
+            "geoPrecision": 1.0e-6,
+            "geoGlobe": "http://www.wikidata.org/entity/Q2"
+        },
+        {
+            "@id": "sdcv:9f9774027c86a0a141271e0fb97b1212",
+            "@type": "wikibase:QuantityValue",
+            "quantityAmount": "+7757222",
+            "quantityUnit": "http://www.wikidata.org/entity/Q8799"
+        },
+        {
+            "@id": "sdcv:43ac8b114bc068c02ac55b629d9ae86c",
+            "@type": "wikibase:QuantityValue",
+            "quantityAmount": "+2848",
+            "quantityUnit": "http://www.wikidata.org/entity/Q355198"
+        },
+        {
+            "@id": "sdcv:62bd3492bb171292952b6cc7b051148b",
+            "@type": "wikibase:QuantityValue",
+            "quantityAmount": "+4288",
+            "quantityUnit": "http://www.wikidata.org/entity/Q355198"
+        },
+        {
+            "@id": "sdcv:8412f636131121ead232f9a5d2373d5d",
+            "@type": "wikibase:TimeValue",
+            "timeValue": "2011-04-18T00:00:00Z",
+            "timePrecision": 11,
+            "timeTimezone": 0,
+            "timeCalendarModel": "http://www.wikidata.org/entity/Q1985727"
+        }
+    ],
+    "@context": {
+        "sdcdata": "https://commons.wikimedia.org/wiki/Special:EntityData/",
+        "schema": "http://schema.org/",
+        "about": {
+            "@id": "schema:about",
+            "@type": "@id"
+        },
+        "sdc": "https://commons.wikimedia.org/entity/",
+        "cc": "http://creativecommons.org/ns#",
+        "license": {
+            "@id": "cc:license",
+            "@type": "@id"
+        },
+        "softwareVersion": {
+            "@id": "schema:softwareVersion"
+        },
+        "version": {
+            "@id": "schema:version"
+        },
+        "xsd": "http://www.w3.org/2001/XMLSchema#",
+        "dateModified": {
+            "@id": "schema:dateModified",
+            "@type": "xsd:dateTime"
+        },
+        "wikibase": "http://wikiba.se/ontology#",
+        "wdt": "http://www.wikidata.org/prop/direct/",
+        "P6731": {
+            "@id": "wdt:P6731",
+            "@type": "@id"
+        },
+        "wd": "http://www.wikidata.org/entity/",
+        "P7482": {
+            "@id": "wdt:P7482",
+            "@type": "@id"
+        },
+        "P275": {
+            "@id": "wdt:P275",
+            "@type": "@id"
+        },
+        "P6216": {
+            "@id": "wdt:P6216",
+            "@type": "@id"
+        },
+        "P571": {
+            "@id": "wdt:P571",
+            "@type": "xsd:dateTime"
+        },
+        "P170": {
+            "@id": "wdt:P170",
+            "@type": "@id"
+        },
+        "P4082": {
+            "@id": "wdt:P4082",
+            "@type": "@id"
+        },
+        "geo": "http://www.opengis.net/ont/geosparql#",
+        "P1259": {
+            "@id": "wdt:P1259",
+            "@type": "geo:wktLiteral"
+        },
+        "P1163": {
+            "@id": "wdt:P1163"
+        },
+        "P4092": {
+            "@id": "wdt:P4092"
+        },
+        "P3575": {
+            "@id": "wdt:P3575",
+            "@type": "xsd:decimal"
+        },
+        "P2048": {
+            "@id": "wdt:P2048",
+            "@type": "xsd:decimal"
+        },
+        "P2049": {
+            "@id": "wdt:P2049",
+            "@type": "xsd:decimal"
+        },
+        "P180": {
+            "@id": "wdt:P180",
+            "@type": "@id"
+        },
+        "p": "http://www.wikidata.org/prop/",
+        "sdcs": "https://commons.wikimedia.org/entity/statement/",
+        "p:P6731": {
+            "@type": "@id"
+        },
+        "rank": {
+            "@id": "wikibase:rank",
+            "@type": "@id"
+        },
+        "ps": "http://www.wikidata.org/prop/statement/",
+        "ps:P6731": {
+            "@type": "@id"
+        },
+        "p:P7482": {
+            "@type": "@id"
+        },
+        "ps:P7482": {
+            "@type": "@id"
+        },
+        "p:P275": {
+            "@type": "@id"
+        },
+        "ps:P275": {
+            "@type": "@id"
+        },
+        "p:P6216": {
+            "@type": "@id"
+        },
+        "ps:P6216": {
+            "@type": "@id"
+        },
+        "p:P571": {
+            "@type": "@id"
+        },
+        "ps:P571": {
+            "@type": "xsd:dateTime"
+        },
+        "psv": "http://www.wikidata.org/prop/statement/value/",
+        "sdcv": "https://commons.wikimedia.org/value/",
+        "psv:P571": {
+            "@type": "@id"
+        },
+        "timeValue": {
+            "@id": "wikibase:timeValue",
+            "@type": "xsd:dateTime"
+        },
+        "timePrecision": {
+            "@id": "wikibase:timePrecision"
+        },
+        "timeTimezone": {
+            "@id": "wikibase:timeTimezone"
+        },
+        "timeCalendarModel": {
+            "@id": "wikibase:timeCalendarModel",
+            "@type": "@id"
+        },
+        "p:P170": {
+            "@type": "@id"
+        },
+        "ps:P170": {
+            "@type": "@id"
+        },
+        "pq": "http://www.wikidata.org/prop/qualifier/",
+        "P4174": {
+            "@id": "pq:P4174"
+        },
+        "P2699": {
+            "@id": "pq:P2699",
+            "@type": "@id"
+        },
+        "P3831": {
+            "@id": "pq:P3831",
+            "@type": "@id"
+        },
+        "P2093": {
+            "@id": "pq:P2093"
+        },
+        "p:P4082": {
+            "@type": "@id"
+        },
+        "ps:P4082": {
+            "@type": "@id"
+        },
+        "p:P1259": {
+            "@type": "@id"
+        },
+        "ps:P1259": {
+            "@type": "geo:wktLiteral"
+        },
+        "psv:P1259": {
+            "@type": "@id"
+        },
+        "geoLatitude": {
+            "@id": "wikibase:geoLatitude"
+        },
+        "geoLongitude": {
+            "@id": "wikibase:geoLongitude"
+        },
+        "geoPrecision": {
+            "@id": "wikibase:geoPrecision"
+        },
+        "geoGlobe": {
+            "@id": "wikibase:geoGlobe",
+            "@type": "@id"
+        },
+        "p:P1163": {
+            "@type": "@id"
+        },
+        "p:P4092": {
+            "@type": "@id"
+        },
+        "P459": {
+            "@id": "pq:P459",
+            "@type": "@id"
+        },
+        "p:P3575": {
+            "@type": "@id"
+        },
+        "ps:P3575": {
+            "@type": "xsd:decimal"
+        },
+        "psv:P3575": {
+            "@type": "@id"
+        },
+        "quantityAmount": {
+            "@id": "wikibase:quantityAmount",
+            "@type": "xsd:decimal"
+        },
+        "quantityUnit": {
+            "@id": "wikibase:quantityUnit",
+            "@type": "@id"
+        },
+        "p:P2048": {
+            "@type": "@id"
+        },
+        "ps:P2048": {
+            "@type": "xsd:decimal"
+        },
+        "psv:P2048": {
+            "@type": "@id"
+        },
+        "p:P2049": {
+            "@type": "@id"
+        },
+        "ps:P2049": {
+            "@type": "xsd:decimal"
+        },
+        "psv:P2049": {
+            "@type": "@id"
+        },
+        "p:P180": {
+            "@type": "@id"
+        },
+        "ps:P180": {
+            "@type": "@id"
+        },
+        "encodingFormat": {
+            "@id": "schema:encodingFormat"
+        },
+        "contentUrl": {
+            "@id": "schema:contentUrl",
+            "@type": "@id"
+        },
+        "url": {
+            "@id": "schema:url",
+            "@type": "@id"
+        },
+        "contentSize": {
+            "@id": "schema:contentSize"
+        },
+        "height": {
+            "@id": "schema:height"
+        },
+        "width": {
+            "@id": "schema:width"
+        },
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "label": {
+            "@id": "rdfs:label"
+        },
+        "skos": "http://www.w3.org/2004/02/skos/core#",
+        "prefLabel": {
+            "@id": "skos:prefLabel"
+        },
+        "name": {
+            "@id": "schema:name"
+        },
+        "description": {
+            "@id": "schema:description"
+        },
+        "propertyType": {
+            "@id": "wikibase:propertyType",
+            "@type": "@id"
+        },
+        "directClaim": {
+            "@id": "wikibase:directClaim",
+            "@type": "@id"
+        },
+        "claim": {
+            "@id": "wikibase:claim",
+            "@type": "@id"
+        },
+        "statementProperty": {
+            "@id": "wikibase:statementProperty",
+            "@type": "@id"
+        },
+        "statementValue": {
+            "@id": "wikibase:statementValue",
+            "@type": "@id"
+        },
+        "qualifier": {
+            "@id": "wikibase:qualifier",
+            "@type": "@id"
+        },
+        "qualifierValue": {
+            "@id": "wikibase:qualifierValue",
+            "@type": "@id"
+        },
+        "pqv": "http://www.wikidata.org/prop/qualifier/value/",
+        "reference": {
+            "@id": "wikibase:reference",
+            "@type": "@id"
+        },
+        "pr": "http://www.wikidata.org/prop/reference/",
+        "referenceValue": {
+            "@id": "wikibase:referenceValue",
+            "@type": "@id"
+        },
+        "prv": "http://www.wikidata.org/prop/reference/value/",
+        "novalue": {
+            "@id": "wikibase:novalue",
+            "@type": "@id"
+        },
+        "wdno": "http://www.wikidata.org/prop/novalue/",
+        "owl": "http://www.w3.org/2002/07/owl#",
+        "complementOf": {
+            "@id": "owl:complementOf",
+            "@type": "@id"
+        },
+        "onProperty": {
+            "@id": "owl:onProperty",
+            "@type": "@id"
+        },
+        "someValuesFrom": {
+            "@id": "owl:someValuesFrom",
+            "@type": "@id"
+        },
+        "directClaimNormalized": {
+            "@id": "wikibase:directClaimNormalized",
+            "@type": "@id"
+        },
+        "wdtn": "http://www.wikidata.org/prop/direct-normalized/",
+        "statementValueNormalized": {
+            "@id": "wikibase:statementValueNormalized",
+            "@type": "@id"
+        },
+        "psn": "http://www.wikidata.org/prop/statement/value-normalized/",
+        "qualifierValueNormalized": {
+            "@id": "wikibase:qualifierValueNormalized",
+            "@type": "@id"
+        },
+        "pqn": "http://www.wikidata.org/prop/qualifier/value-normalized/",
+        "referenceValueNormalized": {
+            "@id": "wikibase:referenceValueNormalized",
+            "@type": "@id"
+        },
+        "prn": "http://www.wikidata.org/prop/reference/value-normalized/"
+    }
+}

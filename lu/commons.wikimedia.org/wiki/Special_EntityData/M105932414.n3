@@ -1,0 +1,1480 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix schema: <http://schema.org/> .
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix data: <https://www.wikidata.org/wiki/Special:EntityData/> .
+@prefix s: <http://www.wikidata.org/entity/statement/> .
+@prefix ref: <http://www.wikidata.org/reference/> .
+@prefix v: <http://www.wikidata.org/value/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+@prefix wdtn: <http://www.wikidata.org/prop/direct-normalized/> .
+@prefix p: <http://www.wikidata.org/prop/> .
+@prefix ps: <http://www.wikidata.org/prop/statement/> .
+@prefix psv: <http://www.wikidata.org/prop/statement/value/> .
+@prefix psn: <http://www.wikidata.org/prop/statement/value-normalized/> .
+@prefix pq: <http://www.wikidata.org/prop/qualifier/> .
+@prefix pqv: <http://www.wikidata.org/prop/qualifier/value/> .
+@prefix pqn: <http://www.wikidata.org/prop/qualifier/value-normalized/> .
+@prefix pr: <http://www.wikidata.org/prop/reference/> .
+@prefix prv: <http://www.wikidata.org/prop/reference/value/> .
+@prefix prn: <http://www.wikidata.org/prop/reference/value-normalized/> .
+@prefix wdno: <http://www.wikidata.org/prop/novalue/> .
+@prefix sdc: <https://commons.wikimedia.org/entity/> .
+@prefix sdcdata: <https://commons.wikimedia.org/wiki/Special:EntityData/> .
+@prefix sdcs: <https://commons.wikimedia.org/entity/statement/> .
+@prefix sdcref: <https://commons.wikimedia.org/reference/> .
+@prefix sdcv: <https://commons.wikimedia.org/value/> .
+@prefix sdct: <https://commons.wikimedia.org/prop/direct/> .
+@prefix sdctn: <https://commons.wikimedia.org/prop/direct-normalized/> .
+@prefix sdcp: <https://commons.wikimedia.org/prop/> .
+@prefix sdcps: <https://commons.wikimedia.org/prop/statement/> .
+@prefix sdcpsv: <https://commons.wikimedia.org/prop/statement/value/> .
+@prefix sdcpsn: <https://commons.wikimedia.org/prop/statement/value-normalized/> .
+@prefix sdcpq: <https://commons.wikimedia.org/prop/qualifier/> .
+@prefix sdcpqv: <https://commons.wikimedia.org/prop/qualifier/value/> .
+@prefix sdcpqn: <https://commons.wikimedia.org/prop/qualifier/value-normalized/> .
+@prefix sdcpr: <https://commons.wikimedia.org/prop/reference/> .
+@prefix sdcprv: <https://commons.wikimedia.org/prop/reference/value/> .
+@prefix sdcprn: <https://commons.wikimedia.org/prop/reference/value-normalized/> .
+@prefix sdcno: <https://commons.wikimedia.org/prop/novalue/> .
+
+sdcdata:M105932414 a schema:Dataset ;
+	schema:about sdc:M105932414 ;
+	cc:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
+	schema:softwareVersion "1.0.0" ;
+	schema:version "912663138"^^xsd:integer ;
+	schema:dateModified "2024-08-19T23:25:07Z"^^xsd:dateTime .
+
+sdc:M105932414 a wikibase:Mediainfo ;
+	wdt:P180 wd:Q847750,
+		wd:Q189838,
+		wd:Q72954457 ;
+	wdt:P170 _:c59728f6f6f5fa4061d15c208885f8e4 ;
+	wdt:P571 "2021-05-08T00:00:00Z"^^xsd:dateTime ;
+	wdt:P275 wd:Q18199165 ;
+	wdt:P6216 wd:Q50423863 ;
+	wdt:P4082 wd:Q63318 ;
+	wdt:P7482 wd:Q66458942 ;
+	wdt:P1259 "Point(5.7845 52.96745)"^^geo:wktLiteral ;
+	wdt:P6731 wd:Q63348069,
+		wd:Q63348049,
+		wd:Q63348040 ;
+	wdt:P6757 "+0.02"^^xsd:decimal ;
+	wdt:P6790 "+5.6"^^xsd:decimal ;
+	wdt:P2151 "+60"^^xsd:decimal ;
+	wdt:P6789 "+200"^^xsd:decimal ;
+	wdt:P1163 "image/jpeg" ;
+	wdt:P31 wd:Q125191 ;
+	wdt:P1071 wd:Q2317245 ;
+	wdt:P4092 "e0cb650d1a55170c7ae8a107f9c0da1f64a09817" ;
+	wdt:P3575 "+6180046"^^xsd:decimal ;
+	wdt:P2048 "+2903"^^xsd:decimal ;
+	wdt:P2049 "+3629"^^xsd:decimal ;
+	p:P180 sdcs:M105932414-4937a7f6-457f-f9aa-26e5-b045541753f2 .
+
+sdcs:M105932414-4937a7f6-457f-f9aa-26e5-b045541753f2 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P180 wd:Q847750 .
+
+sdc:M105932414 p:P180 sdcs:M105932414-2492cfcd-4fe7-ad08-4ba7-6136b85da889 .
+
+sdcs:M105932414-2492cfcd-4fe7-ad08-4ba7-6136b85da889 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P180 wd:Q189838 .
+
+sdc:M105932414 p:P180 sdcs:M105932414-cd85e1bd-49b1-fc4f-8f84-a3d6f0de733e .
+
+sdcs:M105932414-cd85e1bd-49b1-fc4f-8f84-a3d6f0de733e a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P180 wd:Q72954457 .
+
+sdc:M105932414 p:P170 sdcs:M105932414-9C681A63-F048-4C58-B2BB-DF9662C16FAC .
+
+sdcs:M105932414-9C681A63-F048-4C58-B2BB-DF9662C16FAC a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P170 _:b0276719cbfcd435b2ddeccc62b7aa19 ;
+	pq:P2093 "Agnes Monkelbaan" ;
+	pq:P4174 "Agnes Monkelbaan" ;
+	pq:P2699 <https://commons.wikimedia.org/wiki/user:Agnes_Monkelbaan> .
+
+sdc:M105932414 p:P571 sdcs:M105932414-36906866-E61F-4C8B-B368-956CAAB0E7EC .
+
+sdcs:M105932414-36906866-E61F-4C8B-B368-956CAAB0E7EC a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P571 "2021-05-08T00:00:00Z"^^xsd:dateTime ;
+	psv:P571 sdcv:2ddb5760be3c5905692565d0accdee73 .
+
+sdc:M105932414 p:P275 sdcs:M105932414-416C0A0C-E64E-4D94-BECD-989F3CC5CC84 .
+
+sdcs:M105932414-416C0A0C-E64E-4D94-BECD-989F3CC5CC84 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P275 wd:Q18199165 .
+
+sdc:M105932414 p:P6216 sdcs:M105932414-8DAD4209-48E8-479B-82A4-0FE8399EBD14 .
+
+sdcs:M105932414-8DAD4209-48E8-479B-82A4-0FE8399EBD14 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P6216 wd:Q50423863 .
+
+sdc:M105932414 p:P4082 sdcs:M105932414-EE221B33-EABD-4269-8B73-4CD02836F83A .
+
+sdcs:M105932414-EE221B33-EABD-4269-8B73-4CD02836F83A a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P4082 wd:Q63318 .
+
+sdc:M105932414 p:P7482 sdcs:M105932414-82CE3E5D-5856-42C1-B866-9FBEAE7CA9C8 .
+
+sdcs:M105932414-82CE3E5D-5856-42C1-B866-9FBEAE7CA9C8 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P7482 wd:Q66458942 .
+
+sdc:M105932414 p:P1259 sdcs:M105932414-D37B1EEF-C8AD-45CD-90A8-B81AE1C8A7D2 .
+
+sdcs:M105932414-D37B1EEF-C8AD-45CD-90A8-B81AE1C8A7D2 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P1259 "Point(5.7845 52.96745)"^^geo:wktLiteral ;
+	psv:P1259 sdcv:774bdd0d417ab35b820f2abcb8d7b63a .
+
+sdc:M105932414 p:P6731 sdcs:M105932414-EBF504B0-C477-4778-8B2A-FE7685E26D75 .
+
+sdcs:M105932414-EBF504B0-C477-4778-8B2A-FE7685E26D75 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P6731 wd:Q63348069 .
+
+sdc:M105932414 p:P6731 sdcs:M105932414-DB101DB8-7018-4C31-8163-6E920A980C89 .
+
+sdcs:M105932414-DB101DB8-7018-4C31-8163-6E920A980C89 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P6731 wd:Q63348049 .
+
+sdc:M105932414 p:P6731 sdcs:M105932414-39368B94-7774-4E60-A4B5-5FF573077367 .
+
+sdcs:M105932414-39368B94-7774-4E60-A4B5-5FF573077367 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P6731 wd:Q63348040 ;
+	pq:P580 "2022-04-22T00:00:00Z"^^xsd:dateTime ;
+	pqv:P580 sdcv:1592ab924fba289f68b650c275d5d3b6 .
+
+sdc:M105932414 p:P6757 sdcs:M105932414-8FD7480D-E7EC-491A-9824-398510707484 .
+
+sdcs:M105932414-8FD7480D-E7EC-491A-9824-398510707484 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P6757 "+0.02"^^xsd:decimal ;
+	psv:P6757 sdcv:47bc375fa4623a64af880f9bb13d714f ;
+	psn:P6757 sdcv:47bc375fa4623a64af880f9bb13d714f .
+
+sdc:M105932414 p:P6790 sdcs:M105932414-EA3123D5-D86D-4869-95C9-E61D62C3342F .
+
+sdcs:M105932414-EA3123D5-D86D-4869-95C9-E61D62C3342F a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P6790 "+5.6"^^xsd:decimal ;
+	psv:P6790 sdcv:64e178c06143ee0210e178a6c3398353 .
+
+sdc:M105932414 p:P2151 sdcs:M105932414-65BB45D2-9E17-416A-AB57-B26C89404288 .
+
+sdcs:M105932414-65BB45D2-9E17-416A-AB57-B26C89404288 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P2151 "+60"^^xsd:decimal ;
+	psv:P2151 sdcv:cdecbd310b6bc3dd97a903b93f0e6de7 ;
+	psn:P2151 sdcv:8e7833aa9980255905ce8cf7e5045269 .
+
+sdc:M105932414 p:P6789 sdcs:M105932414-7AEDE511-EA35-405A-8429-6D55282C6546 .
+
+sdcs:M105932414-7AEDE511-EA35-405A-8429-6D55282C6546 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P6789 "+200"^^xsd:decimal ;
+	psv:P6789 sdcv:60aef88dc178bb470103bedbe4790143 .
+
+sdc:M105932414 p:P1163 sdcs:M105932414-7CB9982F-F9A4-41A2-B79F-58B209648F54 .
+
+sdcs:M105932414-7CB9982F-F9A4-41A2-B79F-58B209648F54 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P1163 "image/jpeg" .
+
+sdc:M105932414 p:P31 sdcs:M105932414-D71225B1-023D-4F2A-988E-B16C3225B324 .
+
+sdcs:M105932414-D71225B1-023D-4F2A-988E-B16C3225B324 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P31 wd:Q125191 .
+
+sdc:M105932414 p:P1071 sdcs:M105932414-2BEAB9BE-CFBA-4BDC-9963-C11C2103B225 .
+
+sdcs:M105932414-2BEAB9BE-CFBA-4BDC-9963-C11C2103B225 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P1071 wd:Q2317245 .
+
+sdc:M105932414 p:P4092 sdcs:M105932414-7135B30A-A891-4A67-8C83-DC6316350A4C .
+
+sdcs:M105932414-7135B30A-A891-4A67-8C83-DC6316350A4C a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P4092 "e0cb650d1a55170c7ae8a107f9c0da1f64a09817" ;
+	pq:P459 wd:Q13414952 .
+
+sdc:M105932414 p:P3575 sdcs:M105932414-A5373BB2-76E5-414F-9390-F82923E116E3 .
+
+sdcs:M105932414-A5373BB2-76E5-414F-9390-F82923E116E3 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P3575 "+6180046"^^xsd:decimal ;
+	psv:P3575 sdcv:09982c539261cf3da8fa913db2222927 .
+
+sdc:M105932414 p:P2048 sdcs:M105932414-91D66519-9828-4CC5-85E7-45F7806CE83A .
+
+sdcs:M105932414-91D66519-9828-4CC5-85E7-45F7806CE83A a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P2048 "+2903"^^xsd:decimal ;
+	psv:P2048 sdcv:f9305f2de61be0a444b20ac6957a3d6e .
+
+sdc:M105932414 p:P2049 sdcs:M105932414-A1E484D0-AC53-4147-BA81-2E465F7BDC8C .
+
+sdcs:M105932414-A1E484D0-AC53-4147-BA81-2E465F7BDC8C a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P2049 "+3629"^^xsd:decimal ;
+	psv:P2049 sdcv:a8b9a9672162e0ac709e54c34c5498bf .
+
+sdc:M105932414 schema:caption "Tellima grandiflora."@nl ;
+	rdfs:label "Tellima grandiflora."@nl ;
+	a schema:MediaObject,
+		schema:ImageObject ;
+	schema:encodingFormat "image/jpeg" ;
+	schema:contentUrl <https://upload.wikimedia.org/wikipedia/commons/5/51/Bloemknoppen_van_een_Tellima_grandiflora._08-05-2021_%28actm.%29.jpg> ;
+	schema:url <http://commons.wikimedia.org/wiki/Special:FilePath/Bloemknoppen%20van%20een%20Tellima%20grandiflora.%2008-05-2021%20%28actm.%29.jpg> ;
+	schema:contentSize "6180046"^^xsd:integer ;
+	schema:height "2903"^^xsd:integer ;
+	schema:width "3629"^^xsd:integer .
+
+wd:Q847750 a wikibase:Item ;
+	rdfs:label "Tellima grandiflora"@en ;
+	skos:prefLabel "Tellima grandiflora"@en ;
+	schema:name "Tellima grandiflora"@en ;
+	schema:description "species of plant"@en .
+
+wd:P180 a wikibase:Property ;
+	rdfs:label "depicts"@en ;
+	skos:prefLabel "depicts"@en ;
+	schema:name "depicts"@en ;
+	schema:description "entity visually depicted in an image, literarily described in a work, or otherwise incorporated into an audiovisual or other medium; see also P921,  'main subject'"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P180 ;
+	wikibase:claim p:P180 ;
+	wikibase:statementProperty ps:P180 ;
+	wikibase:statementValue psv:P180 ;
+	wikibase:qualifier pq:P180 ;
+	wikibase:qualifierValue pqv:P180 ;
+	wikibase:reference pr:P180 ;
+	wikibase:referenceValue prv:P180 ;
+	wikibase:novalue wdno:P180 .
+
+p:P180 a owl:ObjectProperty .
+
+psv:P180 a owl:ObjectProperty .
+
+pqv:P180 a owl:ObjectProperty .
+
+prv:P180 a owl:ObjectProperty .
+
+wdt:P180 a owl:ObjectProperty .
+
+ps:P180 a owl:ObjectProperty .
+
+pq:P180 a owl:ObjectProperty .
+
+pr:P180 a owl:ObjectProperty .
+
+wdno:P180 a owl:Class ;
+	owl:complementOf _:20c681d1555b7d642c63c655f8ceb64a .
+
+_:20c681d1555b7d642c63c655f8ceb64a a owl:Restriction ;
+	owl:onProperty wdt:P180 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:Q189838 a wikibase:Item ;
+	rdfs:label "bud"@en ;
+	skos:prefLabel "bud"@en ;
+	schema:name "bud"@en ;
+	schema:description "unmatured and embryonic shoot"@en .
+
+wd:Q72954457 a wikibase:Item ;
+	rdfs:label "Tuinreservaat Jonkervallei"@en ;
+	skos:prefLabel "Tuinreservaat Jonkervallei"@en ;
+	schema:name "Tuinreservaat Jonkervallei"@en ;
+	schema:description "Garden reserve in the Netherlands"@en .
+
+wd:P170 a wikibase:Property ;
+	rdfs:label "creator"@en ;
+	skos:prefLabel "creator"@en ;
+	schema:name "creator"@en ;
+	schema:description "maker of this creative work or other object (where no more specific property exists)"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P170 ;
+	wikibase:claim p:P170 ;
+	wikibase:statementProperty ps:P170 ;
+	wikibase:statementValue psv:P170 ;
+	wikibase:qualifier pq:P170 ;
+	wikibase:qualifierValue pqv:P170 ;
+	wikibase:reference pr:P170 ;
+	wikibase:referenceValue prv:P170 ;
+	wikibase:novalue wdno:P170 .
+
+p:P170 a owl:ObjectProperty .
+
+psv:P170 a owl:ObjectProperty .
+
+pqv:P170 a owl:ObjectProperty .
+
+prv:P170 a owl:ObjectProperty .
+
+wdt:P170 a owl:ObjectProperty .
+
+ps:P170 a owl:ObjectProperty .
+
+pq:P170 a owl:ObjectProperty .
+
+pr:P170 a owl:ObjectProperty .
+
+wdno:P170 a owl:Class ;
+	owl:complementOf _:9729a2092eee6702e50f1adf021a63b5 .
+
+_:9729a2092eee6702e50f1adf021a63b5 a owl:Restriction ;
+	owl:onProperty wdt:P170 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:P571 a wikibase:Property ;
+	rdfs:label "inception"@en ;
+	skos:prefLabel "inception"@en ;
+	schema:name "inception"@en ;
+	schema:description "time when an entity begins to exist; for date of official opening use P1619"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#Time> ;
+	wikibase:directClaim wdt:P571 ;
+	wikibase:claim p:P571 ;
+	wikibase:statementProperty ps:P571 ;
+	wikibase:statementValue psv:P571 ;
+	wikibase:qualifier pq:P571 ;
+	wikibase:qualifierValue pqv:P571 ;
+	wikibase:reference pr:P571 ;
+	wikibase:referenceValue prv:P571 ;
+	wikibase:novalue wdno:P571 .
+
+p:P571 a owl:ObjectProperty .
+
+psv:P571 a owl:ObjectProperty .
+
+pqv:P571 a owl:ObjectProperty .
+
+prv:P571 a owl:ObjectProperty .
+
+wdt:P571 a owl:DatatypeProperty .
+
+ps:P571 a owl:DatatypeProperty .
+
+pq:P571 a owl:DatatypeProperty .
+
+pr:P571 a owl:DatatypeProperty .
+
+wdno:P571 a owl:Class ;
+	owl:complementOf _:ed4d9507645e2210d8e4ed14d3266267 .
+
+_:ed4d9507645e2210d8e4ed14d3266267 a owl:Restriction ;
+	owl:onProperty wdt:P571 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:Q18199165 a wikibase:Item ;
+	rdfs:label "Creative Commons Attribution-ShareAlike 4.0 International"@en ;
+	skos:prefLabel "Creative Commons Attribution-ShareAlike 4.0 International"@en ;
+	schema:name "Creative Commons Attribution-ShareAlike 4.0 International"@en ;
+	schema:description "Creative Commons license"@en .
+
+wd:P275 a wikibase:Property ;
+	rdfs:label "copyright license"@en ;
+	skos:prefLabel "copyright license"@en ;
+	schema:name "copyright license"@en ;
+	schema:description "license under which this copyrighted work is released"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P275 ;
+	wikibase:claim p:P275 ;
+	wikibase:statementProperty ps:P275 ;
+	wikibase:statementValue psv:P275 ;
+	wikibase:qualifier pq:P275 ;
+	wikibase:qualifierValue pqv:P275 ;
+	wikibase:reference pr:P275 ;
+	wikibase:referenceValue prv:P275 ;
+	wikibase:novalue wdno:P275 .
+
+p:P275 a owl:ObjectProperty .
+
+psv:P275 a owl:ObjectProperty .
+
+pqv:P275 a owl:ObjectProperty .
+
+prv:P275 a owl:ObjectProperty .
+
+wdt:P275 a owl:ObjectProperty .
+
+ps:P275 a owl:ObjectProperty .
+
+pq:P275 a owl:ObjectProperty .
+
+pr:P275 a owl:ObjectProperty .
+
+wdno:P275 a owl:Class ;
+	owl:complementOf _:298aabdb0974253ac321b0308875c924 .
+
+_:298aabdb0974253ac321b0308875c924 a owl:Restriction ;
+	owl:onProperty wdt:P275 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:Q50423863 a wikibase:Item ;
+	rdfs:label "copyrighted"@en ;
+	skos:prefLabel "copyrighted"@en ;
+	schema:name "copyrighted"@en ;
+	schema:description "legal state of a work as recognised as an intellectual property of an entity"@en .
+
+wd:P6216 a wikibase:Property ;
+	rdfs:label "copyright status"@en ;
+	skos:prefLabel "copyright status"@en ;
+	schema:name "copyright status"@en ;
+	schema:description "copyright status for intellectual creations like works of art, publications, software, etc."@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P6216 ;
+	wikibase:claim p:P6216 ;
+	wikibase:statementProperty ps:P6216 ;
+	wikibase:statementValue psv:P6216 ;
+	wikibase:qualifier pq:P6216 ;
+	wikibase:qualifierValue pqv:P6216 ;
+	wikibase:reference pr:P6216 ;
+	wikibase:referenceValue prv:P6216 ;
+	wikibase:novalue wdno:P6216 .
+
+p:P6216 a owl:ObjectProperty .
+
+psv:P6216 a owl:ObjectProperty .
+
+pqv:P6216 a owl:ObjectProperty .
+
+prv:P6216 a owl:ObjectProperty .
+
+wdt:P6216 a owl:ObjectProperty .
+
+ps:P6216 a owl:ObjectProperty .
+
+pq:P6216 a owl:ObjectProperty .
+
+pr:P6216 a owl:ObjectProperty .
+
+wdno:P6216 a owl:Class ;
+	owl:complementOf _:b1252803b14cb4551e630f41e1deba59 .
+
+_:b1252803b14cb4551e630f41e1deba59 a owl:Restriction ;
+	owl:onProperty wdt:P6216 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:Q63318 a wikibase:Item ;
+	rdfs:label "Canon EOS M"@en ;
+	skos:prefLabel "Canon EOS M"@en ;
+	schema:name "Canon EOS M"@en ;
+	schema:description "camera"@en .
+
+wd:P4082 a wikibase:Property ;
+	rdfs:label "captured with"@en ;
+	skos:prefLabel "captured with"@en ;
+	schema:name "captured with"@en ;
+	schema:description "equipment (e.g. model of camera, lens microphone), used to capture this image, video, audio, or data"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P4082 ;
+	wikibase:claim p:P4082 ;
+	wikibase:statementProperty ps:P4082 ;
+	wikibase:statementValue psv:P4082 ;
+	wikibase:qualifier pq:P4082 ;
+	wikibase:qualifierValue pqv:P4082 ;
+	wikibase:reference pr:P4082 ;
+	wikibase:referenceValue prv:P4082 ;
+	wikibase:novalue wdno:P4082 .
+
+p:P4082 a owl:ObjectProperty .
+
+psv:P4082 a owl:ObjectProperty .
+
+pqv:P4082 a owl:ObjectProperty .
+
+prv:P4082 a owl:ObjectProperty .
+
+wdt:P4082 a owl:ObjectProperty .
+
+ps:P4082 a owl:ObjectProperty .
+
+pq:P4082 a owl:ObjectProperty .
+
+pr:P4082 a owl:ObjectProperty .
+
+wdno:P4082 a owl:Class ;
+	owl:complementOf _:2c1e635be6a9c129b8132793cee4cc90 .
+
+_:2c1e635be6a9c129b8132793cee4cc90 a owl:Restriction ;
+	owl:onProperty wdt:P4082 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:Q66458942 a wikibase:Item ;
+	rdfs:label "original creation by uploader"@en ;
+	skos:prefLabel "original creation by uploader"@en ;
+	schema:name "original creation by uploader"@en ;
+	schema:description "value to indicate source of an image on Wikimedia Commons"@en .
+
+wd:P7482 a wikibase:Property ;
+	rdfs:label "source of file"@en ;
+	skos:prefLabel "source of file"@en ;
+	schema:name "source of file"@en ;
+	schema:description "broad nature of the origin of the file"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P7482 ;
+	wikibase:claim p:P7482 ;
+	wikibase:statementProperty ps:P7482 ;
+	wikibase:statementValue psv:P7482 ;
+	wikibase:qualifier pq:P7482 ;
+	wikibase:qualifierValue pqv:P7482 ;
+	wikibase:reference pr:P7482 ;
+	wikibase:referenceValue prv:P7482 ;
+	wikibase:novalue wdno:P7482 .
+
+p:P7482 a owl:ObjectProperty .
+
+psv:P7482 a owl:ObjectProperty .
+
+pqv:P7482 a owl:ObjectProperty .
+
+prv:P7482 a owl:ObjectProperty .
+
+wdt:P7482 a owl:ObjectProperty .
+
+ps:P7482 a owl:ObjectProperty .
+
+pq:P7482 a owl:ObjectProperty .
+
+pr:P7482 a owl:ObjectProperty .
+
+wdno:P7482 a owl:Class ;
+	owl:complementOf _:acc493f3ae8de4cf9c16f9963879aa6e .
+
+_:acc493f3ae8de4cf9c16f9963879aa6e a owl:Restriction ;
+	owl:onProperty wdt:P7482 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:P1259 a wikibase:Property ;
+	rdfs:label "coordinates of the point of view"@en ;
+	skos:prefLabel "coordinates of the point of view"@en ;
+	schema:name "coordinates of the point of view"@en ;
+	schema:description "point from which the scene depicted by the element is seen (element can be a photo, a painting, etc.)"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#GlobeCoordinate> ;
+	wikibase:directClaim wdt:P1259 ;
+	wikibase:claim p:P1259 ;
+	wikibase:statementProperty ps:P1259 ;
+	wikibase:statementValue psv:P1259 ;
+	wikibase:qualifier pq:P1259 ;
+	wikibase:qualifierValue pqv:P1259 ;
+	wikibase:reference pr:P1259 ;
+	wikibase:referenceValue prv:P1259 ;
+	wikibase:novalue wdno:P1259 .
+
+p:P1259 a owl:ObjectProperty .
+
+psv:P1259 a owl:ObjectProperty .
+
+pqv:P1259 a owl:ObjectProperty .
+
+prv:P1259 a owl:ObjectProperty .
+
+wdt:P1259 a owl:DatatypeProperty .
+
+ps:P1259 a owl:DatatypeProperty .
+
+pq:P1259 a owl:DatatypeProperty .
+
+pr:P1259 a owl:DatatypeProperty .
+
+wdno:P1259 a owl:Class ;
+	owl:complementOf _:898f1c66ba4bb87bef2c6cb7c8bbaa52 .
+
+_:898f1c66ba4bb87bef2c6cb7c8bbaa52 a owl:Restriction ;
+	owl:onProperty wdt:P1259 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:Q63348069 a wikibase:Item ;
+	rdfs:label "Wikimedia Commons quality image"@en ;
+	skos:prefLabel "Wikimedia Commons quality image"@en ;
+	schema:name "Wikimedia Commons quality image"@en ;
+	schema:description "image assessment on Wikimedia Commons"@en .
+
+wd:P6731 a wikibase:Property ;
+	rdfs:label "Commons quality assessment"@en ;
+	skos:prefLabel "Commons quality assessment"@en ;
+	schema:name "Commons quality assessment"@en ;
+	schema:description "assessment on Wikimedia Commons of the file: featured picture, valued image, quality images, picture of the day, picture of the year etc. Use on media entities only"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P6731 ;
+	wikibase:claim p:P6731 ;
+	wikibase:statementProperty ps:P6731 ;
+	wikibase:statementValue psv:P6731 ;
+	wikibase:qualifier pq:P6731 ;
+	wikibase:qualifierValue pqv:P6731 ;
+	wikibase:reference pr:P6731 ;
+	wikibase:referenceValue prv:P6731 ;
+	wikibase:novalue wdno:P6731 .
+
+p:P6731 a owl:ObjectProperty .
+
+psv:P6731 a owl:ObjectProperty .
+
+pqv:P6731 a owl:ObjectProperty .
+
+prv:P6731 a owl:ObjectProperty .
+
+wdt:P6731 a owl:ObjectProperty .
+
+ps:P6731 a owl:ObjectProperty .
+
+pq:P6731 a owl:ObjectProperty .
+
+pr:P6731 a owl:ObjectProperty .
+
+wdno:P6731 a owl:Class ;
+	owl:complementOf _:92250d59dc74c21873210d1dcf13c187 .
+
+_:92250d59dc74c21873210d1dcf13c187 a owl:Restriction ;
+	owl:onProperty wdt:P6731 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:Q63348049 a wikibase:Item ;
+	rdfs:label "Wikimedia Commons featured picture"@en ;
+	skos:prefLabel "Wikimedia Commons featured picture"@en ;
+	schema:name "Wikimedia Commons featured picture"@en ;
+	schema:description "image assessment on Wikimedia Commons"@en .
+
+wd:Q63348040 a wikibase:Item ;
+	rdfs:label "Wikimedia Commons valued image"@en ;
+	skos:prefLabel "Wikimedia Commons valued image"@en ;
+	schema:name "Wikimedia Commons valued image"@en ;
+	schema:description "image assessment on Wikimedia Commons"@en .
+
+wd:P6757 a wikibase:Property ;
+	rdfs:label "exposure time"@en ;
+	skos:prefLabel "exposure time"@en ;
+	schema:name "exposure time"@en ;
+	schema:description "the length of time a image sensor or photographic film is exposed to light."@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#Quantity> ;
+	wikibase:directClaim wdt:P6757 ;
+	wikibase:claim p:P6757 ;
+	wikibase:statementProperty ps:P6757 ;
+	wikibase:statementValue psv:P6757 ;
+	wikibase:qualifier pq:P6757 ;
+	wikibase:qualifierValue pqv:P6757 ;
+	wikibase:reference pr:P6757 ;
+	wikibase:referenceValue prv:P6757 ;
+	wikibase:novalue wdno:P6757 ;
+	wikibase:directClaimNormalized wdtn:P6757 ;
+	wikibase:statementValueNormalized psn:P6757 ;
+	wikibase:qualifierValueNormalized pqn:P6757 ;
+	wikibase:referenceValueNormalized prn:P6757 .
+
+p:P6757 a owl:ObjectProperty .
+
+psv:P6757 a owl:ObjectProperty .
+
+pqv:P6757 a owl:ObjectProperty .
+
+prv:P6757 a owl:ObjectProperty .
+
+wdt:P6757 a owl:DatatypeProperty .
+
+ps:P6757 a owl:DatatypeProperty .
+
+pq:P6757 a owl:DatatypeProperty .
+
+pr:P6757 a owl:DatatypeProperty .
+
+psn:P6757 a owl:ObjectProperty .
+
+pqn:P6757 a owl:ObjectProperty .
+
+prn:P6757 a owl:ObjectProperty .
+
+wdtn:P6757 a owl:DatatypeProperty .
+
+wdno:P6757 a owl:Class ;
+	owl:complementOf _:b2cea30b1f61af5c897a045b9d0faead .
+
+_:b2cea30b1f61af5c897a045b9d0faead a owl:Restriction ;
+	owl:onProperty wdt:P6757 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:P6790 a wikibase:Property ;
+	rdfs:label "f-number"@en ;
+	skos:prefLabel "f-number"@en ;
+	schema:name "f-number"@en ;
+	schema:description "ratio of the system's focal length to the diameter of the entrance pupil. Sample: 4 (generally written \"ƒ/4\") for a lens with 200 mm focal length using an entrance pupil diameter of 50 mm."@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#Quantity> ;
+	wikibase:directClaim wdt:P6790 ;
+	wikibase:claim p:P6790 ;
+	wikibase:statementProperty ps:P6790 ;
+	wikibase:statementValue psv:P6790 ;
+	wikibase:qualifier pq:P6790 ;
+	wikibase:qualifierValue pqv:P6790 ;
+	wikibase:reference pr:P6790 ;
+	wikibase:referenceValue prv:P6790 ;
+	wikibase:novalue wdno:P6790 ;
+	wikibase:directClaimNormalized wdtn:P6790 ;
+	wikibase:statementValueNormalized psn:P6790 ;
+	wikibase:qualifierValueNormalized pqn:P6790 ;
+	wikibase:referenceValueNormalized prn:P6790 .
+
+p:P6790 a owl:ObjectProperty .
+
+psv:P6790 a owl:ObjectProperty .
+
+pqv:P6790 a owl:ObjectProperty .
+
+prv:P6790 a owl:ObjectProperty .
+
+wdt:P6790 a owl:DatatypeProperty .
+
+ps:P6790 a owl:DatatypeProperty .
+
+pq:P6790 a owl:DatatypeProperty .
+
+pr:P6790 a owl:DatatypeProperty .
+
+psn:P6790 a owl:ObjectProperty .
+
+pqn:P6790 a owl:ObjectProperty .
+
+prn:P6790 a owl:ObjectProperty .
+
+wdtn:P6790 a owl:DatatypeProperty .
+
+wdno:P6790 a owl:Class ;
+	owl:complementOf _:c11756882e67bf597f80a2a652bd76ec .
+
+_:c11756882e67bf597f80a2a652bd76ec a owl:Restriction ;
+	owl:onProperty wdt:P6790 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:P2151 a wikibase:Property ;
+	rdfs:label "focal length"@en ;
+	skos:prefLabel "focal length"@en ;
+	schema:name "focal length"@en ;
+	schema:description "focal length of lens (telescope, etc.)"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#Quantity> ;
+	wikibase:directClaim wdt:P2151 ;
+	wikibase:claim p:P2151 ;
+	wikibase:statementProperty ps:P2151 ;
+	wikibase:statementValue psv:P2151 ;
+	wikibase:qualifier pq:P2151 ;
+	wikibase:qualifierValue pqv:P2151 ;
+	wikibase:reference pr:P2151 ;
+	wikibase:referenceValue prv:P2151 ;
+	wikibase:novalue wdno:P2151 ;
+	wikibase:directClaimNormalized wdtn:P2151 ;
+	wikibase:statementValueNormalized psn:P2151 ;
+	wikibase:qualifierValueNormalized pqn:P2151 ;
+	wikibase:referenceValueNormalized prn:P2151 .
+
+p:P2151 a owl:ObjectProperty .
+
+psv:P2151 a owl:ObjectProperty .
+
+pqv:P2151 a owl:ObjectProperty .
+
+prv:P2151 a owl:ObjectProperty .
+
+wdt:P2151 a owl:DatatypeProperty .
+
+ps:P2151 a owl:DatatypeProperty .
+
+pq:P2151 a owl:DatatypeProperty .
+
+pr:P2151 a owl:DatatypeProperty .
+
+psn:P2151 a owl:ObjectProperty .
+
+pqn:P2151 a owl:ObjectProperty .
+
+prn:P2151 a owl:ObjectProperty .
+
+wdtn:P2151 a owl:DatatypeProperty .
+
+wdno:P2151 a owl:Class ;
+	owl:complementOf _:48da9607ea4e9a3d43e12ffee146eb58 .
+
+_:48da9607ea4e9a3d43e12ffee146eb58 a owl:Restriction ;
+	owl:onProperty wdt:P2151 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:P6789 a wikibase:Property ;
+	rdfs:label "ISO speed"@en ;
+	skos:prefLabel "ISO speed"@en ;
+	schema:name "ISO speed"@en ;
+	schema:description "light sensitivity of film or digital sensor (e.g. ISO/ASA 100)"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#Quantity> ;
+	wikibase:directClaim wdt:P6789 ;
+	wikibase:claim p:P6789 ;
+	wikibase:statementProperty ps:P6789 ;
+	wikibase:statementValue psv:P6789 ;
+	wikibase:qualifier pq:P6789 ;
+	wikibase:qualifierValue pqv:P6789 ;
+	wikibase:reference pr:P6789 ;
+	wikibase:referenceValue prv:P6789 ;
+	wikibase:novalue wdno:P6789 ;
+	wikibase:directClaimNormalized wdtn:P6789 ;
+	wikibase:statementValueNormalized psn:P6789 ;
+	wikibase:qualifierValueNormalized pqn:P6789 ;
+	wikibase:referenceValueNormalized prn:P6789 .
+
+p:P6789 a owl:ObjectProperty .
+
+psv:P6789 a owl:ObjectProperty .
+
+pqv:P6789 a owl:ObjectProperty .
+
+prv:P6789 a owl:ObjectProperty .
+
+wdt:P6789 a owl:DatatypeProperty .
+
+ps:P6789 a owl:DatatypeProperty .
+
+pq:P6789 a owl:DatatypeProperty .
+
+pr:P6789 a owl:DatatypeProperty .
+
+psn:P6789 a owl:ObjectProperty .
+
+pqn:P6789 a owl:ObjectProperty .
+
+prn:P6789 a owl:ObjectProperty .
+
+wdtn:P6789 a owl:DatatypeProperty .
+
+wdno:P6789 a owl:Class ;
+	owl:complementOf _:8b33f5391f5b233c9e206e786a61d95b .
+
+_:8b33f5391f5b233c9e206e786a61d95b a owl:Restriction ;
+	owl:onProperty wdt:P6789 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:P1163 a wikibase:Property ;
+	rdfs:label "media type"@en ;
+	skos:prefLabel "media type"@en ;
+	schema:name "media type"@en ;
+	schema:description "IANA-registered identifier for a file type"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#String> ;
+	wikibase:directClaim wdt:P1163 ;
+	wikibase:claim p:P1163 ;
+	wikibase:statementProperty ps:P1163 ;
+	wikibase:statementValue psv:P1163 ;
+	wikibase:qualifier pq:P1163 ;
+	wikibase:qualifierValue pqv:P1163 ;
+	wikibase:reference pr:P1163 ;
+	wikibase:referenceValue prv:P1163 ;
+	wikibase:novalue wdno:P1163 .
+
+p:P1163 a owl:ObjectProperty .
+
+psv:P1163 a owl:ObjectProperty .
+
+pqv:P1163 a owl:ObjectProperty .
+
+prv:P1163 a owl:ObjectProperty .
+
+wdt:P1163 a owl:DatatypeProperty .
+
+ps:P1163 a owl:DatatypeProperty .
+
+pq:P1163 a owl:DatatypeProperty .
+
+pr:P1163 a owl:DatatypeProperty .
+
+wdno:P1163 a owl:Class ;
+	owl:complementOf _:704e62989d8eb9df732666f92fa84714 .
+
+_:704e62989d8eb9df732666f92fa84714 a owl:Restriction ;
+	owl:onProperty wdt:P1163 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:Q125191 a wikibase:Item ;
+	rdfs:label "photograph"@en ;
+	skos:prefLabel "photograph"@en ;
+	schema:name "photograph"@en ;
+	schema:description "image created by light falling on a light-sensitive surface"@en .
+
+wd:P31 a wikibase:Property ;
+	rdfs:label "instance of"@en ;
+	skos:prefLabel "instance of"@en ;
+	schema:name "instance of"@en ;
+	schema:description "that class of which this subject is a particular example and member; different from P279 (subclass of); for example: K2 is an instance of mountain; volcano is a subclass of mountain (and an instance of volcanic landform)"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P31 ;
+	wikibase:claim p:P31 ;
+	wikibase:statementProperty ps:P31 ;
+	wikibase:statementValue psv:P31 ;
+	wikibase:qualifier pq:P31 ;
+	wikibase:qualifierValue pqv:P31 ;
+	wikibase:reference pr:P31 ;
+	wikibase:referenceValue prv:P31 ;
+	wikibase:novalue wdno:P31 .
+
+p:P31 a owl:ObjectProperty .
+
+psv:P31 a owl:ObjectProperty .
+
+pqv:P31 a owl:ObjectProperty .
+
+prv:P31 a owl:ObjectProperty .
+
+wdt:P31 a owl:ObjectProperty .
+
+ps:P31 a owl:ObjectProperty .
+
+pq:P31 a owl:ObjectProperty .
+
+pr:P31 a owl:ObjectProperty .
+
+wdno:P31 a owl:Class ;
+	owl:complementOf _:0b8bd71b926a65ca3fa72e5d9103e4d6 .
+
+_:0b8bd71b926a65ca3fa72e5d9103e4d6 a owl:Restriction ;
+	owl:onProperty wdt:P31 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:Q2317245 a wikibase:Item ;
+	rdfs:label "Joure"@en ;
+	skos:prefLabel "Joure"@en ;
+	schema:name "Joure"@en ;
+	schema:description "town in Friesland, Netherlands"@en .
+
+wd:P1071 a wikibase:Property ;
+	rdfs:label "location of creation"@en ;
+	skos:prefLabel "location of creation"@en ;
+	schema:name "location of creation"@en ;
+	schema:description "place where the item was conceived or made; where applicable, location of final assembly"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P1071 ;
+	wikibase:claim p:P1071 ;
+	wikibase:statementProperty ps:P1071 ;
+	wikibase:statementValue psv:P1071 ;
+	wikibase:qualifier pq:P1071 ;
+	wikibase:qualifierValue pqv:P1071 ;
+	wikibase:reference pr:P1071 ;
+	wikibase:referenceValue prv:P1071 ;
+	wikibase:novalue wdno:P1071 .
+
+p:P1071 a owl:ObjectProperty .
+
+psv:P1071 a owl:ObjectProperty .
+
+pqv:P1071 a owl:ObjectProperty .
+
+prv:P1071 a owl:ObjectProperty .
+
+wdt:P1071 a owl:ObjectProperty .
+
+ps:P1071 a owl:ObjectProperty .
+
+pq:P1071 a owl:ObjectProperty .
+
+pr:P1071 a owl:ObjectProperty .
+
+wdno:P1071 a owl:Class ;
+	owl:complementOf _:cedbe04321b7bff1df695487043e8817 .
+
+_:cedbe04321b7bff1df695487043e8817 a owl:Restriction ;
+	owl:onProperty wdt:P1071 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:P4092 a wikibase:Property ;
+	rdfs:label "checksum"@en ;
+	skos:prefLabel "checksum"@en ;
+	schema:name "checksum"@en ;
+	schema:description "small-sized datum derived from a block of digital data for the purpose of detecting errors. Use qualifier \"determination method\" (P459) to indicate how it's calculated, e.g. MD5."@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#String> ;
+	wikibase:directClaim wdt:P4092 ;
+	wikibase:claim p:P4092 ;
+	wikibase:statementProperty ps:P4092 ;
+	wikibase:statementValue psv:P4092 ;
+	wikibase:qualifier pq:P4092 ;
+	wikibase:qualifierValue pqv:P4092 ;
+	wikibase:reference pr:P4092 ;
+	wikibase:referenceValue prv:P4092 ;
+	wikibase:novalue wdno:P4092 .
+
+p:P4092 a owl:ObjectProperty .
+
+psv:P4092 a owl:ObjectProperty .
+
+pqv:P4092 a owl:ObjectProperty .
+
+prv:P4092 a owl:ObjectProperty .
+
+wdt:P4092 a owl:DatatypeProperty .
+
+ps:P4092 a owl:DatatypeProperty .
+
+pq:P4092 a owl:DatatypeProperty .
+
+pr:P4092 a owl:DatatypeProperty .
+
+wdno:P4092 a owl:Class ;
+	owl:complementOf _:6d4307bb92af815977a58e72cb8245cd .
+
+_:6d4307bb92af815977a58e72cb8245cd a owl:Restriction ;
+	owl:onProperty wdt:P4092 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:P3575 a wikibase:Property ;
+	rdfs:label "data size"@en ;
+	skos:prefLabel "data size"@en ;
+	schema:name "data size"@en ;
+	schema:description "size of a software, dataset, neural network, or individual file"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#Quantity> ;
+	wikibase:directClaim wdt:P3575 ;
+	wikibase:claim p:P3575 ;
+	wikibase:statementProperty ps:P3575 ;
+	wikibase:statementValue psv:P3575 ;
+	wikibase:qualifier pq:P3575 ;
+	wikibase:qualifierValue pqv:P3575 ;
+	wikibase:reference pr:P3575 ;
+	wikibase:referenceValue prv:P3575 ;
+	wikibase:novalue wdno:P3575 ;
+	wikibase:directClaimNormalized wdtn:P3575 ;
+	wikibase:statementValueNormalized psn:P3575 ;
+	wikibase:qualifierValueNormalized pqn:P3575 ;
+	wikibase:referenceValueNormalized prn:P3575 .
+
+p:P3575 a owl:ObjectProperty .
+
+psv:P3575 a owl:ObjectProperty .
+
+pqv:P3575 a owl:ObjectProperty .
+
+prv:P3575 a owl:ObjectProperty .
+
+wdt:P3575 a owl:DatatypeProperty .
+
+ps:P3575 a owl:DatatypeProperty .
+
+pq:P3575 a owl:DatatypeProperty .
+
+pr:P3575 a owl:DatatypeProperty .
+
+psn:P3575 a owl:ObjectProperty .
+
+pqn:P3575 a owl:ObjectProperty .
+
+prn:P3575 a owl:ObjectProperty .
+
+wdtn:P3575 a owl:DatatypeProperty .
+
+wdno:P3575 a owl:Class ;
+	owl:complementOf _:b624cfad58daea2904a2149304d28205 .
+
+_:b624cfad58daea2904a2149304d28205 a owl:Restriction ;
+	owl:onProperty wdt:P3575 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:P2048 a wikibase:Property ;
+	rdfs:label "height"@en ;
+	skos:prefLabel "height"@en ;
+	schema:name "height"@en ;
+	schema:description "vertical length of an entity"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#Quantity> ;
+	wikibase:directClaim wdt:P2048 ;
+	wikibase:claim p:P2048 ;
+	wikibase:statementProperty ps:P2048 ;
+	wikibase:statementValue psv:P2048 ;
+	wikibase:qualifier pq:P2048 ;
+	wikibase:qualifierValue pqv:P2048 ;
+	wikibase:reference pr:P2048 ;
+	wikibase:referenceValue prv:P2048 ;
+	wikibase:novalue wdno:P2048 ;
+	wikibase:directClaimNormalized wdtn:P2048 ;
+	wikibase:statementValueNormalized psn:P2048 ;
+	wikibase:qualifierValueNormalized pqn:P2048 ;
+	wikibase:referenceValueNormalized prn:P2048 .
+
+p:P2048 a owl:ObjectProperty .
+
+psv:P2048 a owl:ObjectProperty .
+
+pqv:P2048 a owl:ObjectProperty .
+
+prv:P2048 a owl:ObjectProperty .
+
+wdt:P2048 a owl:DatatypeProperty .
+
+ps:P2048 a owl:DatatypeProperty .
+
+pq:P2048 a owl:DatatypeProperty .
+
+pr:P2048 a owl:DatatypeProperty .
+
+psn:P2048 a owl:ObjectProperty .
+
+pqn:P2048 a owl:ObjectProperty .
+
+prn:P2048 a owl:ObjectProperty .
+
+wdtn:P2048 a owl:DatatypeProperty .
+
+wdno:P2048 a owl:Class ;
+	owl:complementOf _:8b9e3c496971ca7a35e1bb77aa490b02 .
+
+_:8b9e3c496971ca7a35e1bb77aa490b02 a owl:Restriction ;
+	owl:onProperty wdt:P2048 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:P2049 a wikibase:Property ;
+	rdfs:label "width"@en ;
+	skos:prefLabel "width"@en ;
+	schema:name "width"@en ;
+	schema:description "width of an object"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#Quantity> ;
+	wikibase:directClaim wdt:P2049 ;
+	wikibase:claim p:P2049 ;
+	wikibase:statementProperty ps:P2049 ;
+	wikibase:statementValue psv:P2049 ;
+	wikibase:qualifier pq:P2049 ;
+	wikibase:qualifierValue pqv:P2049 ;
+	wikibase:reference pr:P2049 ;
+	wikibase:referenceValue prv:P2049 ;
+	wikibase:novalue wdno:P2049 ;
+	wikibase:directClaimNormalized wdtn:P2049 ;
+	wikibase:statementValueNormalized psn:P2049 ;
+	wikibase:qualifierValueNormalized pqn:P2049 ;
+	wikibase:referenceValueNormalized prn:P2049 .
+
+p:P2049 a owl:ObjectProperty .
+
+psv:P2049 a owl:ObjectProperty .
+
+pqv:P2049 a owl:ObjectProperty .
+
+prv:P2049 a owl:ObjectProperty .
+
+wdt:P2049 a owl:DatatypeProperty .
+
+ps:P2049 a owl:DatatypeProperty .
+
+pq:P2049 a owl:DatatypeProperty .
+
+pr:P2049 a owl:DatatypeProperty .
+
+psn:P2049 a owl:ObjectProperty .
+
+pqn:P2049 a owl:ObjectProperty .
+
+prn:P2049 a owl:ObjectProperty .
+
+wdtn:P2049 a owl:DatatypeProperty .
+
+wdno:P2049 a owl:Class ;
+	owl:complementOf _:a55ba6e912ddf8da0985e42b4cc289b3 .
+
+_:a55ba6e912ddf8da0985e42b4cc289b3 a owl:Restriction ;
+	owl:onProperty wdt:P2049 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:P2093 a wikibase:Property ;
+	rdfs:label "author name string"@en ;
+	skos:prefLabel "author name string"@en ;
+	schema:name "author name string"@en ;
+	schema:description "stores unspecified author or editor name for publications; use if Wikidata item for author (P50) or editor (P98) does not exist or is not known. Do not use both."@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#String> ;
+	wikibase:directClaim wdt:P2093 ;
+	wikibase:claim p:P2093 ;
+	wikibase:statementProperty ps:P2093 ;
+	wikibase:statementValue psv:P2093 ;
+	wikibase:qualifier pq:P2093 ;
+	wikibase:qualifierValue pqv:P2093 ;
+	wikibase:reference pr:P2093 ;
+	wikibase:referenceValue prv:P2093 ;
+	wikibase:novalue wdno:P2093 .
+
+p:P2093 a owl:ObjectProperty .
+
+psv:P2093 a owl:ObjectProperty .
+
+pqv:P2093 a owl:ObjectProperty .
+
+prv:P2093 a owl:ObjectProperty .
+
+wdt:P2093 a owl:DatatypeProperty .
+
+ps:P2093 a owl:DatatypeProperty .
+
+pq:P2093 a owl:DatatypeProperty .
+
+pr:P2093 a owl:DatatypeProperty .
+
+wdno:P2093 a owl:Class ;
+	owl:complementOf _:e2221084d358cd9264ccc9b14e2b1f04 .
+
+_:e2221084d358cd9264ccc9b14e2b1f04 a owl:Restriction ;
+	owl:onProperty wdt:P2093 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:P4174 a wikibase:Property ;
+	rdfs:label "Wikimedia username"@en ;
+	skos:prefLabel "Wikimedia username"@en ;
+	schema:name "Wikimedia username"@en ;
+	schema:description "user name of a person across all Wikimedia projects"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#ExternalId> ;
+	wikibase:directClaim wdt:P4174 ;
+	wikibase:claim p:P4174 ;
+	wikibase:statementProperty ps:P4174 ;
+	wikibase:statementValue psv:P4174 ;
+	wikibase:qualifier pq:P4174 ;
+	wikibase:qualifierValue pqv:P4174 ;
+	wikibase:reference pr:P4174 ;
+	wikibase:referenceValue prv:P4174 ;
+	wikibase:novalue wdno:P4174 ;
+	wikibase:directClaimNormalized wdtn:P4174 ;
+	wikibase:statementValueNormalized psn:P4174 ;
+	wikibase:qualifierValueNormalized pqn:P4174 ;
+	wikibase:referenceValueNormalized prn:P4174 .
+
+p:P4174 a owl:ObjectProperty .
+
+psv:P4174 a owl:ObjectProperty .
+
+pqv:P4174 a owl:ObjectProperty .
+
+prv:P4174 a owl:ObjectProperty .
+
+wdt:P4174 a owl:DatatypeProperty .
+
+ps:P4174 a owl:DatatypeProperty .
+
+pq:P4174 a owl:DatatypeProperty .
+
+pr:P4174 a owl:DatatypeProperty .
+
+psn:P4174 a owl:ObjectProperty .
+
+pqn:P4174 a owl:ObjectProperty .
+
+prn:P4174 a owl:ObjectProperty .
+
+wdtn:P4174 a owl:ObjectProperty .
+
+wdno:P4174 a owl:Class ;
+	owl:complementOf _:05d99daa0a62f5a308ecf65c69696222 .
+
+_:05d99daa0a62f5a308ecf65c69696222 a owl:Restriction ;
+	owl:onProperty wdt:P4174 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:P2699 a wikibase:Property ;
+	rdfs:label "URL"@en ;
+	skos:prefLabel "URL"@en ;
+	schema:name "URL"@en ;
+	schema:description "location of a resource"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#Url> ;
+	wikibase:directClaim wdt:P2699 ;
+	wikibase:claim p:P2699 ;
+	wikibase:statementProperty ps:P2699 ;
+	wikibase:statementValue psv:P2699 ;
+	wikibase:qualifier pq:P2699 ;
+	wikibase:qualifierValue pqv:P2699 ;
+	wikibase:reference pr:P2699 ;
+	wikibase:referenceValue prv:P2699 ;
+	wikibase:novalue wdno:P2699 .
+
+p:P2699 a owl:ObjectProperty .
+
+psv:P2699 a owl:ObjectProperty .
+
+pqv:P2699 a owl:ObjectProperty .
+
+prv:P2699 a owl:ObjectProperty .
+
+wdt:P2699 a owl:ObjectProperty .
+
+ps:P2699 a owl:ObjectProperty .
+
+pq:P2699 a owl:ObjectProperty .
+
+pr:P2699 a owl:ObjectProperty .
+
+wdno:P2699 a owl:Class ;
+	owl:complementOf _:88208384d2489c448475c73564134874 .
+
+_:88208384d2489c448475c73564134874 a owl:Restriction ;
+	owl:onProperty wdt:P2699 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:P580 a wikibase:Property ;
+	rdfs:label "start time"@en ;
+	skos:prefLabel "start time"@en ;
+	schema:name "start time"@en ;
+	schema:description "time an entity begins to exist or a statement starts being valid"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#Time> ;
+	wikibase:directClaim wdt:P580 ;
+	wikibase:claim p:P580 ;
+	wikibase:statementProperty ps:P580 ;
+	wikibase:statementValue psv:P580 ;
+	wikibase:qualifier pq:P580 ;
+	wikibase:qualifierValue pqv:P580 ;
+	wikibase:reference pr:P580 ;
+	wikibase:referenceValue prv:P580 ;
+	wikibase:novalue wdno:P580 .
+
+p:P580 a owl:ObjectProperty .
+
+psv:P580 a owl:ObjectProperty .
+
+pqv:P580 a owl:ObjectProperty .
+
+prv:P580 a owl:ObjectProperty .
+
+wdt:P580 a owl:DatatypeProperty .
+
+ps:P580 a owl:DatatypeProperty .
+
+pq:P580 a owl:DatatypeProperty .
+
+pr:P580 a owl:DatatypeProperty .
+
+wdno:P580 a owl:Class ;
+	owl:complementOf _:a4f53844ef049c00e67a7c9b973324e1 .
+
+_:a4f53844ef049c00e67a7c9b973324e1 a owl:Restriction ;
+	owl:onProperty wdt:P580 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:Q13414952 a wikibase:Item ;
+	rdfs:label "SHA-1"@en ;
+	skos:prefLabel "SHA-1"@en ;
+	schema:name "SHA-1"@en ;
+	rdfs:label "SHA-1"@mul ;
+	skos:prefLabel "SHA-1"@mul ;
+	schema:name "SHA-1"@mul ;
+	schema:description "cryptographic hash function"@en .
+
+wd:P459 a wikibase:Property ;
+	rdfs:label "determination method or standard"@en ;
+	skos:prefLabel "determination method or standard"@en ;
+	schema:name "determination method or standard"@en ;
+	schema:description "how a value is determined, or the standard by which it is declared"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P459 ;
+	wikibase:claim p:P459 ;
+	wikibase:statementProperty ps:P459 ;
+	wikibase:statementValue psv:P459 ;
+	wikibase:qualifier pq:P459 ;
+	wikibase:qualifierValue pqv:P459 ;
+	wikibase:reference pr:P459 ;
+	wikibase:referenceValue prv:P459 ;
+	wikibase:novalue wdno:P459 .
+
+p:P459 a owl:ObjectProperty .
+
+psv:P459 a owl:ObjectProperty .
+
+pqv:P459 a owl:ObjectProperty .
+
+prv:P459 a owl:ObjectProperty .
+
+wdt:P459 a owl:ObjectProperty .
+
+ps:P459 a owl:ObjectProperty .
+
+pq:P459 a owl:ObjectProperty .
+
+pr:P459 a owl:ObjectProperty .
+
+wdno:P459 a owl:Class ;
+	owl:complementOf _:88b70b8bfdb5c147baf5a03f4254bd4b .
+
+_:88b70b8bfdb5c147baf5a03f4254bd4b a owl:Restriction ;
+	owl:onProperty wdt:P459 ;
+	owl:someValuesFrom owl:Thing .
+
+sdcv:774bdd0d417ab35b820f2abcb8d7b63a a wikibase:GlobecoordinateValue ;
+	wikibase:geoLatitude "52.96745"^^xsd:double ;
+	wikibase:geoLongitude "5.7845"^^xsd:double ;
+	wikibase:geoPrecision "1.0E-5"^^xsd:double ;
+	wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> .
+
+sdcv:47bc375fa4623a64af880f9bb13d714f a wikibase:QuantityValue ;
+	wikibase:quantityAmount "+0.02"^^xsd:decimal ;
+	wikibase:quantityUnit <http://www.wikidata.org/entity/Q11574> ;
+	wikibase:quantityNormalized sdcv:47bc375fa4623a64af880f9bb13d714f .
+
+sdcv:64e178c06143ee0210e178a6c3398353 a wikibase:QuantityValue ;
+	wikibase:quantityAmount "+5.6"^^xsd:decimal ;
+	wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .
+
+sdcv:cdecbd310b6bc3dd97a903b93f0e6de7 a wikibase:QuantityValue ;
+	wikibase:quantityAmount "+60"^^xsd:decimal ;
+	wikibase:quantityUnit <http://www.wikidata.org/entity/Q174789> .
+
+sdcv:8e7833aa9980255905ce8cf7e5045269 a wikibase:QuantityValue ;
+	wikibase:quantityAmount "+0.060"^^xsd:decimal ;
+	wikibase:quantityUnit <http://www.wikidata.org/entity/Q11573> ;
+	wikibase:quantityNormalized sdcv:8e7833aa9980255905ce8cf7e5045269 .
+
+sdcv:cdecbd310b6bc3dd97a903b93f0e6de7 wikibase:quantityNormalized sdcv:8e7833aa9980255905ce8cf7e5045269 .
+
+sdcv:60aef88dc178bb470103bedbe4790143 a wikibase:QuantityValue ;
+	wikibase:quantityAmount "+200"^^xsd:decimal ;
+	wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .
+
+sdcv:09982c539261cf3da8fa913db2222927 a wikibase:QuantityValue ;
+	wikibase:quantityAmount "+6180046"^^xsd:decimal ;
+	wikibase:quantityUnit <http://www.wikidata.org/entity/Q8799> .
+
+sdcv:f9305f2de61be0a444b20ac6957a3d6e a wikibase:QuantityValue ;
+	wikibase:quantityAmount "+2903"^^xsd:decimal ;
+	wikibase:quantityUnit <http://www.wikidata.org/entity/Q355198> .
+
+sdcv:a8b9a9672162e0ac709e54c34c5498bf a wikibase:QuantityValue ;
+	wikibase:quantityAmount "+3629"^^xsd:decimal ;
+	wikibase:quantityUnit <http://www.wikidata.org/entity/Q355198> .
+
+sdcv:2ddb5760be3c5905692565d0accdee73 a wikibase:TimeValue ;
+	wikibase:timeValue "2021-05-08T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "11"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .
+
+sdcv:1592ab924fba289f68b650c275d5d3b6 a wikibase:TimeValue ;
+	wikibase:timeValue "2022-04-22T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "11"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .

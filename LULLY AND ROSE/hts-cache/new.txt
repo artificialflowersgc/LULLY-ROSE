@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+18:01:50	795/795	---M--	301	error ('Moved%20Permanently')	text/html	date:Sat,%2016%20Nov%202024%2010:01:50%20GMT	http://lullyandrose.com.au/robots.txt		(from )
+18:01:50	795/795	---M--	301	error ('Moved%20Permanently')	text/html	date:Sat,%2016%20Nov%202024%2010:01:50%20GMT	http://lullyandrose.com.au/	C:/My%20Web%20Sites/LULLY%20AND%20ROSE/lullyandrose.com.au/index.html	(from )

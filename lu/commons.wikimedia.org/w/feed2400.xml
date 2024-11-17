@@ -1,0 +1,1633 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<id>https://commons.wikimedia.org/w/api.php?action=feedrecentchanges&amp;days=7&amp;feedformat=atom&amp;hideWikibase=1&amp;hidebots=1&amp;hidecategorization=1&amp;limit=50&amp;translations=filter&amp;urlversion=1</id>
+	<title>Wikimedia Commons  - Recent changes [en]</title>
+	<link rel="self" type="application/atom+xml" href="https://commons.wikimedia.org/w/api.php?action=feedrecentchanges&amp;days=7&amp;feedformat=atom&amp;hideWikibase=1&amp;hidebots=1&amp;hidecategorization=1&amp;limit=50&amp;translations=filter&amp;urlversion=1"/>
+	<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/wiki/Special:RecentChanges"/>
+	<updated>2024-11-17T00:33:32Z</updated>
+	<subtitle>Track the most recent changes to the wiki in this feed.</subtitle>
+	<generator>MediaWiki 1.44.0-wmf.3</generator>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=Category:Moschopsis_rosulata&amp;diff=957980431&amp;oldid=672207879</id>
+		<title>Category:Moschopsis rosulata</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=Category:Moschopsis_rosulata&amp;diff=957980431&amp;oldid=672207879"/>
+		<updated>2024-11-17T00:33:30Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 00:33, 17 November 2024&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 1:&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 1:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty diff-side-deleted&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{Taxonavigation|&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty diff-side-deleted&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;include=Calyceraceae (APG)|&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty diff-side-deleted&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;Genus|Moschopsis|&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty diff-side-deleted&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;Species|Moschopsis rosulata|&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty diff-side-deleted&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;authority=(N.E.Br.) Dusén ex Hicken}}&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty diff-side-deleted&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{VN}}&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty diff-side-deleted&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{ws}}&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty diff-side-deleted&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:Moschopsis|rosulata]]&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:Moschopsis|rosulata]]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;</summary>
+		<author><name>Kenraiz</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=File:Margaret_Southwick_investiture.jpg&amp;diff=957980429&amp;oldid=957979706</id>
+		<title>File:Margaret Southwick investiture.jpg</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=File:Margaret_Southwick_investiture.jpg&amp;diff=957980429&amp;oldid=957979706"/>
+		<updated>2024-11-17T00:33:30Z</updated>
+
+		<summary type="html">&lt;p&gt;Adding/updating {{Image extracted}} using &lt;a href=&quot;/wiki/Commons:CropTool&quot; title=&quot;Commons:CropTool&quot;&gt;CropTool&lt;/a&gt;&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 00:33, 17 November 2024&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 6:&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 6:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;|author=office of the governor-general&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;|author=office of the governor-general&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;|permission=&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;|permission=&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty diff-side-deleted&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;|other versions={{Image extracted|1=Margaret Southwick investiture (cropped).jpg}}&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;−&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;|other versions=&lt;/div&gt;&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty diff-side-added&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;}}&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;}}&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br /&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;</summary>
+		<author><name>Schwede66</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=Category:Weller_Walter&amp;diff=957980430&amp;oldid=0</id>
+		<title>Category:Weller Walter</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=Category:Weller_Walter&amp;diff=957980430&amp;oldid=0"/>
+		<updated>2024-11-17T00:33:30Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;a href=&quot;/wiki/Special:MyLanguage/COM:AES&quot; title=&quot;Special:MyLanguage/COM:AES&quot;&gt;←&lt;/a&gt;Created page with &amp;#039;{{Wikidata Infobox}} &lt;a href=&quot;/wiki/Category:Westminster_Records_artists&quot; title=&quot;Category:Westminster Records artists&quot;&gt;Walter, Weller&lt;/a&gt;&amp;#039;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;New page&lt;/b&gt;&lt;/p&gt;&lt;div&gt;{{Wikidata Infobox}}&lt;br /&gt;
+[[Category:Westminster Records artists|Walter, Weller]]&lt;/div&gt;</summary>
+		<author><name>織原美津夫</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=File:Margaret_Southwick_investiture_(cropped).jpg&amp;diff=957980424&amp;oldid=0</id>
+		<title>File:Margaret Southwick investiture (cropped).jpg</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=File:Margaret_Southwick_investiture_(cropped).jpg&amp;diff=957980424&amp;oldid=0"/>
+		<updated>2024-11-17T00:33:29Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;a href=&quot;/wiki/User:Schwede66&quot; class=&quot;mw-userlink&quot; title=&quot;User:Schwede66&quot;&gt;&lt;bdi&gt;Schwede66&lt;/bdi&gt;&lt;/a&gt; uploaded &lt;a href=&quot;/wiki/File:Margaret_Southwick_investiture_(cropped).jpg&quot; title=&quot;File:Margaret Southwick investiture (cropped).jpg&quot;&gt;File:Margaret Southwick investiture (cropped).jpg&lt;/a&gt; &lt;a href=&quot;/wiki/File:Margaret_Southwick_investiture.jpg&quot; title=&quot;File:Margaret Southwick investiture.jpg&quot;&gt;File:Margaret Southwick investiture.jpg&lt;/a&gt; cropped 71 % horizontally, 40 % vertically, 82 % areawise using &lt;a href=&quot;/wiki/Commons:CropTool&quot; title=&quot;Commons:CropTool&quot;&gt;CropTool&lt;/a&gt; with lossless mode.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;New page&lt;/b&gt;&lt;/p&gt;&lt;div&gt;=={{int:filedesc}}==&lt;br /&gt;
+{{Information&lt;br /&gt;
+|description={{en|1=Dr Margaret Southwick, of Porirua, received the Queen's Service Medal on 25 March 2009 for services to the Pacific Islands community.}}&lt;br /&gt;
+|date=25 March 2009&lt;br /&gt;
+|source=https://gg.govt.nz/image-galleries/6995/media?page=4&lt;br /&gt;
+|author=office of the governor-general&lt;br /&gt;
+|permission=&lt;br /&gt;
+|other versions={{Extracted from|1=Margaret Southwick investiture.jpg}}&lt;br /&gt;
+}}&lt;br /&gt;
+&lt;br /&gt;
+=={{int:license-header}}==&lt;br /&gt;
+{{cc-by-4.0}}&lt;br /&gt;
+&lt;br /&gt;
+[[Category:Margaret Southwick]]&lt;br /&gt;
+[[Category:Anand Satyanand in 2009]]&lt;br /&gt;
+[[Category:Files sourced from the Office of the Governor-General of New Zealand]]&lt;br /&gt;
+[[Category:People of New Zealand in 2009]]&lt;br /&gt;
+[[Category:March 2009 New Zealand photographs]]&lt;br /&gt;
+[[Category:2009 events at Government House, Wellington]]&lt;/div&gt;</summary>
+		<author><name>Schwede66</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=File:Overzicht,_reproductie_van_prentbriefkaart_-_Nijkerk_-_20166648_-_RCE.jpg&amp;diff=957980415&amp;oldid=0</id>
+		<title>File:Overzicht, reproductie van prentbriefkaart - Nijkerk - 20166648 - RCE.jpg</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=File:Overzicht,_reproductie_van_prentbriefkaart_-_Nijkerk_-_20166648_-_RCE.jpg&amp;diff=957980415&amp;oldid=0"/>
+		<updated>2024-11-17T00:33:27Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;a href=&quot;/wiki/User:Mr.Nostalgic&quot; class=&quot;mw-userlink&quot; title=&quot;User:Mr.Nostalgic&quot;&gt;&lt;bdi&gt;Mr.Nostalgic&lt;/bdi&gt;&lt;/a&gt; uploaded a new version of &lt;a href=&quot;/wiki/File:Overzicht,_reproductie_van_prentbriefkaart_-_Nijkerk_-_20166648_-_RCE.jpg&quot; title=&quot;File:Overzicht, reproductie van prentbriefkaart - Nijkerk - 20166648 - RCE.jpg&quot;&gt;File:Overzicht, reproductie van prentbriefkaart - Nijkerk - 20166648 - RCE.jpg&lt;/a&gt; Higher resolution from same source&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;New page&lt;/b&gt;&lt;/p&gt;&lt;div&gt;== {{int:filedesc}} ==&lt;br /&gt;
+{{Information&lt;br /&gt;
+|description={{nl|1= overzicht, reproductie van prentbriefkaart }}&lt;br /&gt;
+{{Building address&lt;br /&gt;
+ | Street name = Nieuwstraat&lt;br /&gt;
+ | House number = &lt;br /&gt;
+ | Postal code = &lt;br /&gt;
+ | City = Nijkerk&lt;br /&gt;
+ | State = Gelderland&lt;br /&gt;
+ | Country = NL&lt;br /&gt;
+}}&lt;br /&gt;
+|date=1969&lt;br /&gt;
+|source={{RCE-source|20166648}}&lt;br /&gt;
+|author={{Creator:J. Rozema}}&lt;br /&gt;
+|permission=&lt;br /&gt;
+|other_versions=&lt;br /&gt;
+|other_fields=&lt;br /&gt;
+}}&lt;br /&gt;
+&lt;br /&gt;
+== {{int:license-header}} ==&lt;br /&gt;
+{{RCE-higher-resolution}}&lt;br /&gt;
+{{RCE-license}}&lt;br /&gt;
+&lt;br /&gt;
+[[Category:Postcards of Nijkerk]]&lt;br /&gt;
+[[Category:Photographs by J. Rozema]]&lt;/div&gt;</summary>
+		<author><name>Mr.Nostalgic</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=File:Gayle_Forman_2016.jpg&amp;diff=957980416&amp;oldid=957980329</id>
+		<title>File:Gayle Forman 2016.jpg</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=File:Gayle_Forman_2016.jpg&amp;diff=957980416&amp;oldid=957980329"/>
+		<updated>2024-11-17T00:33:27Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;span class=&quot;autocomment&quot;&gt;wbsetclaim-create:2||1: &lt;/span&gt; &lt;a href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/P10408&quot; class=&quot;extiw&quot; title=&quot;‎created during‎ | ‎media file created during a specific event or occurrence (for use on Wikimedia Commons)‎&quot;&gt;&lt;span class=&quot;wb-itemlink&quot;&gt;&lt;span class=&quot;wb-itemlink-label&quot; lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;created during&lt;/span&gt; &lt;span class=&quot;wb-itemlink-id&quot;&gt;(P10408)&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;: &lt;a href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/Q7707536&quot; class=&quot;extiw&quot; title=&quot;‎Texas Book Festival‎ | ‎free annual book fair held in Austin, Texas‎&quot;&gt;&lt;span class=&quot;wb-itemlink&quot;&gt;&lt;span class=&quot;wb-itemlink-label&quot; lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Texas Book Festival&lt;/span&gt; &lt;span class=&quot;wb-itemlink-id&quot;&gt;(Q7707536)&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 00:33, 17 November 2024&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr class=&quot;mw-diff-slot-header&quot; lang=&quot;en&quot;&gt;&lt;th colspan=&quot;4&quot;&gt;mediainfo&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Property / &lt;a title=&quot;d:Special:EntityPage/P10408&quot; href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/P10408&quot;&gt;created during&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;&lt;span&gt;&lt;a title=&quot;d:Special:EntityPage/Q7707536&quot; href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/Q7707536&quot;&gt;Texas Book Festival&lt;/a&gt;&lt;/span&gt;&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Property / &lt;a title=&quot;d:Special:EntityPage/P10408&quot; href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/P10408&quot;&gt;created during&lt;/a&gt;: &lt;a title=&quot;d:Special:EntityPage/Q7707536&quot; href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/Q7707536&quot;&gt;Texas Book Festival&lt;/a&gt; / rank&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;&lt;span&gt;Normal rank&lt;/span&gt;&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</summary>
+		<author><name>Nv8200pa</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=User_talk:Mariiiii1988&amp;diff=957980392&amp;oldid=957980289</id>
+		<title>User talk:Mariiiii1988</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=User_talk:Mariiiii1988&amp;diff=957980392&amp;oldid=957980289"/>
+		<updated>2024-11-17T00:33:20Z</updated>
+
+		<summary type="html">&lt;p&gt;Please send permission for &lt;a href=&quot;/wiki/File:KirkeandOkane.jpg&quot; title=&quot;File:KirkeandOkane.jpg&quot;&gt;File:KirkeandOkane.jpg&lt;/a&gt; (and the listed ones) to &lt;a href=&quot;/wiki/Commons:VRT&quot; class=&quot;mw-redirect&quot; title=&quot;Commons:VRT&quot;&gt;VRT&lt;/a&gt;.&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 00:33, 17 November 2024&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 35:&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 35:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;== [[:File:DominoKirke.jpg]] ==&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;== [[:File:DominoKirke.jpg]] ==&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{#invoke:Autotranslate|autotranslate|1=File:DominoKirke.jpg|2=cropped from https://www.instagram.com/dopoyumemories/ image per Google Image Search|3=|base=Copyvionote}} [[User:AntiCompositeNumber|AntiCompositeNumber]] ([[User talk:AntiCompositeNumber|&amp;lt;span class=&quot;signature-talk&quot;&amp;gt;{{int:Talkpagelinktext}}&amp;lt;/span&amp;gt;]]) 00:32, 17 November 2024 (UTC)&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{#invoke:Autotranslate|autotranslate|1=File:DominoKirke.jpg|2=cropped from https://www.instagram.com/dopoyumemories/ image per Google Image Search|3=|base=Copyvionote}} [[User:AntiCompositeNumber|AntiCompositeNumber]] ([[User talk:AntiCompositeNumber|&amp;lt;span class=&quot;signature-talk&quot;&amp;gt;{{int:Talkpagelinktext}}&amp;lt;/span&amp;gt;]]) 00:32, 17 November 2024 (UTC)&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty diff-side-deleted&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty diff-side-deleted&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;== {{#invoke:Autotranslate|autotranslate|1=File:KirkeandOkane.jpg|base=File permission/heading}} ==&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty diff-side-deleted&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{#invoke:Autotranslate|autotranslate|1=File:KirkeandOkane.jpg|base=File permission}}&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty diff-side-deleted&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;And also: &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty diff-side-deleted&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;* [[:File:DoulaDomino.jpg]] &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty diff-side-deleted&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty diff-side-deleted&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;Regards, [[User:AntiCompositeNumber|AntiCompositeNumber]] ([[User talk:AntiCompositeNumber|&amp;lt;span class=&quot;signature-talk&quot;&amp;gt;{{int:Talkpagelinktext}}&amp;lt;/span&amp;gt;]]) 00:33, 17 November 2024 (UTC)&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;</summary>
+		<author><name>AntiCompositeNumber</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=Category:Georgia_Southern_Railroad&amp;diff=957980390&amp;oldid=0</id>
+		<title>Category:Georgia Southern Railroad</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=Category:Georgia_Southern_Railroad&amp;diff=957980390&amp;oldid=0"/>
+		<updated>2024-11-17T00:33:20Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;a href=&quot;/wiki/Special:MyLanguage/COM:AES&quot; title=&quot;Special:MyLanguage/COM:AES&quot;&gt;←&lt;/a&gt;Created page with &amp;#039;{{Wikidata Infobox}} {{en|The &amp;#039;&amp;#039;&amp;#039;Georgia Southern Railroad Company&amp;#039;&amp;#039;&amp;#039; was incorporated by an act of the Georgia General Assembly on March 2, 1875. It took control of the Selma, Rome and Dalton Railroad Company in 1876 and was subsequently merged with the East Tennessee, Virginia and Georgia Railroad in 1880. It was later acquired by the Southern Railway Company in 1894.}} &lt;a href=&quot;/w/index.php?title=Category:Defunct_railways_in_Georgia_(U.S._state)&amp;amp;action=edit&amp;amp;redlink=1&quot; class=&quot;new&quot; title=&quot;Category:Defunct railways in Georgia (U.S. state) (page does not exist)&quot;&gt;Category:Defunct railways in Georgia (U.S. state)&lt;/a&gt; Category:R...&amp;#039;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;New page&lt;/b&gt;&lt;/p&gt;&lt;div&gt;{{Wikidata Infobox}}&lt;br /&gt;
+{{en|The '''Georgia Southern Railroad Company''' was incorporated by an act of the Georgia General Assembly on March 2, 1875. It took control of the Selma, Rome and Dalton Railroad Company in 1876 and was subsequently merged with the East Tennessee, Virginia and Georgia Railroad in 1880. It was later acquired by the Southern Railway Company in 1894.}}&lt;br /&gt;
+[[Category:Defunct railways in Georgia (U.S. state)]]&lt;br /&gt;
+[[Category:Rail transport companies established in 1875]]&lt;br /&gt;
+[[Category:1880 disestablishments]]&lt;br /&gt;
+[[Category:East Tennessee, Virginia and Georgia Railroad]]&lt;/div&gt;</summary>
+		<author><name>Kreuz und quer</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=File:KirkeandOkane.jpg&amp;diff=957980389&amp;oldid=950033193</id>
+		<title>File:KirkeandOkane.jpg</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=File:KirkeandOkane.jpg&amp;diff=957980389&amp;oldid=950033193"/>
+		<updated>2024-11-17T00:33:20Z</updated>
+
+		<summary type="html">&lt;p&gt;Missing &lt;a href=&quot;/wiki/Commons:PERMISSION&quot; class=&quot;mw-redirect&quot; title=&quot;Commons:PERMISSION&quot;&gt;permission&lt;/a&gt;.&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 00:33, 17 November 2024&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 1:&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 1:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty diff-side-deleted&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{No permission since|month=November|day=17|year=2024}}&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;== {{int:filedesc}} ==&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;== {{int:filedesc}} ==&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{Information&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{Information&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;</summary>
+		<author><name>AntiCompositeNumber</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=File:DoulaDomino.jpg&amp;diff=957980388&amp;oldid=950032768</id>
+		<title>File:DoulaDomino.jpg</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=File:DoulaDomino.jpg&amp;diff=957980388&amp;oldid=950032768"/>
+		<updated>2024-11-17T00:33:20Z</updated>
+
+		<summary type="html">&lt;p&gt;Missing &lt;a href=&quot;/wiki/Commons:PERMISSION&quot; class=&quot;mw-redirect&quot; title=&quot;Commons:PERMISSION&quot;&gt;permission&lt;/a&gt;.&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 00:33, 17 November 2024&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 1:&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 1:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty diff-side-deleted&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{No permission since|month=November|day=17|year=2024}}&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;== {{int:filedesc}} ==&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;== {{int:filedesc}} ==&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{Information&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{Information&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;</summary>
+		<author><name>AntiCompositeNumber</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=Category:New_Jersey_General_Assembly&amp;diff=957980383&amp;oldid=801905385</id>
+		<title>Category:New Jersey General Assembly</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=Category:New_Jersey_General_Assembly&amp;diff=957980383&amp;oldid=801905385"/>
+		<updated>2024-11-17T00:33:19Z</updated>
+
+		<summary type="html">&lt;p&gt;added &lt;a href=&quot;/wiki/Category:State_legislative_chambers_in_the_United_States&quot; title=&quot;Category:State legislative chambers in the United States&quot;&gt;Category:State legislative chambers in the United States&lt;/a&gt;&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 00:33, 17 November 2024&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 3:&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 3:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:New Jersey Legislature|General Assembly]]&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:New Jersey Legislature|General Assembly]]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:State lower houses in the United States]]&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:State lower houses in the United States]]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty diff-side-deleted&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:State legislative chambers in the United States|New Jersey]]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;</summary>
+		<author><name>Kzirkel</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=File:2023-10-09_Demo_in_Hannover_%22Solidarit%C3%A4t_mit_dem_angegriffenen_Staat_Israel_und_seiner_Bev%C3%B6lkerung%22,_33.jpg&amp;diff=957980372&amp;oldid=957980358</id>
+		<title>File:2023-10-09 Demo in Hannover &quot;Solidarität mit dem angegriffenen Staat Israel und seiner Bevölkerung&quot;, 33.jpg</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=File:2023-10-09_Demo_in_Hannover_%22Solidarit%C3%A4t_mit_dem_angegriffenen_Staat_Israel_und_seiner_Bev%C3%B6lkerung%22,_33.jpg&amp;diff=957980372&amp;oldid=957980358"/>
+		<updated>2024-11-17T00:33:16Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;span class=&quot;autocomment&quot;&gt;wbsetlabel-add:1|de: &lt;/span&gt; 2023-10-09 Demo in Hannover &amp;quot;Solidarität mit dem angegriffenen Staat Israel und seiner Bevölkerung&amp;quot;,&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 00:33, 17 November 2024&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;4&quot; class=&quot;diff-multi&quot; lang=&quot;en&quot;&gt;(One intermediate revision by the same user not shown)&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;mw-diff-slot-header&quot; lang=&quot;en&quot;&gt;&lt;th colspan=&quot;4&quot;&gt;mediainfo&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;caption / de&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;caption / de&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;2023-10-09 Demo in Hannover &quot;Solidarität mit dem angegriffenen Staat Israel und seiner Bevölkerung&quot;,&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Property / &lt;a title=&quot;d:Special:EntityPage/P180&quot; href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/P180&quot;&gt;depicts&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;&lt;span&gt;&lt;a title=&quot;d:Special:EntityPage/Q131225585&quot; href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/Q131225585&quot;&gt;Q131225585&lt;/a&gt;&lt;/span&gt;&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Property / &lt;a title=&quot;d:Special:EntityPage/P180&quot; href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/P180&quot;&gt;depicts&lt;/a&gt;: &lt;a title=&quot;d:Special:EntityPage/Q131225585&quot; href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/Q131225585&quot;&gt;Q131225585&lt;/a&gt; / rank&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;&lt;span&gt;Preferred rank&lt;/span&gt;&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</summary>
+		<author><name>Bernd Schwabe in Hannover</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=File:Klein_Matterhorn_and_glacier_Unterer_Theodulgletscher_with_waterfalls,_13_August_2022_(cropped_black_and_white_photo).jpg&amp;diff=957980360&amp;oldid=875704755</id>
+		<title>File:Klein Matterhorn and glacier Unterer Theodulgletscher with waterfalls, 13 August 2022 (cropped black and white photo).jpg</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=File:Klein_Matterhorn_and_glacier_Unterer_Theodulgletscher_with_waterfalls,_13_August_2022_(cropped_black_and_white_photo).jpg&amp;diff=957980360&amp;oldid=875704755"/>
+		<updated>2024-11-17T00:33:14Z</updated>
+
+		<summary type="html">&lt;p&gt;removed &lt;a href=&quot;/wiki/Category:Schw%C3%A4rzegletscher&quot; title=&quot;Category:Schwärzegletscher&quot;&gt;Category:Schwärzegletscher&lt;/a&gt;; added &lt;a href=&quot;/wiki/Category:Gornera&quot; title=&quot;Category:Gornera&quot;&gt;Category:Gornera&lt;/a&gt;&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 00:33, 17 November 2024&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 18:&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 18:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:Oberer Theodulgletscher]]&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:Oberer Theodulgletscher]]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:Breithorn]]&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:Breithorn]]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;−&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:&lt;del style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;Schwärzegletscher&lt;/del&gt;]]&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;Gornera&lt;/ins&gt;]]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{ImageNote|id=1|x=2011|y=583|w=383|h=297|dimx=2987|dimy=3232|style=2}}&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{ImageNote|id=1|x=2011|y=583|w=383|h=297|dimx=2987|dimy=3232|style=2}}&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;Theodulhorn&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;Theodulhorn&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;!-- diff cache key commonswiki:diff:1.41:old-875704755:rev-957980360:wikidiff2=table:1.14.1:ff290eae --&gt;
+&lt;/table&gt;</summary>
+		<author><name>LudwigSebastianMicheler</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=File:2023-10-09_Demo_in_Hannover_%22Solidarit%C3%A4t_mit_dem_angegriffenen_Staat_Israel_und_seiner_Bev%C3%B6lkerung%22,_33.jpg&amp;diff=957980358&amp;oldid=0</id>
+		<title>File:2023-10-09 Demo in Hannover &quot;Solidarität mit dem angegriffenen Staat Israel und seiner Bevölkerung&quot;, 33.jpg</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=File:2023-10-09_Demo_in_Hannover_%22Solidarit%C3%A4t_mit_dem_angegriffenen_Staat_Israel_und_seiner_Bev%C3%B6lkerung%22,_33.jpg&amp;diff=957980358&amp;oldid=0"/>
+		<updated>2024-11-17T00:33:13Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;a href=&quot;/wiki/User:Bernd_Schwabe_in_Hannover&quot; class=&quot;mw-userlink&quot; title=&quot;User:Bernd Schwabe in Hannover&quot;&gt;&lt;bdi&gt;Bernd Schwabe in Hannover&lt;/bdi&gt;&lt;/a&gt; uploaded &lt;a href=&quot;/wiki/File:2023-10-09_Demo_in_Hannover_%22Solidarit%C3%A4t_mit_dem_angegriffenen_Staat_Israel_und_seiner_Bev%C3%B6lkerung%22,_33.jpg&quot; title=&quot;File:2023-10-09 Demo in Hannover &amp;quot;Solidarität mit dem angegriffenen Staat Israel und seiner Bevölkerung&amp;quot;, 33.jpg&quot;&gt;File:2023-10-09 Demo in Hannover &amp;quot;Solidarität mit dem angegriffenen Staat Israel und seiner Bevölkerung&amp;quot;, 33.jpg&lt;/a&gt; Uploaded using &lt;a href=&quot;/wiki/Commons:MOA&quot; class=&quot;mw-redirect&quot; title=&quot;Commons:MOA&quot;&gt;Commons Mobile App&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;New page&lt;/b&gt;&lt;/p&gt;&lt;div&gt;== {{int:filedesc}} ==&lt;br /&gt;
+{{Information&lt;br /&gt;
+|description={{de|1=Zwei Tage nach dem [[:de:Terrorangriff der Hamas auf Israel 2023|Terrorangriff der Hamas auf Israel 2023]] (&amp;quot;7. Oktober&amp;quot;) demonstrierten am 9. Oktober 2023 in der [[:de:Hannover|niedersächsischen Landeshauptstadt Hannover]] rund 400 Menschen friedlich auf dem Platz [[:de:Am Steintor (Hannover)|Am Steintor]] unter dem Motto&lt;br /&gt;
+{{Zitat|[[:de:Solidarität|Solidarität]] mit dem angegriffenen Staat Israel und seiner Bevölkerung.}}&lt;br /&gt;
+Die [[:de:Deutsch-Israelische Gesellschaft|Deutsch-Israelische Gesellschaft]] (DIG) hatte zu der Kungebung aufgerufen, unterstützt von dem Verein [[:de:Freundeskreis Hannover|Freundeskreis Hannover]]. Vortragende Sprecher waren unter anderem [[:de:Kay Schweigmann-Greve|Kay Schweigmann-Greve]] von der DIG, Niedersachsens Innenministerin [[:de:Daniela Behrens|Daniela Behrens]] (SPD), Regionspräsident [[:de:Steffen Krach|Steffen Krach]], Oberbürgermeister [[:de:Belit Onay|Belit Onay]] und der Präsident des Landesverbandes der Jüdischen Gemeinden in Niedersachsen [[:de:Michael Fürst|Michael Fürst]] ...}}&lt;br /&gt;
+|source={{own}}&lt;br /&gt;
+|author=[[User:{{Creator:Bernd Schwabe in Hannover}}|{{Creator:Bernd Schwabe in Hannover}}]]&lt;br /&gt;
+|date={{According to Exif data|2023-10-09}}&lt;br /&gt;
+}}&lt;br /&gt;
+{{Location|52.3760495|9.7322099}}&lt;br /&gt;
+&lt;br /&gt;
+== {{int:license-header}} ==&lt;br /&gt;
+{{self|cc-by-sa-4.0}}&lt;br /&gt;
+&lt;br /&gt;
+{{Uploaded from Mobile|platform=Android|version=5.0.2~05ffd123e}}&lt;br /&gt;
+&lt;br /&gt;
+[[Category:2023-10-09 Demo in Hannover &amp;quot;Solidarität mit dem angegriffenen Staat Israel und seiner Bevölkerung&amp;quot;]]&lt;/div&gt;</summary>
+		<author><name>Bernd Schwabe in Hannover</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=File:Voorgevel_-_Brielle_-_20042825_-_RCE.jpg&amp;diff=957980356&amp;oldid=0</id>
+		<title>File:Voorgevel - Brielle - 20042825 - RCE.jpg</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=File:Voorgevel_-_Brielle_-_20042825_-_RCE.jpg&amp;diff=957980356&amp;oldid=0"/>
+		<updated>2024-11-17T00:33:13Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;a href=&quot;/wiki/User:Mr.Nostalgic&quot; class=&quot;mw-userlink&quot; title=&quot;User:Mr.Nostalgic&quot;&gt;&lt;bdi&gt;Mr.Nostalgic&lt;/bdi&gt;&lt;/a&gt; uploaded a new version of &lt;a href=&quot;/wiki/File:Voorgevel_-_Brielle_-_20042825_-_RCE.jpg&quot; title=&quot;File:Voorgevel - Brielle - 20042825 - RCE.jpg&quot;&gt;File:Voorgevel - Brielle - 20042825 - RCE.jpg&lt;/a&gt; Higher resolution from same source&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;New page&lt;/b&gt;&lt;/p&gt;&lt;div&gt;== {{int:filedesc}} ==&lt;br /&gt;
+{{Information&lt;br /&gt;
+|description={{nl|1=Provoost: Voorgevel }}&lt;br /&gt;
+{{Rijksmonument|10648}}&lt;br /&gt;
+{{Building address&lt;br /&gt;
+ | Street name = St.-Catharijnehof&lt;br /&gt;
+ | House number = 12&lt;br /&gt;
+ | Postal code = &lt;br /&gt;
+ | City = Brielle&lt;br /&gt;
+ | State = Zuid-Holland&lt;br /&gt;
+ | Country = NL&lt;br /&gt;
+}}&lt;br /&gt;
+|date=1971-05&lt;br /&gt;
+|source={{RCE-source|20042825}}&lt;br /&gt;
+|author={{Creator:Gerard Dukker}}&lt;br /&gt;
+|permission=&lt;br /&gt;
+|other_versions=&lt;br /&gt;
+|other_fields=&lt;br /&gt;
+}}&lt;br /&gt;
+&lt;br /&gt;
+== {{int:license-header}} ==&lt;br /&gt;
+{{RCE-higher-resolution}}&lt;br /&gt;
+{{RCE-license}}&lt;br /&gt;
+&lt;br /&gt;
+[[Category:Provoost, Brielle]]&lt;br /&gt;
+[[Category:Photographs by Gerard Dukker in Brielle (1971)]]&lt;/div&gt;</summary>
+		<author><name>Mr.Nostalgic</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=File:Arr%C3%AAt_Bus_Route_Lacs_All%C3%A9e_Longchamp_-_Paris_XVI_(FR75)_-_2024-11-16_-_1.jpg&amp;diff=957980351&amp;oldid=0</id>
+		<title>File:Arrêt Bus Route Lacs Allée Longchamp - Paris XVI (FR75) - 2024-11-16 - 1.jpg</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=File:Arr%C3%AAt_Bus_Route_Lacs_All%C3%A9e_Longchamp_-_Paris_XVI_(FR75)_-_2024-11-16_-_1.jpg&amp;diff=957980351&amp;oldid=0"/>
+		<updated>2024-11-17T00:33:12Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;a href=&quot;/wiki/User:Chabe01&quot; class=&quot;mw-userlink&quot; title=&quot;User:Chabe01&quot;&gt;&lt;bdi&gt;Chabe01&lt;/bdi&gt;&lt;/a&gt; uploaded &lt;a href=&quot;/wiki/File:Arr%C3%AAt_Bus_Route_Lacs_All%C3%A9e_Longchamp_-_Paris_XVI_(FR75)_-_2024-11-16_-_1.jpg&quot; title=&quot;File:Arrêt Bus Route Lacs Allée Longchamp - Paris XVI (FR75) - 2024-11-16 - 1.jpg&quot;&gt;File:Arrêt Bus Route Lacs Allée Longchamp - Paris XVI (FR75) - 2024-11-16 - 1.jpg&lt;/a&gt; Initial import&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;New page&lt;/b&gt;&lt;/p&gt;&lt;div&gt;=={{int:filedesc}}==&lt;br /&gt;
+{{Information&lt;br /&gt;
+|description={{fr|1=xxxx, Paris 16.}}&lt;br /&gt;
+|date=2024-11-16 16:24:20&lt;br /&gt;
+|source={{own}}&lt;br /&gt;
+|author=[[User:Chabe01|Chabe01]]&lt;br /&gt;
+|permission=&lt;br /&gt;
+|other versions=&lt;br /&gt;
+}}&lt;br /&gt;
+{{Location|48.87056111111111|2.258802777777778|heading:324.0842592592593}}&lt;br /&gt;
+&lt;br /&gt;
+=={{int:license-header}}==&lt;br /&gt;
+{{self|cc-by-sa-4.0}}&lt;br /&gt;
+[[Category:Images of Paris by Chabe01]]&lt;br /&gt;
+[[Category:Images of Paris 16e arrondissement by Chabe01]]&lt;br /&gt;
+[[Category:Paris photographs taken on 2024-11-16]]&lt;br /&gt;
+[[Category:Images by Chabe01 taken with iPhone 13 Pro]]&lt;/div&gt;</summary>
+		<author><name>Chabe01</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=File:Moschopsis_rosulata_96707868.jpg&amp;diff=957980347&amp;oldid=957979369</id>
+		<title>File:Moschopsis rosulata 96707868.jpg</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=File:Moschopsis_rosulata_96707868.jpg&amp;diff=957980347&amp;oldid=957979369"/>
+		<updated>2024-11-17T00:33:10Z</updated>
+
+		<summary type="html">&lt;p&gt;Bot license review: pass Cc-by-4.0 (inrbot 2.5.1)&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 00:33, 17 November 2024&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 10:&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 10:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{Location|-54.694412757|-67.8269034781}}&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{Location|-54.694412757|-67.8269034781}}&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{iNaturalist|60482989}}&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{iNaturalist|60482989}}&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty diff-side-deleted&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{iNaturalistreview |status=pass |author=marreginas |sourceurl=https://www.inaturalist.org/photos/96707868 |archive= |reviewdate=2024-11-17 |reviewer=INaturalistReviewBot |reviewlicense=Cc-by-4.0 |reason=sha1}}&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;−&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{iNaturalistreview}}&lt;/div&gt;&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty diff-side-added&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty diff-side-deleted&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{gbif|3117879380}}&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br /&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:Moschopsis rosulata]]&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:Moschopsis rosulata]]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;!-- diff cache key commonswiki:diff:1.41:old-957979369:rev-957980347:wikidiff2=table:1.14.1:ff290eae --&gt;
+&lt;/table&gt;</summary>
+		<author><name>INaturalistReviewBot</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=File:Gayle_Forman_2016.jpg&amp;diff=957980329&amp;oldid=957980305</id>
+		<title>File:Gayle Forman 2016.jpg</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=File:Gayle_Forman_2016.jpg&amp;diff=957980329&amp;oldid=957980305"/>
+		<updated>2024-11-17T00:33:07Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;span class=&quot;autocomment&quot;&gt;wbremoveclaims-remove:1|: &lt;/span&gt; &lt;a href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/P793&quot; class=&quot;extiw&quot; title=&quot;‎significant event‎ | ‎significant or notable events associated with the subject‎&quot;&gt;&lt;span class=&quot;wb-itemlink&quot;&gt;&lt;span class=&quot;wb-itemlink-label&quot; lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;significant event&lt;/span&gt; &lt;span class=&quot;wb-itemlink-id&quot;&gt;(P793)&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;: &lt;a href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/Q7707536&quot; class=&quot;extiw&quot; title=&quot;‎Texas Book Festival‎ | ‎free annual book fair held in Austin, Texas‎&quot;&gt;&lt;span class=&quot;wb-itemlink&quot;&gt;&lt;span class=&quot;wb-itemlink-label&quot; lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Texas Book Festival&lt;/span&gt; &lt;span class=&quot;wb-itemlink-id&quot;&gt;(Q7707536)&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 00:33, 17 November 2024&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr class=&quot;mw-diff-slot-header&quot; lang=&quot;en&quot;&gt;&lt;th colspan=&quot;4&quot;&gt;mediainfo&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Property / &lt;a title=&quot;d:Special:EntityPage/P793&quot; href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/P793&quot;&gt;significant event&lt;/a&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;−&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;del style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;&lt;span&gt;&lt;a title=&quot;d:Special:EntityPage/Q7707536&quot; href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/Q7707536&quot;&gt;Texas Book Festival&lt;/a&gt;&lt;/span&gt;&lt;/del&gt;&lt;/div&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Property / &lt;a title=&quot;d:Special:EntityPage/P793&quot; href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/P793&quot;&gt;significant event&lt;/a&gt;: &lt;a title=&quot;d:Special:EntityPage/Q7707536&quot; href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/Q7707536&quot;&gt;Texas Book Festival&lt;/a&gt; / rank&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;−&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;del style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;&lt;span&gt;Normal rank&lt;/span&gt;&lt;/del&gt;&lt;/div&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;/tr&gt;
+&lt;!-- diff cache key commonswiki:diff:1.41:old-957980305:rev-957980329:lang-en --&gt;
+&lt;/table&gt;</summary>
+		<author><name>Nv8200pa</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=Category:Osarimen_Ebagua&amp;diff=957980324&amp;oldid=886534816</id>
+		<title>Category:Osarimen Ebagua</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=Category:Osarimen_Ebagua&amp;diff=957980324&amp;oldid=886534816"/>
+		<updated>2024-11-17T00:33:06Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 00:33, 17 November 2024&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 1:&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 1:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{Wikidata Infobox}}&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{Wikidata Infobox}}&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br /&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty diff-side-deleted&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{DEFAULTSORT:Ebagua, Osarimen}}&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:Players of Spezia Calcio]]&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:Players of Spezia Calcio]]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:Men's association football players from Italy]]&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:Men's association football players from Italy]]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;!-- diff cache key commonswiki:diff:1.41:old-886534816:rev-957980324:wikidiff2=table:1.14.1:ff290eae --&gt;
+&lt;/table&gt;</summary>
+		<author><name>William Graham</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/wiki/File:DominoKirke.jpg</id>
+		<title>File:DominoKirke.jpg</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/wiki/File:DominoKirke.jpg"/>
+		<updated>2024-11-17T00:33:02Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;a href=&quot;/wiki/User:AntiCompositeNumber&quot; class=&quot;mw-userlink&quot; title=&quot;User:AntiCompositeNumber&quot;&gt;&lt;bdi&gt;AntiCompositeNumber&lt;/bdi&gt;&lt;/a&gt; deleted page &lt;a href=&quot;/w/index.php?title=File:DominoKirke.jpg&amp;amp;action=edit&amp;amp;redlink=1&quot; class=&quot;new&quot; title=&quot;File:DominoKirke.jpg (page does not exist)&quot;&gt;File:DominoKirke.jpg&lt;/a&gt; &lt;a href=&quot;/wiki/Commons:L&quot; class=&quot;mw-redirect&quot; title=&quot;Commons:L&quot;&gt;Copyright violation&lt;/a&gt;: cropped from https://www.instagram.com/dopoyumemories/ image per Google Image Search&lt;/p&gt;
+</summary>
+		<author><name>AntiCompositeNumber</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=File:Overzicht,_reproductie_van_prentbriefkaart_-_Nijkerk_-_20166647_-_RCE.jpg&amp;diff=957980312&amp;oldid=0</id>
+		<title>File:Overzicht, reproductie van prentbriefkaart - Nijkerk - 20166647 - RCE.jpg</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=File:Overzicht,_reproductie_van_prentbriefkaart_-_Nijkerk_-_20166647_-_RCE.jpg&amp;diff=957980312&amp;oldid=0"/>
+		<updated>2024-11-17T00:33:02Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;a href=&quot;/wiki/User:Mr.Nostalgic&quot; class=&quot;mw-userlink&quot; title=&quot;User:Mr.Nostalgic&quot;&gt;&lt;bdi&gt;Mr.Nostalgic&lt;/bdi&gt;&lt;/a&gt; uploaded a new version of &lt;a href=&quot;/wiki/File:Overzicht,_reproductie_van_prentbriefkaart_-_Nijkerk_-_20166647_-_RCE.jpg&quot; title=&quot;File:Overzicht, reproductie van prentbriefkaart - Nijkerk - 20166647 - RCE.jpg&quot;&gt;File:Overzicht, reproductie van prentbriefkaart - Nijkerk - 20166647 - RCE.jpg&lt;/a&gt; Higher resolution from same source&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;New page&lt;/b&gt;&lt;/p&gt;&lt;div&gt;== {{int:filedesc}} ==&lt;br /&gt;
+{{Information&lt;br /&gt;
+|description={{nl|1= overzicht, reproductie van prentbriefkaart }}&lt;br /&gt;
+{{Building address&lt;br /&gt;
+ | Street name = Marktplein&lt;br /&gt;
+ | House number = &lt;br /&gt;
+ | Postal code = &lt;br /&gt;
+ | City = Nijkerk&lt;br /&gt;
+ | State = Gelderland&lt;br /&gt;
+ | Country = NL&lt;br /&gt;
+}}&lt;br /&gt;
+|date=1969&lt;br /&gt;
+|source={{RCE-source|20166647}}&lt;br /&gt;
+|author={{Creator:J. Rozema}}&lt;br /&gt;
+|permission=&lt;br /&gt;
+|other_versions=&lt;br /&gt;
+|other_fields=&lt;br /&gt;
+}}&lt;br /&gt;
+&lt;br /&gt;
+== {{int:license-header}} ==&lt;br /&gt;
+{{RCE-higher-resolution}}&lt;br /&gt;
+{{RCE-license}}&lt;br /&gt;
+&lt;br /&gt;
+[[Category:Postcards of Nijkerk]]&lt;/div&gt;</summary>
+		<author><name>Mr.Nostalgic</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=File:Gayle_Forman_2016.jpg&amp;diff=957980305&amp;oldid=935868491</id>
+		<title>File:Gayle Forman 2016.jpg</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=File:Gayle_Forman_2016.jpg&amp;diff=957980305&amp;oldid=935868491"/>
+		<updated>2024-11-17T00:33:01Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;span class=&quot;autocomment&quot;&gt;wbsetclaim-update:2||1|1: &lt;/span&gt; &lt;a href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/P170&quot; class=&quot;extiw&quot; title=&quot;‎creator‎ | ‎maker of this creative work or other object (where no more specific property exists)‎&quot;&gt;&lt;span class=&quot;wb-itemlink&quot;&gt;&lt;span class=&quot;wb-itemlink-label&quot; lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;creator&lt;/span&gt; &lt;span class=&quot;wb-itemlink-id&quot;&gt;(P170)&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;: &lt;a href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/Q98745253&quot; class=&quot;extiw&quot; title=&quot;‎Larry D. Moore‎ | ‎American Wikipedian and photographer‎&quot;&gt;&lt;span class=&quot;wb-itemlink&quot;&gt;&lt;span class=&quot;wb-itemlink-label&quot; lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Larry D. Moore&lt;/span&gt; &lt;span class=&quot;wb-itemlink-id&quot;&gt;(Q98745253)&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 00:33, 17 November 2024&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr class=&quot;mw-diff-slot-header&quot; lang=&quot;en&quot;&gt;&lt;th colspan=&quot;4&quot;&gt;mediainfo&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Property / &lt;a title=&quot;d:Special:EntityPage/P170&quot; href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/P170&quot;&gt;creator&lt;/a&gt;: &lt;a title=&quot;d:Special:EntityPage/Q98745253&quot; href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/Q98745253&quot;&gt;Larry D. Moore&lt;/a&gt; / qualifier&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;&lt;span&gt;&lt;a title=&quot;d:Special:EntityPage/P2699&quot; href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/P2699&quot;&gt;URL&lt;/a&gt;: &lt;a rel=&quot;nofollow&quot; class=&quot;external free&quot; href=&quot;https://commons.wikimedia.org/wiki/User:Nv8200pa&quot;&gt;https://commons.wikimedia.org/wiki/User:Nv8200pa&lt;/a&gt;&lt;/span&gt;&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;!-- diff cache key commonswiki:diff:1.41:old-935868491:rev-957980305:lang-en --&gt;
+&lt;/table&gt;</summary>
+		<author><name>Nv8200pa</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=File:New_Jersey_State_House,_General_Assembly_chamber.jpg&amp;diff=957980299&amp;oldid=714068019</id>
+		<title>File:New Jersey State House, General Assembly chamber.jpg</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=File:New_Jersey_State_House,_General_Assembly_chamber.jpg&amp;diff=957980299&amp;oldid=714068019"/>
+		<updated>2024-11-17T00:32:59Z</updated>
+
+		<summary type="html">&lt;p&gt;removed &lt;a href=&quot;/wiki/Category:State_legislative_chambers_in_the_United_States&quot; title=&quot;Category:State legislative chambers in the United States&quot;&gt;Category:State legislative chambers in the United States&lt;/a&gt;; added &lt;a href=&quot;/wiki/Category:New_Jersey_General_Assembly&quot; title=&quot;Category:New Jersey General Assembly&quot;&gt;Category:New Jersey General Assembly&lt;/a&gt;&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 00:32, 17 November 2024&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 15:&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 15:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br /&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:New Jersey State House interior]]&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:New Jersey State House interior]]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;−&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:&lt;del style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;State&lt;/del&gt; &lt;del style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;legislative&lt;/del&gt; &lt;del style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;chambers&lt;/del&gt; &lt;del style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;in the United States&lt;/del&gt;]]&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;New&lt;/ins&gt; &lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;Jersey&lt;/ins&gt; &lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;General&lt;/ins&gt; &lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;Assembly&lt;/ins&gt;]]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:Taken with Nikon D5100]]&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:Taken with Nikon D5100]]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:WLM 2013 United States unreviewed]]&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:WLM 2013 United States unreviewed]]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;!-- diff cache key commonswiki:diff:1.41:old-714068019:rev-957980299:wikidiff2=table:1.14.1:ff290eae --&gt;
+&lt;/table&gt;</summary>
+		<author><name>Kzirkel</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=Category:Rauwenhoffstraat_39,_Rotterdam&amp;diff=957980301&amp;oldid=957980235</id>
+		<title>Category:Rauwenhoffstraat 39, Rotterdam</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=Category:Rauwenhoffstraat_39,_Rotterdam&amp;diff=957980301&amp;oldid=957980235"/>
+		<updated>2024-11-17T00:32:59Z</updated>
+
+		<summary type="html">&lt;p&gt;added &lt;a href=&quot;/wiki/Category:Rauwenhoffstraat_(Rotterdam)&quot; title=&quot;Category:Rauwenhoffstraat (Rotterdam)&quot;&gt;Category:Rauwenhoffstraat (Rotterdam)&lt;/a&gt;&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 00:32, 17 November 2024&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 3:&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 3:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br /&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:Buildings in Nieuwe Westen]]&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:Buildings in Nieuwe Westen]]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty diff-side-deleted&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:Rauwenhoffstraat (Rotterdam)]]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;!-- diff cache key commonswiki:diff:1.41:old-957980235:rev-957980301:wikidiff2=table:1.14.1:ff290eae --&gt;
+&lt;/table&gt;</summary>
+		<author><name>Mdd</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=User_talk:Mariiiii1988&amp;diff=957980289&amp;oldid=957980004</id>
+		<title>User talk:Mariiiii1988</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=User_talk:Mariiiii1988&amp;diff=957980289&amp;oldid=957980004"/>
+		<updated>2024-11-17T00:32:56Z</updated>
+
+		<summary type="html">&lt;p&gt;Notification of possible copyright violation for &lt;a href=&quot;/w/index.php?title=File:DominoKirke.jpg&amp;amp;action=edit&amp;amp;redlink=1&quot; class=&quot;new&quot; title=&quot;File:DominoKirke.jpg (page does not exist)&quot;&gt;File:DominoKirke.jpg&lt;/a&gt;&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 00:32, 17 November 2024&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 33:&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 33:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;== [[:File:Geminola.jpg]] ==&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;== [[:File:Geminola.jpg]] ==&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{#invoke:Autotranslate|autotranslate|1=File:Geminola.jpg|2=[[COM:NETCOPYVIO]] https://fashionforward.mako.co.il/news/91014/?Partner=mw et al|3=|base=Copyvionote}} [[User:AntiCompositeNumber|AntiCompositeNumber]] ([[User talk:AntiCompositeNumber|&amp;lt;span class=&quot;signature-talk&quot;&amp;gt;{{int:Talkpagelinktext}}&amp;lt;/span&amp;gt;]]) 00:31, 17 November 2024 (UTC)&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{#invoke:Autotranslate|autotranslate|1=File:Geminola.jpg|2=[[COM:NETCOPYVIO]] https://fashionforward.mako.co.il/news/91014/?Partner=mw et al|3=|base=Copyvionote}} [[User:AntiCompositeNumber|AntiCompositeNumber]] ([[User talk:AntiCompositeNumber|&amp;lt;span class=&quot;signature-talk&quot;&amp;gt;{{int:Talkpagelinktext}}&amp;lt;/span&amp;gt;]]) 00:31, 17 November 2024 (UTC)&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty diff-side-deleted&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;== [[:File:DominoKirke.jpg]] ==&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty diff-side-deleted&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{#invoke:Autotranslate|autotranslate|1=File:DominoKirke.jpg|2=cropped from https://www.instagram.com/dopoyumemories/ image per Google Image Search|3=|base=Copyvionote}} [[User:AntiCompositeNumber|AntiCompositeNumber]] ([[User talk:AntiCompositeNumber|&amp;lt;span class=&quot;signature-talk&quot;&amp;gt;{{int:Talkpagelinktext}}&amp;lt;/span&amp;gt;]]) 00:32, 17 November 2024 (UTC)&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;!-- diff cache key commonswiki:diff:1.41:old-957980004:rev-957980289:wikidiff2=table:1.14.1:ff290eae --&gt;
+&lt;/table&gt;</summary>
+		<author><name>AntiCompositeNumber</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=File:Viktor_Petrov.jpg&amp;diff=957980286&amp;oldid=957975369</id>
+		<title>File:Viktor Petrov.jpg</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=File:Viktor_Petrov.jpg&amp;diff=957980286&amp;oldid=957975369"/>
+		<updated>2024-11-17T00:32:56Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 00:32, 17 November 2024&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 11:&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 11:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;=={{int:license-header}}==&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;=={{int:license-header}}==&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br /&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;−&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{&lt;del style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;CC-&lt;/del&gt;PD}}&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{PD&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;-Ukraine&lt;/ins&gt;}}&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br /&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty diff-side-deleted&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:Viktor Petrov]]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;−&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{Uncategorized|year=2024|month=November|day=16}}&lt;/div&gt;&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty diff-side-added&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;!-- diff cache key commonswiki:diff:1.41:old-957975369:rev-957980286:wikidiff2=table:1.14.1:ff290eae --&gt;
+&lt;/table&gt;</summary>
+		<author><name>Leonst</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=File:Veuve_%C3%A0_collier_d%27or_RBG_(1).jpg&amp;diff=957980282&amp;oldid=957980240</id>
+		<title>File:Veuve à collier d'or RBG (1).jpg</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=File:Veuve_%C3%A0_collier_d%27or_RBG_(1).jpg&amp;diff=957980282&amp;oldid=957980240"/>
+		<updated>2024-11-17T00:32:55Z</updated>
+
+		<summary type="html">&lt;p&gt;added &lt;a href=&quot;/wiki/Category:Birds_of_Niger&quot; title=&quot;Category:Birds of Niger&quot;&gt;Category:Birds of Niger&lt;/a&gt;&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 00:32, 17 November 2024&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 16:&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 16:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:Gadabédji Reserve]]&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:Gadabédji Reserve]]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:Uploaded via Campaign:wle-ne]]&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:Uploaded via Campaign:wle-ne]]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty diff-side-deleted&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:Birds of Niger]]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;!-- diff cache key commonswiki:diff:1.41:old-957980240:rev-957980282:wikidiff2=table:1.14.1:ff290eae --&gt;
+&lt;/table&gt;</summary>
+		<author><name>Funke</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=File:All%C3%A9e_Reine_Marguerite_-_Paris_XVI_(FR75)_-_2024-11-16_-_6.jpg&amp;diff=957980272&amp;oldid=957980057</id>
+		<title>File:Allée Reine Marguerite - Paris XVI (FR75) - 2024-11-16 - 6.jpg</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=File:All%C3%A9e_Reine_Marguerite_-_Paris_XVI_(FR75)_-_2024-11-16_-_6.jpg&amp;diff=957980272&amp;oldid=957980057"/>
+		<updated>2024-11-17T00:32:52Z</updated>
+
+		<summary type="html">&lt;p&gt;Moving from &lt;a href=&quot;/wiki/Category:Images_of_Paris_by_Chabe01&quot; title=&quot;Category:Images of Paris by Chabe01&quot;&gt;Category:Images of Paris by Chabe01&lt;/a&gt; to &lt;a href=&quot;/wiki/Category:All%C3%A9e_de_la_Reine-Marguerite_(Paris)&quot; title=&quot;Category:Allée de la Reine-Marguerite (Paris)&quot;&gt;Category:Allée de la Reine-Marguerite (Paris)&lt;/a&gt;&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 00:32, 17 November 2024&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 12:&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 12:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;=={{int:license-header}}==&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;=={{int:license-header}}==&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{self|cc-by-sa-4.0}}&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{self|cc-by-sa-4.0}}&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;−&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:&lt;del style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;Images&lt;/del&gt; &lt;del style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;of&lt;/del&gt; &lt;del style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;Paris&lt;/del&gt; &lt;del style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;by&lt;/del&gt; &lt;del style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;Chabe01&lt;/del&gt;]]&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;Allée&lt;/ins&gt; &lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;de&lt;/ins&gt; &lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;la&lt;/ins&gt; &lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;Reine-Marguerite&lt;/ins&gt; &lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;(Paris)&lt;/ins&gt;]]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:Images of Paris 16e arrondissement by Chabe01]]&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:Images of Paris 16e arrondissement by Chabe01]]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:Paris photographs taken on 2024-11-16]]&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:Paris photographs taken on 2024-11-16]]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;!-- diff cache key commonswiki:diff:1.41:old-957980057:rev-957980272:wikidiff2=table:1.14.1:ff290eae --&gt;
+&lt;/table&gt;</summary>
+		<author><name>Chabe01</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=Category:Prittlewell_WWI_Memorial_Window&amp;diff=957980267&amp;oldid=957929470</id>
+		<title>Category:Prittlewell WWI Memorial Window</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=Category:Prittlewell_WWI_Memorial_Window&amp;diff=957980267&amp;oldid=957929470"/>
+		<updated>2024-11-17T00:32:51Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 00:32, 17 November 2024&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 1:&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 1:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{Wikidata Infobox}}&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{Wikidata Infobox}}&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty diff-side-deleted&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{DEFAULTSORT:Prittlewell, WW1}}&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br /&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;−&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:St Mary the Virgin's church, Prittlewell (stained glass)]]&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:St Mary the Virgin's church, Prittlewell (stained glass)&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;|WW1&lt;/ins&gt;]]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:Saint George on stained-glass windows in England]]&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:Saint George on stained-glass windows in England]]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:Saint Michael on stained-glass windows in England]]&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:Saint Michael on stained-glass windows in England]]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;−&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:Stained-glass windows of war memorials in &lt;del style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;England&lt;/del&gt;]]&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:Stained-glass windows of war memorials in &lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;Essex&lt;/ins&gt;]]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:World War I memorials in Essex]]&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:World War I memorials in Essex]]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:Stained-glass windows of World War I memorials in the United Kingdom]]&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:Stained-glass windows of World War I memorials in the United Kingdom]]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;!-- diff cache key commonswiki:diff:1.41:old-957929470:rev-957980267:wikidiff2=table:1.14.1:ff290eae --&gt;
+&lt;/table&gt;</summary>
+		<author><name>HwætGrimmalkin</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=File:Side_entrance,_St._Joseph%E2%80%99s_Church,_Bloomfield,_2024-11-16.jpg&amp;diff=957980263&amp;oldid=957980255</id>
+		<title>File:Side entrance, St. Joseph’s Church, Bloomfield, 2024-11-16.jpg</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=File:Side_entrance,_St._Joseph%E2%80%99s_Church,_Bloomfield,_2024-11-16.jpg&amp;diff=957980263&amp;oldid=957980255"/>
+		<updated>2024-11-17T00:32:50Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;span class=&quot;autocomment&quot;&gt;wbeditentity-update-languages-and-other-short:0||en&lt;/span&gt;&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 00:32, 17 November 2024&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr class=&quot;mw-diff-slot-header&quot; lang=&quot;en&quot;&gt;&lt;th colspan=&quot;4&quot;&gt;mediainfo&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;caption / en&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;caption / en&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;Entrance to the former St. Joseph’s Church in the Bloomfield neighborhood of Pittsburgh&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Property / &lt;a title=&quot;d:Special:EntityPage/P571&quot; href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/P571&quot;&gt;inception&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;&lt;span&gt;&lt;b class=&quot;wb-details wb-time-details wb-time-rendered&quot;&gt;16 November 2024&lt;/b&gt;&lt;table class=&quot;wb-details wb-time-details&quot;&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-isotime&quot;&gt;Timestamp&lt;/th&gt;&lt;td class=&quot;wb-time-isotime&quot;&gt;+2024-11-16T00:00:00Z&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-timezone&quot;&gt;Timezone&lt;/th&gt;&lt;td class=&quot;wb-time-timezone&quot;&gt;+00:00&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-calendar&quot;&gt;Calendar&lt;/th&gt;&lt;td class=&quot;wb-time-calendar&quot;&gt;Gregorian&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-precision&quot;&gt;Precision&lt;/th&gt;&lt;td class=&quot;wb-time-precision&quot;&gt;1 day&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-before&quot;&gt;Before&lt;/th&gt;&lt;td class=&quot;wb-time-before&quot;&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-after&quot;&gt;After&lt;/th&gt;&lt;td class=&quot;wb-time-after&quot;&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/span&gt;&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Property / &lt;a title=&quot;d:Special:EntityPage/P571&quot; href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/P571&quot;&gt;inception&lt;/a&gt;: 16 November 2024 / rank&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;&lt;span&gt;Normal rank&lt;/span&gt;&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;!-- diff cache key commonswiki:diff:1.41:old-957980255:rev-957980263:lang-en --&gt;
+&lt;/table&gt;</summary>
+		<author><name>Cbaile19</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=File:Tower_of_St._Joseph%E2%80%99s_Church,_Bloomfield,_2024-11-16.jpg&amp;diff=957980261&amp;oldid=957980252</id>
+		<title>File:Tower of St. Joseph’s Church, Bloomfield, 2024-11-16.jpg</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=File:Tower_of_St._Joseph%E2%80%99s_Church,_Bloomfield,_2024-11-16.jpg&amp;diff=957980261&amp;oldid=957980252"/>
+		<updated>2024-11-17T00:32:50Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;span class=&quot;autocomment&quot;&gt;wbeditentity-update-languages-and-other-short:0||en&lt;/span&gt;&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 00:32, 17 November 2024&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr class=&quot;mw-diff-slot-header&quot; lang=&quot;en&quot;&gt;&lt;th colspan=&quot;4&quot;&gt;mediainfo&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;caption / en&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;caption / en&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;Tower of the former St. Joseph’s Church in the Bloomfield neighborhood of Pittsburgh&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Property / &lt;a title=&quot;d:Special:EntityPage/P571&quot; href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/P571&quot;&gt;inception&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;&lt;span&gt;&lt;b class=&quot;wb-details wb-time-details wb-time-rendered&quot;&gt;16 November 2024&lt;/b&gt;&lt;table class=&quot;wb-details wb-time-details&quot;&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-isotime&quot;&gt;Timestamp&lt;/th&gt;&lt;td class=&quot;wb-time-isotime&quot;&gt;+2024-11-16T00:00:00Z&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-timezone&quot;&gt;Timezone&lt;/th&gt;&lt;td class=&quot;wb-time-timezone&quot;&gt;+00:00&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-calendar&quot;&gt;Calendar&lt;/th&gt;&lt;td class=&quot;wb-time-calendar&quot;&gt;Gregorian&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-precision&quot;&gt;Precision&lt;/th&gt;&lt;td class=&quot;wb-time-precision&quot;&gt;1 day&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-before&quot;&gt;Before&lt;/th&gt;&lt;td class=&quot;wb-time-before&quot;&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-after&quot;&gt;After&lt;/th&gt;&lt;td class=&quot;wb-time-after&quot;&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/span&gt;&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Property / &lt;a title=&quot;d:Special:EntityPage/P571&quot; href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/P571&quot;&gt;inception&lt;/a&gt;: 16 November 2024 / rank&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;&lt;span&gt;Normal rank&lt;/span&gt;&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;!-- diff cache key commonswiki:diff:1.41:old-957980252:rev-957980261:lang-en --&gt;
+&lt;/table&gt;</summary>
+		<author><name>Cbaile19</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=File:2023-10-09_Demo_in_Hannover_%22Solidarit%C3%A4t_mit_dem_angegriffenen_Staat_Israel_und_seiner_Bev%C3%B6lkerung%22,_32.jpg&amp;diff=957980258&amp;oldid=957980248</id>
+		<title>File:2023-10-09 Demo in Hannover &quot;Solidarität mit dem angegriffenen Staat Israel und seiner Bevölkerung&quot;, 32.jpg</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=File:2023-10-09_Demo_in_Hannover_%22Solidarit%C3%A4t_mit_dem_angegriffenen_Staat_Israel_und_seiner_Bev%C3%B6lkerung%22,_32.jpg&amp;diff=957980258&amp;oldid=957980248"/>
+		<updated>2024-11-17T00:32:49Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;span class=&quot;autocomment&quot;&gt;wbsetlabel-add:1|de: &lt;/span&gt; 2023-10-09 Demo in Hannover &amp;quot;Solidarität mit dem angegriffenen Staat Israel und seiner Bevölkerung&amp;quot;,&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 00:32, 17 November 2024&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr class=&quot;mw-diff-slot-header&quot; lang=&quot;en&quot;&gt;&lt;th colspan=&quot;4&quot;&gt;mediainfo&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;caption / de&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;caption / de&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;2023-10-09 Demo in Hannover &quot;Solidarität mit dem angegriffenen Staat Israel und seiner Bevölkerung&quot;,&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;!-- diff cache key commonswiki:diff:1.41:old-957980248:rev-957980258:lang-en --&gt;
+&lt;/table&gt;</summary>
+		<author><name>Bernd Schwabe in Hannover</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=File:Side_entrance,_St._Joseph%E2%80%99s_Church,_Bloomfield,_2024-11-16.jpg&amp;diff=957980255&amp;oldid=0</id>
+		<title>File:Side entrance, St. Joseph’s Church, Bloomfield, 2024-11-16.jpg</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=File:Side_entrance,_St._Joseph%E2%80%99s_Church,_Bloomfield,_2024-11-16.jpg&amp;diff=957980255&amp;oldid=0"/>
+		<updated>2024-11-17T00:32:49Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;a href=&quot;/wiki/User:Cbaile19&quot; class=&quot;mw-userlink&quot; title=&quot;User:Cbaile19&quot;&gt;&lt;bdi&gt;Cbaile19&lt;/bdi&gt;&lt;/a&gt; uploaded &lt;a href=&quot;/wiki/File:Side_entrance,_St._Joseph%E2%80%99s_Church,_Bloomfield,_2024-11-16.jpg&quot; title=&quot;File:Side entrance, St. Joseph’s Church, Bloomfield, 2024-11-16.jpg&quot;&gt;File:Side entrance, St. Joseph’s Church, Bloomfield, 2024-11-16.jpg&lt;/a&gt; Uploaded own work with UploadWizard&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;New page&lt;/b&gt;&lt;/p&gt;&lt;div&gt;=={{int:filedesc}}==&lt;br /&gt;
+{{Information&lt;br /&gt;
+|description={{en|1=Entrance to the former St. Joseph’s Church in the Bloomfield neighborhood of Pittsburgh}}&lt;br /&gt;
+|date=2024-11-16 16:06:37&lt;br /&gt;
+|source={{own}}&lt;br /&gt;
+|author=[[User:Cbaile19|Cbaile19]]&lt;br /&gt;
+|permission=&lt;br /&gt;
+|other versions=&lt;br /&gt;
+}}&lt;br /&gt;
+&lt;br /&gt;
+=={{int:license-header}}==&lt;br /&gt;
+{{self|cc-zero}}&lt;br /&gt;
+&lt;br /&gt;
+[[Category:St. Joseph Church (Pittsburgh)]]&lt;/div&gt;</summary>
+		<author><name>Cbaile19</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=File:St._Joseph%E2%80%99s_Church,_Bloomfield,_2024-11-16-3.jpg&amp;diff=957980256&amp;oldid=957980249</id>
+		<title>File:St. Joseph’s Church, Bloomfield, 2024-11-16-3.jpg</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=File:St._Joseph%E2%80%99s_Church,_Bloomfield,_2024-11-16-3.jpg&amp;diff=957980256&amp;oldid=957980249"/>
+		<updated>2024-11-17T00:32:49Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;span class=&quot;autocomment&quot;&gt;wbeditentity-update-languages-and-other-short:0||en&lt;/span&gt;&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 00:32, 17 November 2024&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr class=&quot;mw-diff-slot-header&quot; lang=&quot;en&quot;&gt;&lt;th colspan=&quot;4&quot;&gt;mediainfo&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;caption / en&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;caption / en&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;Former St. Joseph’s Church in the Bloomfield neighborhood of Pittsburgh&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Property / &lt;a title=&quot;d:Special:EntityPage/P571&quot; href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/P571&quot;&gt;inception&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;&lt;span&gt;&lt;b class=&quot;wb-details wb-time-details wb-time-rendered&quot;&gt;16 November 2024&lt;/b&gt;&lt;table class=&quot;wb-details wb-time-details&quot;&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-isotime&quot;&gt;Timestamp&lt;/th&gt;&lt;td class=&quot;wb-time-isotime&quot;&gt;+2024-11-16T00:00:00Z&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-timezone&quot;&gt;Timezone&lt;/th&gt;&lt;td class=&quot;wb-time-timezone&quot;&gt;+00:00&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-calendar&quot;&gt;Calendar&lt;/th&gt;&lt;td class=&quot;wb-time-calendar&quot;&gt;Gregorian&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-precision&quot;&gt;Precision&lt;/th&gt;&lt;td class=&quot;wb-time-precision&quot;&gt;1 day&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-before&quot;&gt;Before&lt;/th&gt;&lt;td class=&quot;wb-time-before&quot;&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-after&quot;&gt;After&lt;/th&gt;&lt;td class=&quot;wb-time-after&quot;&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/span&gt;&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Property / &lt;a title=&quot;d:Special:EntityPage/P571&quot; href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/P571&quot;&gt;inception&lt;/a&gt;: 16 November 2024 / rank&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;&lt;span&gt;Normal rank&lt;/span&gt;&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;!-- diff cache key commonswiki:diff:1.41:old-957980249:rev-957980256:lang-en --&gt;
+&lt;/table&gt;</summary>
+		<author><name>Cbaile19</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=File:Tower_of_St._Joseph%E2%80%99s_Church,_Bloomfield,_2024-11-16.jpg&amp;diff=957980252&amp;oldid=0</id>
+		<title>File:Tower of St. Joseph’s Church, Bloomfield, 2024-11-16.jpg</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=File:Tower_of_St._Joseph%E2%80%99s_Church,_Bloomfield,_2024-11-16.jpg&amp;diff=957980252&amp;oldid=0"/>
+		<updated>2024-11-17T00:32:49Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;a href=&quot;/wiki/User:Cbaile19&quot; class=&quot;mw-userlink&quot; title=&quot;User:Cbaile19&quot;&gt;&lt;bdi&gt;Cbaile19&lt;/bdi&gt;&lt;/a&gt; uploaded &lt;a href=&quot;/wiki/File:Tower_of_St._Joseph%E2%80%99s_Church,_Bloomfield,_2024-11-16.jpg&quot; title=&quot;File:Tower of St. Joseph’s Church, Bloomfield, 2024-11-16.jpg&quot;&gt;File:Tower of St. Joseph’s Church, Bloomfield, 2024-11-16.jpg&lt;/a&gt; Uploaded own work with UploadWizard&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;New page&lt;/b&gt;&lt;/p&gt;&lt;div&gt;=={{int:filedesc}}==&lt;br /&gt;
+{{Information&lt;br /&gt;
+|description={{en|1=Tower of the former St. Joseph’s Church in the Bloomfield neighborhood of Pittsburgh}}&lt;br /&gt;
+|date=2024-11-16 16:07:42&lt;br /&gt;
+|source={{own}}&lt;br /&gt;
+|author=[[User:Cbaile19|Cbaile19]]&lt;br /&gt;
+|permission=&lt;br /&gt;
+|other versions=&lt;br /&gt;
+}}&lt;br /&gt;
+&lt;br /&gt;
+=={{int:license-header}}==&lt;br /&gt;
+{{self|cc-zero}}&lt;br /&gt;
+&lt;br /&gt;
+[[Category:St. Joseph Church (Pittsburgh)]]&lt;/div&gt;</summary>
+		<author><name>Cbaile19</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=File:2023-10-09_Demo_in_Hannover_%22Solidarit%C3%A4t_mit_dem_angegriffenen_Staat_Israel_und_seiner_Bev%C3%B6lkerung%22,_32.jpg&amp;diff=957980248&amp;oldid=957980243</id>
+		<title>File:2023-10-09 Demo in Hannover &quot;Solidarität mit dem angegriffenen Staat Israel und seiner Bevölkerung&quot;, 32.jpg</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=File:2023-10-09_Demo_in_Hannover_%22Solidarit%C3%A4t_mit_dem_angegriffenen_Staat_Israel_und_seiner_Bev%C3%B6lkerung%22,_32.jpg&amp;diff=957980248&amp;oldid=957980243"/>
+		<updated>2024-11-17T00:32:48Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;span class=&quot;autocomment&quot;&gt;wbeditentity-update:0|&lt;/span&gt;&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 00:32, 17 November 2024&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr class=&quot;mw-diff-slot-header&quot; lang=&quot;en&quot;&gt;&lt;th colspan=&quot;4&quot;&gt;mediainfo&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Property / &lt;a title=&quot;d:Special:EntityPage/P180&quot; href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/P180&quot;&gt;depicts&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;&lt;span&gt;&lt;a title=&quot;d:Special:EntityPage/Q131225585&quot; href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/Q131225585&quot;&gt;Q131225585&lt;/a&gt;&lt;/span&gt;&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Property / &lt;a title=&quot;d:Special:EntityPage/P180&quot; href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/P180&quot;&gt;depicts&lt;/a&gt;: &lt;a title=&quot;d:Special:EntityPage/Q131225585&quot; href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/Q131225585&quot;&gt;Q131225585&lt;/a&gt; / rank&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;&lt;span&gt;Preferred rank&lt;/span&gt;&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;!-- diff cache key commonswiki:diff:1.41:old-957980243:rev-957980248:lang-en --&gt;
+&lt;/table&gt;</summary>
+		<author><name>Bernd Schwabe in Hannover</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=File:St._Joseph%E2%80%99s_Church,_Bloomfield,_2024-11-16-3.jpg&amp;diff=957980249&amp;oldid=0</id>
+		<title>File:St. Joseph’s Church, Bloomfield, 2024-11-16-3.jpg</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=File:St._Joseph%E2%80%99s_Church,_Bloomfield,_2024-11-16-3.jpg&amp;diff=957980249&amp;oldid=0"/>
+		<updated>2024-11-17T00:32:48Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;a href=&quot;/wiki/User:Cbaile19&quot; class=&quot;mw-userlink&quot; title=&quot;User:Cbaile19&quot;&gt;&lt;bdi&gt;Cbaile19&lt;/bdi&gt;&lt;/a&gt; uploaded &lt;a href=&quot;/wiki/File:St._Joseph%E2%80%99s_Church,_Bloomfield,_2024-11-16-3.jpg&quot; title=&quot;File:St. Joseph’s Church, Bloomfield, 2024-11-16-3.jpg&quot;&gt;File:St. Joseph’s Church, Bloomfield, 2024-11-16-3.jpg&lt;/a&gt; Uploaded own work with UploadWizard&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;New page&lt;/b&gt;&lt;/p&gt;&lt;div&gt;=={{int:filedesc}}==&lt;br /&gt;
+{{Information&lt;br /&gt;
+|description={{en|1=Former St. Joseph’s Church in the Bloomfield neighborhood of Pittsburgh}}&lt;br /&gt;
+|date=2024-11-16 16:07:33&lt;br /&gt;
+|source={{own}}&lt;br /&gt;
+|author=[[User:Cbaile19|Cbaile19]]&lt;br /&gt;
+|permission=&lt;br /&gt;
+|other versions=&lt;br /&gt;
+}}&lt;br /&gt;
+&lt;br /&gt;
+=={{int:license-header}}==&lt;br /&gt;
+{{self|cc-zero}}&lt;br /&gt;
+&lt;br /&gt;
+[[Category:St. Joseph Church (Pittsburgh)]]&lt;/div&gt;</summary>
+		<author><name>Cbaile19</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=File:Statue,_St._Joseph%E2%80%99s_Church,_Bloomfield,_2024-11-16.jpg&amp;diff=957980244&amp;oldid=957980234</id>
+		<title>File:Statue, St. Joseph’s Church, Bloomfield, 2024-11-16.jpg</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=File:Statue,_St._Joseph%E2%80%99s_Church,_Bloomfield,_2024-11-16.jpg&amp;diff=957980244&amp;oldid=957980234"/>
+		<updated>2024-11-17T00:32:47Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;span class=&quot;autocomment&quot;&gt;wbeditentity-update-languages-and-other-short:0||en&lt;/span&gt;&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 00:32, 17 November 2024&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr class=&quot;mw-diff-slot-header&quot; lang=&quot;en&quot;&gt;&lt;th colspan=&quot;4&quot;&gt;mediainfo&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;caption / en&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;caption / en&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;Detail of the former St. Joseph’s Church in the Bloomfield neighborhood of Pittsburgh&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Property / &lt;a title=&quot;d:Special:EntityPage/P571&quot; href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/P571&quot;&gt;inception&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;&lt;span&gt;&lt;b class=&quot;wb-details wb-time-details wb-time-rendered&quot;&gt;16 November 2024&lt;/b&gt;&lt;table class=&quot;wb-details wb-time-details&quot;&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-isotime&quot;&gt;Timestamp&lt;/th&gt;&lt;td class=&quot;wb-time-isotime&quot;&gt;+2024-11-16T00:00:00Z&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-timezone&quot;&gt;Timezone&lt;/th&gt;&lt;td class=&quot;wb-time-timezone&quot;&gt;+00:00&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-calendar&quot;&gt;Calendar&lt;/th&gt;&lt;td class=&quot;wb-time-calendar&quot;&gt;Gregorian&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-precision&quot;&gt;Precision&lt;/th&gt;&lt;td class=&quot;wb-time-precision&quot;&gt;1 day&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-before&quot;&gt;Before&lt;/th&gt;&lt;td class=&quot;wb-time-before&quot;&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-after&quot;&gt;After&lt;/th&gt;&lt;td class=&quot;wb-time-after&quot;&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/span&gt;&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Property / &lt;a title=&quot;d:Special:EntityPage/P571&quot; href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/P571&quot;&gt;inception&lt;/a&gt;: 16 November 2024 / rank&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;&lt;span&gt;Normal rank&lt;/span&gt;&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;!-- diff cache key commonswiki:diff:1.41:old-957980234:rev-957980244:lang-en --&gt;
+&lt;/table&gt;</summary>
+		<author><name>Cbaile19</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=File:Statue_and_window,_St._Joseph%E2%80%99s_Church,_Bloomfield,_2024-11-16.jpg&amp;diff=957980241&amp;oldid=957980233</id>
+		<title>File:Statue and window, St. Joseph’s Church, Bloomfield, 2024-11-16.jpg</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=File:Statue_and_window,_St._Joseph%E2%80%99s_Church,_Bloomfield,_2024-11-16.jpg&amp;diff=957980241&amp;oldid=957980233"/>
+		<updated>2024-11-17T00:32:47Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;span class=&quot;autocomment&quot;&gt;wbeditentity-update-languages-and-other-short:0||en&lt;/span&gt;&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 00:32, 17 November 2024&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr class=&quot;mw-diff-slot-header&quot; lang=&quot;en&quot;&gt;&lt;th colspan=&quot;4&quot;&gt;mediainfo&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;caption / en&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;caption / en&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;Detail of the former St. Joseph’s Church in the Bloomfield neighborhood of Pittsburgh&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Property / &lt;a title=&quot;d:Special:EntityPage/P571&quot; href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/P571&quot;&gt;inception&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;&lt;span&gt;&lt;b class=&quot;wb-details wb-time-details wb-time-rendered&quot;&gt;16 November 2024&lt;/b&gt;&lt;table class=&quot;wb-details wb-time-details&quot;&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-isotime&quot;&gt;Timestamp&lt;/th&gt;&lt;td class=&quot;wb-time-isotime&quot;&gt;+2024-11-16T00:00:00Z&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-timezone&quot;&gt;Timezone&lt;/th&gt;&lt;td class=&quot;wb-time-timezone&quot;&gt;+00:00&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-calendar&quot;&gt;Calendar&lt;/th&gt;&lt;td class=&quot;wb-time-calendar&quot;&gt;Gregorian&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-precision&quot;&gt;Precision&lt;/th&gt;&lt;td class=&quot;wb-time-precision&quot;&gt;1 day&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-before&quot;&gt;Before&lt;/th&gt;&lt;td class=&quot;wb-time-before&quot;&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-after&quot;&gt;After&lt;/th&gt;&lt;td class=&quot;wb-time-after&quot;&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/span&gt;&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Property / &lt;a title=&quot;d:Special:EntityPage/P571&quot; href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/P571&quot;&gt;inception&lt;/a&gt;: 16 November 2024 / rank&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;&lt;span&gt;Normal rank&lt;/span&gt;&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;!-- diff cache key commonswiki:diff:1.41:old-957980233:rev-957980241:lang-en --&gt;
+&lt;/table&gt;</summary>
+		<author><name>Cbaile19</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=File:2023-10-09_Demo_in_Hannover_%22Solidarit%C3%A4t_mit_dem_angegriffenen_Staat_Israel_und_seiner_Bev%C3%B6lkerung%22,_32.jpg&amp;diff=957980243&amp;oldid=0</id>
+		<title>File:2023-10-09 Demo in Hannover &quot;Solidarität mit dem angegriffenen Staat Israel und seiner Bevölkerung&quot;, 32.jpg</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=File:2023-10-09_Demo_in_Hannover_%22Solidarit%C3%A4t_mit_dem_angegriffenen_Staat_Israel_und_seiner_Bev%C3%B6lkerung%22,_32.jpg&amp;diff=957980243&amp;oldid=0"/>
+		<updated>2024-11-17T00:32:46Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;a href=&quot;/wiki/User:Bernd_Schwabe_in_Hannover&quot; class=&quot;mw-userlink&quot; title=&quot;User:Bernd Schwabe in Hannover&quot;&gt;&lt;bdi&gt;Bernd Schwabe in Hannover&lt;/bdi&gt;&lt;/a&gt; uploaded &lt;a href=&quot;/wiki/File:2023-10-09_Demo_in_Hannover_%22Solidarit%C3%A4t_mit_dem_angegriffenen_Staat_Israel_und_seiner_Bev%C3%B6lkerung%22,_32.jpg&quot; title=&quot;File:2023-10-09 Demo in Hannover &amp;quot;Solidarität mit dem angegriffenen Staat Israel und seiner Bevölkerung&amp;quot;, 32.jpg&quot;&gt;File:2023-10-09 Demo in Hannover &amp;quot;Solidarität mit dem angegriffenen Staat Israel und seiner Bevölkerung&amp;quot;, 32.jpg&lt;/a&gt; Uploaded using &lt;a href=&quot;/wiki/Commons:MOA&quot; class=&quot;mw-redirect&quot; title=&quot;Commons:MOA&quot;&gt;Commons Mobile App&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;New page&lt;/b&gt;&lt;/p&gt;&lt;div&gt;== {{int:filedesc}} ==&lt;br /&gt;
+{{Information&lt;br /&gt;
+|description={{de|1=Zwei Tage nach dem [[:de:Terrorangriff der Hamas auf Israel 2023|Terrorangriff der Hamas auf Israel 2023]] (&amp;quot;7. Oktober&amp;quot;) demonstrierten am 9. Oktober 2023 in der [[:de:Hannover|niedersächsischen Landeshauptstadt Hannover]] rund 400 Menschen friedlich auf dem Platz [[:de:Am Steintor (Hannover)|Am Steintor]] unter dem Motto&lt;br /&gt;
+{{Zitat|[[:de:Solidarität|Solidarität]] mit dem angegriffenen Staat Israel und seiner Bevölkerung.}}&lt;br /&gt;
+Die [[:de:Deutsch-Israelische Gesellschaft|Deutsch-Israelische Gesellschaft]] (DIG) hatte zu der Kungebung aufgerufen, unterstützt von dem Verein [[:de:Freundeskreis Hannover|Freundeskreis Hannover]]. Vortragende Sprecher waren unter anderem [[:de:Kay Schweigmann-Greve|Kay Schweigmann-Greve]] von der DIG, Niedersachsens Innenministerin [[:de:Daniela Behrens|Daniela Behrens]] (SPD), Regionspräsident [[:de:Steffen Krach|Steffen Krach]], Oberbürgermeister [[:de:Belit Onay|Belit Onay]] und der Präsident des Landesverbandes der Jüdischen Gemeinden in Niedersachsen [[:de:Michael Fürst|Michael Fürst]] ...}}&lt;br /&gt;
+|source={{own}}&lt;br /&gt;
+|author=[[User:{{Creator:Bernd Schwabe in Hannover}}|{{Creator:Bernd Schwabe in Hannover}}]]&lt;br /&gt;
+|date={{According to Exif data|2023-10-09}}&lt;br /&gt;
+}}&lt;br /&gt;
+{{Location|52.376088199722226|9.7319484}}&lt;br /&gt;
+&lt;br /&gt;
+== {{int:license-header}} ==&lt;br /&gt;
+{{self|cc-by-sa-4.0}}&lt;br /&gt;
+&lt;br /&gt;
+{{Uploaded from Mobile|platform=Android|version=5.0.2~05ffd123e}}&lt;br /&gt;
+&lt;br /&gt;
+[[Category:2023-10-09 Demo in Hannover &amp;quot;Solidarität mit dem angegriffenen Staat Israel und seiner Bevölkerung&amp;quot;]]&lt;/div&gt;</summary>
+		<author><name>Bernd Schwabe in Hannover</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=File:Veuve_%C3%A0_collier_d%27or_RBG_(1).jpg&amp;diff=957980240&amp;oldid=923370603</id>
+		<title>File:Veuve à collier d'or RBG (1).jpg</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=File:Veuve_%C3%A0_collier_d%27or_RBG_(1).jpg&amp;diff=957980240&amp;oldid=923370603"/>
+		<updated>2024-11-17T00:32:46Z</updated>
+
+		<summary type="html">&lt;p&gt;removed &lt;a href=&quot;/wiki/Category:Protected_areas_of_Niger&quot; title=&quot;Category:Protected areas of Niger&quot;&gt;Category:Protected areas of Niger&lt;/a&gt;; added &lt;a href=&quot;/wiki/Category:Gadab%C3%A9dji_Reserve&quot; title=&quot;Category:Gadabédji Reserve&quot;&gt;Category:Gadabédji Reserve&lt;/a&gt;&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 00:32, 17 November 2024&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 14:&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 14:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{Wiki Loves Earth 2024|ne}}&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{Wiki Loves Earth 2024|ne}}&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br /&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;−&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:&lt;del style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;Protected&lt;/del&gt; &lt;del style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;areas of Niger&lt;/del&gt;]]&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;Gadabédji&lt;/ins&gt; &lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;Reserve&lt;/ins&gt;]]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:Uploaded via Campaign:wle-ne]]&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:Uploaded via Campaign:wle-ne]]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;!-- diff cache key commonswiki:diff:1.41:old-923370603:rev-957980240:wikidiff2=table:1.14.1:ff290eae --&gt;
+&lt;/table&gt;</summary>
+		<author><name>Funke</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=File:St._Joseph%E2%80%99s_rectory,_Bloomfield,_2024-11-16.jpg&amp;diff=957980239&amp;oldid=957980231</id>
+		<title>File:St. Joseph’s rectory, Bloomfield, 2024-11-16.jpg</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=File:St._Joseph%E2%80%99s_rectory,_Bloomfield,_2024-11-16.jpg&amp;diff=957980239&amp;oldid=957980231"/>
+		<updated>2024-11-17T00:32:46Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;span class=&quot;autocomment&quot;&gt;wbeditentity-update-languages-and-other-short:0||en&lt;/span&gt;&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 00:32, 17 November 2024&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr class=&quot;mw-diff-slot-header&quot; lang=&quot;en&quot;&gt;&lt;th colspan=&quot;4&quot;&gt;mediainfo&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;caption / en&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;caption / en&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;Rectory of the former St. Joseph’s Church in the Bloomfield neighborhood of Pittsburgh&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Property / &lt;a title=&quot;d:Special:EntityPage/P571&quot; href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/P571&quot;&gt;inception&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;&lt;span&gt;&lt;b class=&quot;wb-details wb-time-details wb-time-rendered&quot;&gt;16 November 2024&lt;/b&gt;&lt;table class=&quot;wb-details wb-time-details&quot;&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-isotime&quot;&gt;Timestamp&lt;/th&gt;&lt;td class=&quot;wb-time-isotime&quot;&gt;+2024-11-16T00:00:00Z&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-timezone&quot;&gt;Timezone&lt;/th&gt;&lt;td class=&quot;wb-time-timezone&quot;&gt;+00:00&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-calendar&quot;&gt;Calendar&lt;/th&gt;&lt;td class=&quot;wb-time-calendar&quot;&gt;Gregorian&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-precision&quot;&gt;Precision&lt;/th&gt;&lt;td class=&quot;wb-time-precision&quot;&gt;1 day&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-before&quot;&gt;Before&lt;/th&gt;&lt;td class=&quot;wb-time-before&quot;&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-after&quot;&gt;After&lt;/th&gt;&lt;td class=&quot;wb-time-after&quot;&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/span&gt;&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Property / &lt;a title=&quot;d:Special:EntityPage/P571&quot; href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/P571&quot;&gt;inception&lt;/a&gt;: 16 November 2024 / rank&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;&lt;span&gt;Normal rank&lt;/span&gt;&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;!-- diff cache key commonswiki:diff:1.41:old-957980231:rev-957980239:lang-en --&gt;
+&lt;/table&gt;</summary>
+		<author><name>Cbaile19</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=File:Statue,_St._Joseph%E2%80%99s_Church,_Bloomfield,_2024-11-16.jpg&amp;diff=957980234&amp;oldid=0</id>
+		<title>File:Statue, St. Joseph’s Church, Bloomfield, 2024-11-16.jpg</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=File:Statue,_St._Joseph%E2%80%99s_Church,_Bloomfield,_2024-11-16.jpg&amp;diff=957980234&amp;oldid=0"/>
+		<updated>2024-11-17T00:32:46Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;a href=&quot;/wiki/User:Cbaile19&quot; class=&quot;mw-userlink&quot; title=&quot;User:Cbaile19&quot;&gt;&lt;bdi&gt;Cbaile19&lt;/bdi&gt;&lt;/a&gt; uploaded &lt;a href=&quot;/wiki/File:Statue,_St._Joseph%E2%80%99s_Church,_Bloomfield,_2024-11-16.jpg&quot; title=&quot;File:Statue, St. Joseph’s Church, Bloomfield, 2024-11-16.jpg&quot;&gt;File:Statue, St. Joseph’s Church, Bloomfield, 2024-11-16.jpg&lt;/a&gt; Uploaded own work with UploadWizard&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;New page&lt;/b&gt;&lt;/p&gt;&lt;div&gt;=={{int:filedesc}}==&lt;br /&gt;
+{{Information&lt;br /&gt;
+|description={{en|1=Detail of the former St. Joseph’s Church in the Bloomfield neighborhood of Pittsburgh}}&lt;br /&gt;
+|date=2024-11-16 16:28:58&lt;br /&gt;
+|source={{own}}&lt;br /&gt;
+|author=[[User:Cbaile19|Cbaile19]]&lt;br /&gt;
+|permission=&lt;br /&gt;
+|other versions=&lt;br /&gt;
+}}&lt;br /&gt;
+&lt;br /&gt;
+=={{int:license-header}}==&lt;br /&gt;
+{{self|cc-zero}}&lt;br /&gt;
+&lt;br /&gt;
+[[Category:St. Joseph Church (Pittsburgh)]]&lt;/div&gt;</summary>
+		<author><name>Cbaile19</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=Category:Rauwenhoffstraat_39,_Rotterdam&amp;diff=957980235&amp;oldid=957977787</id>
+		<title>Category:Rauwenhoffstraat 39, Rotterdam</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=Category:Rauwenhoffstraat_39,_Rotterdam&amp;diff=957980235&amp;oldid=957977787"/>
+		<updated>2024-11-17T00:32:46Z</updated>
+
+		<summary type="html">&lt;p&gt;added &lt;a href=&quot;/wiki/Category:Buildings_in_Nieuwe_Westen&quot; title=&quot;Category:Buildings in Nieuwe Westen&quot;&gt;Category:Buildings in Nieuwe Westen&lt;/a&gt;&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 00:32, 17 November 2024&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 1:&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 1:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{Wikidata Infobox}}&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{Wikidata Infobox}}&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;'''Rauwenhoffstraat 39, Rotterdam''' in de wijk het Nieuwe Westen is een oud schoolgebouw uit de jaren 1920, waar sinds 1972 het culturele centrum voor Surinamers in Rotterdam Wi Masanga (=Onze Hut) is gevestigd.&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;'''Rauwenhoffstraat 39, Rotterdam''' in de wijk het Nieuwe Westen is een oud schoolgebouw uit de jaren 1920, waar sinds 1972 het culturele centrum voor Surinamers in Rotterdam Wi Masanga (=Onze Hut) is gevestigd.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty diff-side-deleted&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty diff-side-deleted&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:Buildings in Nieuwe Westen]]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;!-- diff cache key commonswiki:diff:1.41:old-957977787:rev-957980235:wikidiff2=table:1.14.1:ff290eae --&gt;
+&lt;/table&gt;</summary>
+		<author><name>Mdd</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=File:Statue_and_window,_St._Joseph%E2%80%99s_Church,_Bloomfield,_2024-11-16.jpg&amp;diff=957980233&amp;oldid=0</id>
+		<title>File:Statue and window, St. Joseph’s Church, Bloomfield, 2024-11-16.jpg</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=File:Statue_and_window,_St._Joseph%E2%80%99s_Church,_Bloomfield,_2024-11-16.jpg&amp;diff=957980233&amp;oldid=0"/>
+		<updated>2024-11-17T00:32:45Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;a href=&quot;/wiki/User:Cbaile19&quot; class=&quot;mw-userlink&quot; title=&quot;User:Cbaile19&quot;&gt;&lt;bdi&gt;Cbaile19&lt;/bdi&gt;&lt;/a&gt; uploaded &lt;a href=&quot;/wiki/File:Statue_and_window,_St._Joseph%E2%80%99s_Church,_Bloomfield,_2024-11-16.jpg&quot; title=&quot;File:Statue and window, St. Joseph’s Church, Bloomfield, 2024-11-16.jpg&quot;&gt;File:Statue and window, St. Joseph’s Church, Bloomfield, 2024-11-16.jpg&lt;/a&gt; Uploaded own work with UploadWizard&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;New page&lt;/b&gt;&lt;/p&gt;&lt;div&gt;=={{int:filedesc}}==&lt;br /&gt;
+{{Information&lt;br /&gt;
+|description={{en|1=Detail of the former St. Joseph’s Church in the Bloomfield neighborhood of Pittsburgh}}&lt;br /&gt;
+|date=2024-11-16 16:28:51&lt;br /&gt;
+|source={{own}}&lt;br /&gt;
+|author=[[User:Cbaile19|Cbaile19]]&lt;br /&gt;
+|permission=&lt;br /&gt;
+|other versions=&lt;br /&gt;
+}}&lt;br /&gt;
+&lt;br /&gt;
+=={{int:license-header}}==&lt;br /&gt;
+{{self|cc-zero}}&lt;br /&gt;
+&lt;br /&gt;
+[[Category:St. Joseph Church (Pittsburgh)]]&lt;/div&gt;</summary>
+		<author><name>Cbaile19</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=File:St._Joseph%E2%80%99s_rectory,_Bloomfield,_2024-11-16.jpg&amp;diff=957980231&amp;oldid=0</id>
+		<title>File:St. Joseph’s rectory, Bloomfield, 2024-11-16.jpg</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=File:St._Joseph%E2%80%99s_rectory,_Bloomfield,_2024-11-16.jpg&amp;diff=957980231&amp;oldid=0"/>
+		<updated>2024-11-17T00:32:45Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;a href=&quot;/wiki/User:Cbaile19&quot; class=&quot;mw-userlink&quot; title=&quot;User:Cbaile19&quot;&gt;&lt;bdi&gt;Cbaile19&lt;/bdi&gt;&lt;/a&gt; uploaded &lt;a href=&quot;/wiki/File:St._Joseph%E2%80%99s_rectory,_Bloomfield,_2024-11-16.jpg&quot; title=&quot;File:St. Joseph’s rectory, Bloomfield, 2024-11-16.jpg&quot;&gt;File:St. Joseph’s rectory, Bloomfield, 2024-11-16.jpg&lt;/a&gt; Uploaded own work with UploadWizard&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;New page&lt;/b&gt;&lt;/p&gt;&lt;div&gt;=={{int:filedesc}}==&lt;br /&gt;
+{{Information&lt;br /&gt;
+|description={{en|1=Rectory of the former St. Joseph’s Church in the Bloomfield neighborhood of Pittsburgh}}&lt;br /&gt;
+|date=2024-11-16 16:23:45&lt;br /&gt;
+|source={{own}}&lt;br /&gt;
+|author=[[User:Cbaile19|Cbaile19]]&lt;br /&gt;
+|permission=&lt;br /&gt;
+|other versions=&lt;br /&gt;
+}}&lt;br /&gt;
+&lt;br /&gt;
+=={{int:license-header}}==&lt;br /&gt;
+{{self|cc-zero}}&lt;br /&gt;
+&lt;br /&gt;
+[[Category:St. Joseph Church (Pittsburgh)]]&lt;/div&gt;</summary>
+		<author><name>Cbaile19</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=File:St._Joseph%E2%80%99s_Church,_Bloomfield,_2024-11-16-1.jpg&amp;diff=957980224&amp;oldid=957980217</id>
+		<title>File:St. Joseph’s Church, Bloomfield, 2024-11-16-1.jpg</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=File:St._Joseph%E2%80%99s_Church,_Bloomfield,_2024-11-16-1.jpg&amp;diff=957980224&amp;oldid=957980217"/>
+		<updated>2024-11-17T00:32:44Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;span class=&quot;autocomment&quot;&gt;wbeditentity-update-languages-and-other-short:0||en&lt;/span&gt;&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 00:32, 17 November 2024&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr class=&quot;mw-diff-slot-header&quot; lang=&quot;en&quot;&gt;&lt;th colspan=&quot;4&quot;&gt;mediainfo&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;caption / en&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;caption / en&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;Former St. Joseph’s Church in the Bloomfield neighborhood of Pittsburgh&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Property / &lt;a title=&quot;d:Special:EntityPage/P571&quot; href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/P571&quot;&gt;inception&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;&lt;span&gt;&lt;b class=&quot;wb-details wb-time-details wb-time-rendered&quot;&gt;16 November 2024&lt;/b&gt;&lt;table class=&quot;wb-details wb-time-details&quot;&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-isotime&quot;&gt;Timestamp&lt;/th&gt;&lt;td class=&quot;wb-time-isotime&quot;&gt;+2024-11-16T00:00:00Z&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-timezone&quot;&gt;Timezone&lt;/th&gt;&lt;td class=&quot;wb-time-timezone&quot;&gt;+00:00&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-calendar&quot;&gt;Calendar&lt;/th&gt;&lt;td class=&quot;wb-time-calendar&quot;&gt;Gregorian&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-precision&quot;&gt;Precision&lt;/th&gt;&lt;td class=&quot;wb-time-precision&quot;&gt;1 day&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-before&quot;&gt;Before&lt;/th&gt;&lt;td class=&quot;wb-time-before&quot;&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-after&quot;&gt;After&lt;/th&gt;&lt;td class=&quot;wb-time-after&quot;&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/span&gt;&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Property / &lt;a title=&quot;d:Special:EntityPage/P571&quot; href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/P571&quot;&gt;inception&lt;/a&gt;: 16 November 2024 / rank&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;&lt;span&gt;Normal rank&lt;/span&gt;&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;!-- diff cache key commonswiki:diff:1.41:old-957980217:rev-957980224:lang-en --&gt;
+&lt;/table&gt;</summary>
+		<author><name>Cbaile19</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=File:Entrance,_St._Joseph%E2%80%99s_Church,_Bloomfield,_2024-11-16.jpg&amp;diff=957980222&amp;oldid=957980214</id>
+		<title>File:Entrance, St. Joseph’s Church, Bloomfield, 2024-11-16.jpg</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=File:Entrance,_St._Joseph%E2%80%99s_Church,_Bloomfield,_2024-11-16.jpg&amp;diff=957980222&amp;oldid=957980214"/>
+		<updated>2024-11-17T00:32:43Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;span class=&quot;autocomment&quot;&gt;wbeditentity-update-languages-and-other-short:0||en&lt;/span&gt;&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 00:32, 17 November 2024&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr class=&quot;mw-diff-slot-header&quot; lang=&quot;en&quot;&gt;&lt;th colspan=&quot;4&quot;&gt;mediainfo&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;caption / en&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;caption / en&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;Entrance to the former St. Joseph’s Church in the Bloomfield neighborhood of Pittsburgh&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Property / &lt;a title=&quot;d:Special:EntityPage/P571&quot; href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/P571&quot;&gt;inception&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;&lt;span&gt;&lt;b class=&quot;wb-details wb-time-details wb-time-rendered&quot;&gt;16 November 2024&lt;/b&gt;&lt;table class=&quot;wb-details wb-time-details&quot;&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-isotime&quot;&gt;Timestamp&lt;/th&gt;&lt;td class=&quot;wb-time-isotime&quot;&gt;+2024-11-16T00:00:00Z&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-timezone&quot;&gt;Timezone&lt;/th&gt;&lt;td class=&quot;wb-time-timezone&quot;&gt;+00:00&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-calendar&quot;&gt;Calendar&lt;/th&gt;&lt;td class=&quot;wb-time-calendar&quot;&gt;Gregorian&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-precision&quot;&gt;Precision&lt;/th&gt;&lt;td class=&quot;wb-time-precision&quot;&gt;1 day&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-before&quot;&gt;Before&lt;/th&gt;&lt;td class=&quot;wb-time-before&quot;&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-after&quot;&gt;After&lt;/th&gt;&lt;td class=&quot;wb-time-after&quot;&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/span&gt;&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Property / &lt;a title=&quot;d:Special:EntityPage/P571&quot; href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/P571&quot;&gt;inception&lt;/a&gt;: 16 November 2024 / rank&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;&lt;span&gt;Normal rank&lt;/span&gt;&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;!-- diff cache key commonswiki:diff:1.41:old-957980214:rev-957980222:lang-en --&gt;
+&lt;/table&gt;</summary>
+		<author><name>Cbaile19</name></author>
+	</entry>
+	<entry>
+		<id>https://commons.wikimedia.org/w/index.php?title=File:St._Joseph%E2%80%99s_Church,_Bloomfield,_2024-11-16-2.jpg&amp;diff=957980221&amp;oldid=957980212</id>
+		<title>File:St. Joseph’s Church, Bloomfield, 2024-11-16-2.jpg</title>
+		<link rel="alternate" type="text/html" href="https://commons.wikimedia.org/w/index.php?title=File:St._Joseph%E2%80%99s_Church,_Bloomfield,_2024-11-16-2.jpg&amp;diff=957980221&amp;oldid=957980212"/>
+		<updated>2024-11-17T00:32:43Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;span class=&quot;autocomment&quot;&gt;wbeditentity-update-languages-and-other-short:0||en&lt;/span&gt;&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;Revision as of 00:32, 17 November 2024&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr class=&quot;mw-diff-slot-header&quot; lang=&quot;en&quot;&gt;&lt;th colspan=&quot;4&quot;&gt;mediainfo&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;caption / en&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;caption / en&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;Former St. Joseph’s Church in the Bloomfield neighborhood of Pittsburgh&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Property / &lt;a title=&quot;d:Special:EntityPage/P571&quot; href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/P571&quot;&gt;inception&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;&lt;span&gt;&lt;b class=&quot;wb-details wb-time-details wb-time-rendered&quot;&gt;16 November 2024&lt;/b&gt;&lt;table class=&quot;wb-details wb-time-details&quot;&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-isotime&quot;&gt;Timestamp&lt;/th&gt;&lt;td class=&quot;wb-time-isotime&quot;&gt;+2024-11-16T00:00:00Z&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-timezone&quot;&gt;Timezone&lt;/th&gt;&lt;td class=&quot;wb-time-timezone&quot;&gt;+00:00&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-calendar&quot;&gt;Calendar&lt;/th&gt;&lt;td class=&quot;wb-time-calendar&quot;&gt;Gregorian&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-precision&quot;&gt;Precision&lt;/th&gt;&lt;td class=&quot;wb-time-precision&quot;&gt;1 day&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-before&quot;&gt;Before&lt;/th&gt;&lt;td class=&quot;wb-time-before&quot;&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;wb-time-after&quot;&gt;After&lt;/th&gt;&lt;td class=&quot;wb-time-after&quot;&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/span&gt;&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Property / &lt;a title=&quot;d:Special:EntityPage/P571&quot; href=&quot;https://www.wikidata.org/wiki/Special:EntityPage/P571&quot;&gt;inception&lt;/a&gt;: 16 November 2024 / rank&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;&lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;&lt;span&gt;Normal rank&lt;/span&gt;&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;!-- diff cache key commonswiki:diff:1.41:old-957980212:rev-957980221:lang-en --&gt;
+&lt;/table&gt;</summary>
+		<author><name>Cbaile19</name></author>
+	</entry>
+</feed>
